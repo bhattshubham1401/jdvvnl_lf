@@ -164,7 +164,7 @@ class DataTransformation:
                         weather_data = data_from_weather_api(site, startDate, endDate)
                         if not weather_data.empty:
                             # Convert the creation_time columns to datetime if they are not already
-                            weather_data['creation_time'] = pd.to_datetime(weather_data['creation_time_iso'])
+                            weather_data['creation_time'] = pd.to_datetime(weather_data['time'])
                             sensor_df['creation_time'] = pd.to_datetime(sensor_df['creation_time'])
                             sensor_df['creation_time_rounded'] = sensor_df['creation_time'].dt.round('H')
                             # Merge sensor_df with weather_data

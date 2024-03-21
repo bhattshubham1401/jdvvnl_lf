@@ -2,6 +2,7 @@
 
 import json
 import os
+import traceback
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any
@@ -493,8 +494,75 @@ def sliderPlot(df1):
 
 
 @ensure_annotations
+# def store_predictions_in_mongodb(sensor_id, dates, predictions):
+#     try:
+#         logger.info("Calling DB configuration")
+#
+#         # Load the labeled_to_original_mapping from a JSON file
+#         with open("encoded_to_sensor_mapping.json", "r") as file:
+#             labeled_to_original_mapping = json.load(file)
+#
+#         db = os.getenv("db")
+#         host = os.getenv("host")
+#         port = os.getenv("port")
+#         collection_name = os.getenv("collection")
+#
+#         mongo_url = f"mongodb://{host}:{port}"
+#         client = MongoClient(mongo_url)
+#         db1 = client[db]
+#         collection = db1[collection_name]
+#
+#         unique_dates = sorted(set(dates.date))
+#
+#         for date in unique_dates:
+#             date_str = date.strftime('%Y-%m-%d')
+#             original_sensor_id = labeled_to_original_mapping.get(str(sensor_id), str(sensor_id))
+#             document_id = f"{original_sensor_id}_{date_str}"
+#
+#             data = {
+#                 "_id": document_id,
+#                 "sensor_id": original_sensor_id,
+#                 "creation_time": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+#                 "day": date.strftime('%d'),
+#                 "month": date.strftime('%m'),
+#                 "year": date.strftime('%Y'),
+#                 "millisecond": int(datetime.now().timestamp() * 1000),
+#                 "data": {}
+#             }
+#
+#             # Filter predictions for the current date
+#             date_predictions = predictions[dates.date == date]
+#
+#             # Populate the 'data' dictionary with hourly predictions
+#             for i, prediction in enumerate(date_predictions):
+#                 prediction_float = round(float(prediction), 4)
+#                 data["data"][str(i)] = {
+#                     "pre_kwh": prediction_float,
+#                     "pre_current": 0.0,
+#                     "pre_load": 0.0,
+#                     "act_kwh": 0.0,
+#                     "act_load": 0.0
+#                 }
+#
+#             data_dict = {key: float(value) if isinstance(value, (float, np.integer, np.floating)) else value
+#                          for key, value in data.items()}
+#
+#             # Insert data into MongoDB
+#             collection.insert_one(data_dict)
+#
+#         client.close()
+#         logger.info("Data stored successfully")
+#         return
+#
+#     except Exception as e:
+#         print(e)
+
 def store_predictions_in_mongodb(sensor_id, dates, predictions):
     try:
+        print(sensor_id)
+        print(type(sensor_id))
+        sensor_id = round(sensor_id)
+        print(type(sensor_id))
         logger.info("Calling DB configuration")
 
         # Load the labeled_to_original_mapping from a JSON file
@@ -504,7 +572,7 @@ def store_predictions_in_mongodb(sensor_id, dates, predictions):
         db = os.getenv("db")
         host = os.getenv("host")
         port = os.getenv("port")
-        collection_name = os.getenv("collection")
+        collection_name = os.getenv("collection4")
 
         mongo_url = f"mongodb://{host}:{port}"
         client = MongoClient(mongo_url)
@@ -516,6 +584,8 @@ def store_predictions_in_mongodb(sensor_id, dates, predictions):
         for date in unique_dates:
             date_str = date.strftime('%Y-%m-%d')
             original_sensor_id = labeled_to_original_mapping.get(str(sensor_id), str(sensor_id))
+            print(original_sensor_id)
+            # return
             document_id = f"{original_sensor_id}_{date_str}"
 
             data = {
@@ -530,31 +600,29 @@ def store_predictions_in_mongodb(sensor_id, dates, predictions):
             }
 
             # Filter predictions for the current date
-            date_predictions = predictions[dates.date == date]
+            date_predictions = list(predictions[dates.date == date])
 
             # Populate the 'data' dictionary with hourly predictions
             for i, prediction in enumerate(date_predictions):
                 prediction_float = round(float(prediction), 4)
                 data["data"][str(i)] = {
-                    "pre_kwh": prediction_float,
+                    "pre_kwh": float(prediction_float),
                     "pre_current": 0.0,
                     "pre_load": 0.0,
                     "act_kwh": 0.0,
                     "act_load": 0.0
                 }
 
-            data_dict = {key: float(value) if isinstance(value, (float, np.integer, np.floating)) else value
-                         for key, value in data.items()}
-
             # Insert data into MongoDB
-            collection.insert_one(data_dict)
+            collection.insert_one(data)
 
         client.close()
         logger.info("Data stored successfully")
         return
 
     except Exception as e:
-        print(e)
+        logger.error(f"Error in storing data to MongoDB: {e}")
+        print(traceback.format_exc())
 
 
 def create_features(hourly_data):
@@ -680,10 +748,7 @@ def data_from_weather_api(site, startDate, endDate):
                 "$lte": end_date
             },
             "site_id": site
-        },
-            {
-                "time": 0
-            })
+        })
         for doc in query:
             documents.append(doc)
             # print(documents)
@@ -749,11 +814,38 @@ def data_from_weather_api(site, startDate, endDate):
 #         print(e)
 
 @ensure_annotations
-def holidays_list(end_date_str, start_date_str):
-    logger.info("Holidays list")
+# def holidays_list(end_date_str, start_date_str):
+#     logger.info("Holidays list")
+#     try:
+#         print("")
+#         end_date = datetime.strptime(start_date_str, '%Y-%m-%d %H:%M:%S').date()
+#         start_date = datetime.strptime(end_date_str, '%Y-%m-%d %H:%M:%S').date()
+#         holiday_list = []
+#
+#         # Get the holiday dates in India for the specified year
+#         india_holidays = holidays.CountryHoliday('India', years=start_date.year)
+#
+#         # Iterate through each date from start_date to end_date
+#         current_date = start_date
+#         while current_date <= end_date:
+#             # Check if the current date is a holiday in India or a Sunday
+#             if current_date in india_holidays or current_date.weekday() == 6:
+#                 holiday_list.append(current_date)
+#             current_date += timedelta(days=1)
+#
+#         return holiday_list
+#
+#     except Exception as e:
+#         print(e)
+
+def holidays_list(start_date_str, end_date_str):
+    logger.info("Generating holidays list")
     try:
-        end_date = datetime.strptime(start_date_str, '%Y-%m-%d %H:%M:%S').date()
-        start_date = datetime.strptime(end_date_str, '%Y-%m-%d %H:%M:%S').date()
+        # start_date = datetime.strptime(start_date_str, '%Y-%m-%d').date()
+        # end_date = datetime.strptime(end_date_str, '%Y-%m-%d').date()
+        start_date = start_date_str.date()
+        end_date = end_date_str.date()
+
         holiday_list = []
 
         # Get the holiday dates in India for the specified year
@@ -770,7 +862,8 @@ def holidays_list(end_date_str, start_date_str):
         return holiday_list
 
     except Exception as e:
-        print(e)
+        logger.error(f"Error in holidays_list: {e}")
+        return None
 
 
 def dataset_count():
@@ -961,3 +1054,25 @@ def sensor_data(id_lst):
         return df
     except Exception as e:
         print(e)
+
+
+@ensure_annotations
+def add_lagsV1(df: pd.DataFrame) -> pd.DataFrame:
+    try:
+        target_map = df['consumed_unit'].to_dict()
+
+        # 15 minutes, 30 minutes, 1 day, 7 days, 15 days
+        df['lag1'] = df['consumed_unit'].shift(1)
+        df['lag2'] = df['consumed_unit'].shift(2)
+        df['lag3'] = df['consumed_unit'].shift(96)  # 96 periods in 1 day (24 hours * 4 quarters)
+        df['lag4'] = df['consumed_unit'].shift(672)  # 672 periods in 7 days (7 days * 24 hours * 4 quarters)
+        df['lag5'] = df['consumed_unit'].shift(1440)  # 1440 periods in 15 days (15 days * 24 hours * 4 quarters)
+
+        # Fill missing values with zeros or NaNs
+        df[['lag1', 'lag2', 'lag3', 'lag4', 'lag5']] = df[['lag1', 'lag2', 'lag3', 'lag4', 'lag5']].fillna(0)
+    except KeyError as e:
+        print(f"Error: {e}. 'consumed_unit' column not found in the DataFrame.")
+    except Exception as ex:
+        print(f"An unexpected error occurred: {ex}")
+
+    return df
