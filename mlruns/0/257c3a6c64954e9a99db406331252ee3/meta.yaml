@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/257c3a6c64954e9a99db406331252ee3/artifacts
+end_time: 1711627504490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 257c3a6c64954e9a99db406331252ee3
+run_name: nimble-foal-939
+run_uuid: 257c3a6c64954e9a99db406331252ee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627503909
+status: 3
+tags: []
+user_id: Shubham Bhatt

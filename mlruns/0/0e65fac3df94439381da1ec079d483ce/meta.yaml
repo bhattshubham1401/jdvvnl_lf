@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0e65fac3df94439381da1ec079d483ce/artifacts
+end_time: 1711604777208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e65fac3df94439381da1ec079d483ce
+run_name: chill-loon-506
+run_uuid: 0e65fac3df94439381da1ec079d483ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604775316
+status: 3
+tags: []
+user_id: Shubham Bhatt

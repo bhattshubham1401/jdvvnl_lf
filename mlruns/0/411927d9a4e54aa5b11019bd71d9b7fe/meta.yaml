@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/411927d9a4e54aa5b11019bd71d9b7fe/artifacts
+end_time: 1711627495314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 411927d9a4e54aa5b11019bd71d9b7fe
+run_name: languid-squid-197
+run_uuid: 411927d9a4e54aa5b11019bd71d9b7fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627494724
+status: 3
+tags: []
+user_id: Shubham Bhatt

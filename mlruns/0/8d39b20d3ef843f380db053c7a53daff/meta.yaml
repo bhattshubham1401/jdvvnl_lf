@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8d39b20d3ef843f380db053c7a53daff/artifacts
+end_time: 1711627470709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d39b20d3ef843f380db053c7a53daff
+run_name: unique-horse-6
+run_uuid: 8d39b20d3ef843f380db053c7a53daff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627469669
+status: 3
+tags: []
+user_id: Shubham Bhatt

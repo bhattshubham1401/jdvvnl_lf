@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ccaa6216a91e4668886e4060bb0dfe14/artifacts
+end_time: 1711627460209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccaa6216a91e4668886e4060bb0dfe14
+run_name: receptive-asp-732
+run_uuid: ccaa6216a91e4668886e4060bb0dfe14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627459626
+status: 3
+tags: []
+user_id: Shubham Bhatt

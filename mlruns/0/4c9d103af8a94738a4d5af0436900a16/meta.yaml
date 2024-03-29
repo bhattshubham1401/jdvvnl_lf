@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4c9d103af8a94738a4d5af0436900a16/artifacts
+end_time: 1711627561328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c9d103af8a94738a4d5af0436900a16
+run_name: capricious-doe-29
+run_uuid: 4c9d103af8a94738a4d5af0436900a16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627560788
+status: 3
+tags: []
+user_id: Shubham Bhatt

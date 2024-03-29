@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8275a3324d3a4983b1394eef47c58f05/artifacts
+end_time: 1711604929925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8275a3324d3a4983b1394eef47c58f05
+run_name: bouncy-conch-405
+run_uuid: 8275a3324d3a4983b1394eef47c58f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604926655
+status: 3
+tags: []
+user_id: Shubham Bhatt

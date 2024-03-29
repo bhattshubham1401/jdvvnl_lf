@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c30dfac997d542c2856b3b04b02ebffc/artifacts
+end_time: 1711601272745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c30dfac997d542c2856b3b04b02ebffc
+run_name: learned-hare-705
+run_uuid: c30dfac997d542c2856b3b04b02ebffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601272276
+status: 3
+tags: []
+user_id: Shubham Bhatt

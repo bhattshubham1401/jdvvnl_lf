@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/fa58358840334708957c483d2c08ef76/artifacts
+end_time: 1711601198466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa58358840334708957c483d2c08ef76
+run_name: mysterious-zebra-675
+run_uuid: fa58358840334708957c483d2c08ef76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601197880
+status: 3
+tags: []
+user_id: Shubham Bhatt

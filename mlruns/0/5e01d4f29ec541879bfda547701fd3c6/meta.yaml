@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5e01d4f29ec541879bfda547701fd3c6/artifacts
+end_time: 1711605027800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e01d4f29ec541879bfda547701fd3c6
+run_name: capricious-hog-926
+run_uuid: 5e01d4f29ec541879bfda547701fd3c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711605026333
+status: 3
+tags: []
+user_id: Shubham Bhatt

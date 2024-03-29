@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/fe90dce4d2d244e491c61cb73199eb8e/artifacts
+end_time: 1711627584573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe90dce4d2d244e491c61cb73199eb8e
+run_name: lyrical-goose-298
+run_uuid: fe90dce4d2d244e491c61cb73199eb8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627584049
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8f09f3ca82b54e6ea0edf210ac401b01/artifacts
+end_time: 1711627525593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f09f3ca82b54e6ea0edf210ac401b01
+run_name: persistent-crane-312
+run_uuid: 8f09f3ca82b54e6ea0edf210ac401b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627525050
+status: 3
+tags: []
+user_id: Shubham Bhatt

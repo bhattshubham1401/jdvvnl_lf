@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/01da097565c34b3baaf34e7aec276b21/artifacts
+end_time: 1711601253333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01da097565c34b3baaf34e7aec276b21
+run_name: welcoming-sponge-572
+run_uuid: 01da097565c34b3baaf34e7aec276b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601252845
+status: 3
+tags: []
+user_id: Shubham Bhatt

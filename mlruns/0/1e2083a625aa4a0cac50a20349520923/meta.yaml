@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1e2083a625aa4a0cac50a20349520923/artifacts
+end_time: 1711604792555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e2083a625aa4a0cac50a20349520923
+run_name: fun-chimp-814
+run_uuid: 1e2083a625aa4a0cac50a20349520923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604791083
+status: 3
+tags: []
+user_id: Shubham Bhatt

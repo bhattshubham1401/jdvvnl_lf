@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5b5bb8e338e440f9b598203bc6c7855c/artifacts
+end_time: 1711601221511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b5bb8e338e440f9b598203bc6c7855c
+run_name: unique-hog-131
+run_uuid: 5b5bb8e338e440f9b598203bc6c7855c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601221034
+status: 3
+tags: []
+user_id: Shubham Bhatt

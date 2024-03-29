@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/688c5554df2a441ab262dc64b442d541/artifacts
+end_time: 1711601222139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 688c5554df2a441ab262dc64b442d541
+run_name: upset-moose-756
+run_uuid: 688c5554df2a441ab262dc64b442d541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601221547
+status: 3
+tags: []
+user_id: Shubham Bhatt

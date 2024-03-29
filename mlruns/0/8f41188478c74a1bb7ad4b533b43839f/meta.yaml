@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8f41188478c74a1bb7ad4b533b43839f/artifacts
+end_time: 1711627540155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f41188478c74a1bb7ad4b533b43839f
+run_name: capable-asp-590
+run_uuid: 8f41188478c74a1bb7ad4b533b43839f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627539530
+status: 3
+tags: []
+user_id: Shubham Bhatt

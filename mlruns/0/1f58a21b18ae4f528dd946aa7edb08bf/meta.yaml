@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1f58a21b18ae4f528dd946aa7edb08bf/artifacts
+end_time: 1711601238962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f58a21b18ae4f528dd946aa7edb08bf
+run_name: judicious-chimp-91
+run_uuid: 1f58a21b18ae4f528dd946aa7edb08bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601238494
+status: 3
+tags: []
+user_id: Shubham Bhatt

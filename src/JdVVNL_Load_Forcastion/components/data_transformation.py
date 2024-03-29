@@ -5,13 +5,9 @@ import warnings
 from datetime import datetime, date as datetime_date
 
 import numpy as np
-from sklearn.decomposition import PCA
-
-import holidays
 from matplotlib import pyplot as plt
 from sklearn.model_selection import TimeSeriesSplit
 from sklearn.preprocessing import LabelEncoder
-from statsmodels.tsa.seasonal import seasonal_decompose
 
 from src.JdVVNL_Load_Forcastion import logger
 from src.JdVVNL_Load_Forcastion.entity.config_entity import DataTransformationConfig
@@ -19,7 +15,6 @@ from src.JdVVNL_Load_Forcastion.entity.config_entity import DataTransformationCo
 warnings.filterwarnings("ignore")
 import pandas as pd
 import seaborn as sns
-import threading
 color_pal = sns.color_palette()
 plt.style.use('fivethirtyeight')
 from src.JdVVNL_Load_Forcastion.utils.common import add_lags, create_features, data_from_weather_api, \
@@ -31,52 +26,37 @@ class DataTransformation:
         self.config = config
         self.le = LabelEncoder()
 
-    # def process_parquet_files(self) -> None:
-    #     parquet_files = [file for file in os.listdir(self.config.data_file_path) if file.startswith("circle_id")]
-    #     threads = []
-    #     for file_name in parquet_files:
-    #         thread = threading.Thread(target=self.initiate_data_transformation, args=(os.path.join(self.config.data_file_path, file_name),))
-    #         print(thread)
-    #         threads.append(thread)
-    #         thread.start()
-    #
-    #     # Wait for all threads to complete
-    #     for thread in threads:
-    #         thread.join()
-    #
-    #     print("All files processed.")
-
     def initiate_data_transformation(self):
         try:
             data_files = [file for file in os.listdir(self.config.data_file_path) if file.startswith("circle_id")]
-            endDate = '2024-01-01 00:00:00'
-            startDate = '2024-02-26 23:59:59'
-            holiday_lst = holidays_list(endDate, startDate)
+            startDate = '2024-01-01 00:00:00'
+            endDate = '2024-02-25 23:00:00'
+
+            startDate = datetime.strptime(startDate, '%Y-%m-%d %H:%M:%S')
+            endDate = datetime.strptime(endDate, '%Y-%m-%d %H:%M:%S')
+            holiday_lst = holidays_list(startDate, endDate)
 
             for data_file in data_files:
+                pd.set_option('display.max_columns', 500)
+                pd.set_option('display.max_rows', 5000)
                 df1 = pd.read_parquet(os.path.join(self.config.data_file_path, data_file))
-                complete_df = df1[['sensor_id', 'creation_time', 'opening_KWh']]
-                complete_df = complete_df.round(2)
+                complete_df = df1[['sensor_id', 'creation_time', 'opening_KWh']].round(2)
                 complete_df['creation_time'] = pd.to_datetime(complete_df['creation_time'])
 
-                s_data = sensor_data(complete_df['sensor_id'].unique())
-                dframe = pd.merge(s_data, complete_df, on='sensor_id', how="inner")
-                dframe.set_index('creation_time', inplace=True, drop=True)
-                pd.set_option('display.max_columns', 500)
+                sen_list = list(complete_df['sensor_id'].unique())
+                s_data = sensor_data(sen_list)
+                # print(len(s_data['site_id'].unique()))
+                dframe = s_data.merge(complete_df, on='sensor_id', how="inner")
+                dframe['is_holiday'] = dframe['creation_time'].dt.date.isin(holiday_lst).astype(int)
+                dframe.set_index('creation_time', inplace=True)
                 dframe['label_sensor'] = self.le.fit_transform(dframe['sensor_id'])
                 sensor_ids = dframe['label_sensor'].unique()
-
-                # Create a dictionary to map encoded values to original sensor IDs
                 self.sensorDecode(sensor_ids)
-
                 outlier_dict = {}
                 for s_id, data in dframe.groupby('label_sensor'):
                     s_df = data.copy()
-                    print("====================================")
 
-                    print(s_df)
-
-                    if len(s_df) > 3000:  # small dataset
+                    if len(s_df) > 3000:
                         description = s_df.describe()
                         Q2 = description.loc['50%', 'opening_KWh']
                         if Q2 < 1:
@@ -90,9 +70,6 @@ class DataTransformation:
                         # missing packet
                         sensor_df = s_df.resample(rule="15min").asfreq()
                         sensor_df.interpolate(method="linear", inplace=True)
-                        print("====================================")
-
-                        print(sensor_df)
 
                         # no consumption / same reading
                         if sensor_df['opening_KWh'].nunique() < 10:
@@ -104,13 +81,9 @@ class DataTransformation:
                         if len(sensor_df[sensor_df['prev_KWh'] > sensor_df['opening_KWh']]) > 25:
                             continue
 
-                        # recheck
-                        # consumed unit
                         sensor_df['consumed_unit'] = abs(sensor_df['opening_KWh'] - sensor_df['prev_KWh'])
                         if sensor_df['consumed_unit'].nunique() < 10:
                             continue
-
-                        # sensor_df['sensor_id'] = s_id
 
                         # eliminating id's based on slope
                         numeric_index = pd.to_numeric(sensor_df.index)
@@ -151,45 +124,46 @@ class DataTransformation:
                         # adding multiple values from sensor data
                         sensor_df['site_id'] = s_df['site_id']
                         sensor_df.reset_index(inplace=True)
-                        print("====================================")
 
-                        print("shuabham")
-                        print(sensor_df)
                         # adding weather data and holidays
-                        sensor_df['is_holiday'] = sensor_df['creation_time'].dt.date.isin(holiday_lst).astype(int)
+                        # sensor_df['is_holiday'] = sensor_df['creation_time'].dt.date.isin(holiday_lst).astype(int)
                         site = sensor_df['site_id']
-                        startDate = sensor_df['creation_time'].min()
-                        endDate = sensor_df['creation_time'].max()
+                        # startDate = sensor_df['creation_time'].min()
+                        # endDate = sensor_df['creation_time'].max()
 
                         weather_data = data_from_weather_api(site, startDate, endDate)
+                        weather_data['time'] = pd.to_datetime(weather_data['time'])
+                        weather_data.set_index('time', inplace=True)
+
+                        weather_data = weather_data[~weather_data.index.duplicated(keep='first')]
+                        weather_data = weather_data.resample('15 min').ffill()
+
                         if not weather_data.empty:
                             # Convert the creation_time columns to datetime if they are not already
+                            weather_data.reset_index(inplace=True)
                             weather_data['creation_time'] = pd.to_datetime(weather_data['time'])
                             sensor_df['creation_time'] = pd.to_datetime(sensor_df['creation_time'])
-                            sensor_df['creation_time_rounded'] = sensor_df['creation_time'].dt.round('H')
-                            # Merge sensor_df with weather_data
-                            merged_df = pd.merge_asof(sensor_df, weather_data, left_on='creation_time_rounded',
-                                                      right_on='creation_time', direction='nearest')
-                            print(merged_df.columns)
+                            merged_df = weather_data.merge(sensor_df, on='creation_time', how="inner")
 
                             # Drop the redundant columns
                             merged_df.drop(
-                                columns=['UOM', 'meter_MWh_mf', 'prev_KWh', 'opening_KWh', 'creation_time_rounded', 'creation_time_y',
-                                         'site_id_y', 'site_id_x', 'creation_time_iso'], inplace=True)
-                            merged_df.rename(columns={'creation_time_x': 'creation_time'}, inplace=True)
+                                columns=['UOM', 'prev_KWh', 'opening_KWh', '_id_x','_id_y',
+                                         'site_id_y', 'site_id_x', 'creation_time_iso','time'], inplace=True)
+                            # merged_df.rename(columns={'creation_time_x': 'creation_time'}, inplace=True)
                         else:
                             print("Weather data is empty. Skipping merge operation or performing alternative action...")
                             continue
-                        print("====================================")
-                        print(merged_df)
-
 
                         merged_df.set_index(['creation_time'], inplace=True, drop=True)
                         dfresample = add_lags(merged_df)
                         dfresample = create_features(dfresample)
                         dfresample.reset_index(inplace=True)
+                        test_size = 24 * 7  # 7 days * 24 hours/day
+                        gap = 24  # 1 day * 24 hours/day
 
-                        tss = TimeSeriesSplit(n_splits=5, test_size=24 * 2 * 1, gap=24)
+                        total_size = test_size + gap
+
+                        tss = TimeSeriesSplit(n_splits=5, test_size=total_size, gap=gap)
 
                         for train_idx, val_idx in tss.split(dfresample):
                             train_data = dfresample.iloc[train_idx]

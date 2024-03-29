@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2cc6841dd4354ba9983cfd6bff394c3b/artifacts
+end_time: 1711627509890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cc6841dd4354ba9983cfd6bff394c3b
+run_name: puzzled-smelt-653
+run_uuid: 2cc6841dd4354ba9983cfd6bff394c3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627509332
+status: 3
+tags: []
+user_id: Shubham Bhatt

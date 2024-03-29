@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6bdbcbdd5e4d4371b86229100a01afac/artifacts
+end_time: 1711601233914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bdbcbdd5e4d4371b86229100a01afac
+run_name: resilient-shark-773
+run_uuid: 6bdbcbdd5e4d4371b86229100a01afac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601232871
+status: 3
+tags: []
+user_id: Shubham Bhatt

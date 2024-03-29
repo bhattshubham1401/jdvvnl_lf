@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f18b8861719544c89eeff77d050cd064/artifacts
+end_time: 1711627491075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f18b8861719544c89eeff77d050cd064
+run_name: crawling-stag-164
+run_uuid: f18b8861719544c89eeff77d050cd064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627490543
+status: 3
+tags: []
+user_id: Shubham Bhatt

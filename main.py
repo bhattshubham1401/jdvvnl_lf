@@ -39,18 +39,18 @@ logger.info("We are printing the logs here!!!")
 # except Exception as e:
 #     logger.exception(e)
 #     raise e
-#
-# STAGE_NAME = "Model Training"
-#
-# try:
-#     logger.info("-----------Stage {} Started------------".format(STAGE_NAME))
-#     obj = ModelTrainingPipeline()
-#     obj.main()
-#     logger.info("-----------Stage {} Completed------------".format(STAGE_NAME))
-# except Exception as e:
-#     logger.exception(e)
-#     raise e
-#
+# #
+STAGE_NAME = "Model Training"
+
+try:
+    logger.info("-----------Stage {} Started------------".format(STAGE_NAME))
+    obj = ModelTrainingPipeline()
+    obj.main()
+    logger.info("-----------Stage {} Completed------------".format(STAGE_NAME))
+except Exception as e:
+    logger.exception(e)
+    raise e
+
 STAGE_NAME = "Model evaluation stage"
 try:
     logger.info("-----------Stage {} Started------------".format(STAGE_NAME))

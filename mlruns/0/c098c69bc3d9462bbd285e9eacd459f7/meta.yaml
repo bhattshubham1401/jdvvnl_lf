@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c098c69bc3d9462bbd285e9eacd459f7/artifacts
+end_time: 1711604872367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c098c69bc3d9462bbd285e9eacd459f7
+run_name: placid-rook-973
+run_uuid: c098c69bc3d9462bbd285e9eacd459f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604870855
+status: 3
+tags: []
+user_id: Shubham Bhatt

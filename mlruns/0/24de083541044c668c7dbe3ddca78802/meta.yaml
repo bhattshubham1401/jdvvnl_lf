@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/24de083541044c668c7dbe3ddca78802/artifacts
+end_time: 1711627461479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24de083541044c668c7dbe3ddca78802
+run_name: rare-dolphin-971
+run_uuid: 24de083541044c668c7dbe3ddca78802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627460872
+status: 3
+tags: []
+user_id: Shubham Bhatt

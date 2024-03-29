@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a66aecdc13834e858c37c2f69ba29b6a/artifacts
+end_time: 1711627471311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a66aecdc13834e858c37c2f69ba29b6a
+run_name: thundering-mule-441
+run_uuid: a66aecdc13834e858c37c2f69ba29b6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627470752
+status: 3
+tags: []
+user_id: Shubham Bhatt

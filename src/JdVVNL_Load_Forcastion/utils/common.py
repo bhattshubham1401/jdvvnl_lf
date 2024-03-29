@@ -557,12 +557,10 @@ def sliderPlot(df1):
 #     except Exception as e:
 #         print(e)
 
+
 def store_predictions_in_mongodb(sensor_id, dates, predictions):
     try:
-        print(sensor_id)
-        print(type(sensor_id))
         sensor_id = round(sensor_id)
-        print(type(sensor_id))
         logger.info("Calling DB configuration")
 
         # Load the labeled_to_original_mapping from a JSON file
@@ -607,10 +605,10 @@ def store_predictions_in_mongodb(sensor_id, dates, predictions):
                 prediction_float = round(float(prediction), 4)
                 data["data"][str(i)] = {
                     "pre_kwh": float(prediction_float),
-                    "pre_current": 0.0,
-                    "pre_load": 0.0,
-                    "act_kwh": 0.0,
-                    "act_load": 0.0
+                    # "pre_current": 0.0,
+                    # "pre_load": 0.0,
+                    # "act_kwh": 0.0,
+                    # "act_load": 0.0
                 }
 
             # Insert data into MongoDB
@@ -1043,13 +1041,14 @@ def sensor_data(id_lst):
         db1 = client[db]
         collection = db1[collection_name]
         data_list = []
-        for id in id_lst:
-            value = list(collection.find(
-                {"id": id},
-                {"meter_ct_mf": 1, "UOM": 1, "meter_MWh_mf": 1, "site_id": 1, "asset_id": 1,
-                 "sensor_id": "$parent_sensor_id"}
-            ))
-            data_list.extend(value)  # Use extend instead of append to flatten the list
+        # for id in id_lst:
+        value = list(collection.find(
+            {"id": {'$in': id_lst}},
+            {"meter_ct_mf": 1, "UOM": 1, "meter_MWh_mf": 1, "site_id": 1, "asset_id": 1,
+             "sensor_id": "$parent_sensor_id"}
+        ))
+        # Use extend instead of append to flatten the list
+        data_list.extend(value)
         df = pd.DataFrame(data_list)
         return df
     except Exception as e:
@@ -1076,3 +1075,57 @@ def add_lagsV1(df: pd.DataFrame) -> pd.DataFrame:
         print(f"An unexpected error occurred: {ex}")
 
     return df
+
+
+@ensure_annotations
+def data_from_weather_apiV2(site, startDate, endDate):
+    ''' Fetch weather data from CSV file based on date range'''
+    logger.info("Weather data fetching")
+    try:
+        start_date = startDate.strftime('%Y-%m-%d %H:%M:%S')
+        end_date = endDate.strftime('%Y-%m-%d %H:%M:%S')
+        # site = np.array(site, dtype=object)
+        # site = str(site_array[0])
+        print("Start Date:", start_date)
+        print("End Date:", end_date)
+        print("Site ID:", site)
+
+        logger.info("calling DB configuration")
+        db = os.getenv("db")
+        host = os.getenv("host")
+        port = os.getenv("port")
+        collection_name = os.getenv("collection3")
+        print("Collection:", collection_name)
+
+        MONGO_URL = f"mongodb://{host}:{port}"
+
+        ''' Read data from DB'''
+
+        '''Writing logs'''
+        logger.info("Reading data from Mongo DB")
+
+        '''Exception Handling'''
+        client = MongoClient(MONGO_URL)
+        db1 = client[db]
+        collection = db1[collection_name]
+        documents = []
+        query = collection.find({
+            'time': {
+                '$gte': start_date,
+                '$lte': end_date
+            },
+            'site_id': {'$in': site}
+        })
+        print("radha", query)
+        for doc in query:
+            documents.append(doc)
+
+        try:
+
+            df = pd.DataFrame(documents)
+            print(df)
+            return df
+        except Exception as e:
+            print(e)
+    except Exception as e:
+        print("Error:", e)

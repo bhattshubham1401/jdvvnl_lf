@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6f9a551753ad4a069f1ea8c91d47d3a7/artifacts
+end_time: 1711601209336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f9a551753ad4a069f1ea8c91d47d3a7
+run_name: skittish-crow-335
+run_uuid: 6f9a551753ad4a069f1ea8c91d47d3a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601208816
+status: 3
+tags: []
+user_id: Shubham Bhatt

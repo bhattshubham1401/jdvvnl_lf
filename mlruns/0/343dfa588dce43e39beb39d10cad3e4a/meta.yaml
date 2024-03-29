@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/343dfa588dce43e39beb39d10cad3e4a/artifacts
+end_time: 1711627592225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 343dfa588dce43e39beb39d10cad3e4a
+run_name: learned-lark-336
+run_uuid: 343dfa588dce43e39beb39d10cad3e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627591703
+status: 3
+tags: []
+user_id: Shubham Bhatt

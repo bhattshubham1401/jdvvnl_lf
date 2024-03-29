@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e078dd060d794a848333ee145af7b65e/artifacts
+end_time: 1711604937689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e078dd060d794a848333ee145af7b65e
+run_name: painted-snake-951
+run_uuid: e078dd060d794a848333ee145af7b65e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604936219
+status: 3
+tags: []
+user_id: Shubham Bhatt

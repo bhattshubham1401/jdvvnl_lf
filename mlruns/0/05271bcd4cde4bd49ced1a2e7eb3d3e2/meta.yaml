@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/05271bcd4cde4bd49ced1a2e7eb3d3e2/artifacts
+end_time: 1711601210051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05271bcd4cde4bd49ced1a2e7eb3d3e2
+run_name: bald-panda-619
+run_uuid: 05271bcd4cde4bd49ced1a2e7eb3d3e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601209353
+status: 3
+tags: []
+user_id: Shubham Bhatt

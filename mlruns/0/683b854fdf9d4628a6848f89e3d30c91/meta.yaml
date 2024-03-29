@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/683b854fdf9d4628a6848f89e3d30c91/artifacts
+end_time: 1711601218342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 683b854fdf9d4628a6848f89e3d30c91
+run_name: fearless-stork-824
+run_uuid: 683b854fdf9d4628a6848f89e3d30c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601217459
+status: 3
+tags: []
+user_id: Shubham Bhatt

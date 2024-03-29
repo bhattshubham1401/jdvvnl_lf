@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3be9ac02089547e3a11a1fc09b083782/artifacts
+end_time: 1711604895680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3be9ac02089547e3a11a1fc09b083782
+run_name: incongruous-croc-462
+run_uuid: 3be9ac02089547e3a11a1fc09b083782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604892668
+status: 3
+tags: []
+user_id: Shubham Bhatt

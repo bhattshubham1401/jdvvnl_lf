@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ae2be2462a0c45ee88f599f1dd56dcd3/artifacts
+end_time: 1711601242505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae2be2462a0c45ee88f599f1dd56dcd3
+run_name: spiffy-donkey-558
+run_uuid: ae2be2462a0c45ee88f599f1dd56dcd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601242031
+status: 3
+tags: []
+user_id: Shubham Bhatt

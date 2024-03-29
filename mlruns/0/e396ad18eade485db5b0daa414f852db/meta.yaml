@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e396ad18eade485db5b0daa414f852db/artifacts
+end_time: 1711604903375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e396ad18eade485db5b0daa414f852db
+run_name: capricious-moose-791
+run_uuid: e396ad18eade485db5b0daa414f852db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604901893
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c1f881717947491f85426a643f32a5e3/artifacts
+end_time: 1711604918826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1f881717947491f85426a643f32a5e3
+run_name: clumsy-perch-93
+run_uuid: c1f881717947491f85426a643f32a5e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604917364
+status: 3
+tags: []
+user_id: Shubham Bhatt

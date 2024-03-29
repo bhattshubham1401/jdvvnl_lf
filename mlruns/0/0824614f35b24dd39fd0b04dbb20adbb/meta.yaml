@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0824614f35b24dd39fd0b04dbb20adbb/artifacts
+end_time: 1711601281379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0824614f35b24dd39fd0b04dbb20adbb
+run_name: clumsy-colt-782
+run_uuid: 0824614f35b24dd39fd0b04dbb20adbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601280919
+status: 3
+tags: []
+user_id: Shubham Bhatt

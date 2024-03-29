@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0c673b0225fb467eb60d3fe661a7486c/artifacts
+end_time: 1711601274317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c673b0225fb467eb60d3fe661a7486c
+run_name: awesome-grub-739
+run_uuid: 0c673b0225fb467eb60d3fe661a7486c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601273841
+status: 3
+tags: []
+user_id: Shubham Bhatt

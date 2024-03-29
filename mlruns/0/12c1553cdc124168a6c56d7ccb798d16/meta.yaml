@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/12c1553cdc124168a6c56d7ccb798d16/artifacts
+end_time: 1711627494693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12c1553cdc124168a6c56d7ccb798d16
+run_name: selective-ox-981
+run_uuid: 12c1553cdc124168a6c56d7ccb798d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627494153
+status: 3
+tags: []
+user_id: Shubham Bhatt

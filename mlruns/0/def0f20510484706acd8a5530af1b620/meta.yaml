@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/def0f20510484706acd8a5530af1b620/artifacts
+end_time: 1711601214117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: def0f20510484706acd8a5530af1b620
+run_name: gentle-robin-304
+run_uuid: def0f20510484706acd8a5530af1b620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601213629
+status: 3
+tags: []
+user_id: Shubham Bhatt

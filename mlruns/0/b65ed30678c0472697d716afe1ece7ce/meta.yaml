@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b65ed30678c0472697d716afe1ece7ce/artifacts
+end_time: 1711601256778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b65ed30678c0472697d716afe1ece7ce
+run_name: fearless-duck-44
+run_uuid: b65ed30678c0472697d716afe1ece7ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601256311
+status: 3
+tags: []
+user_id: Shubham Bhatt

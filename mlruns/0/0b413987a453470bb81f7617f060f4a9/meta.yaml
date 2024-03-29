@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0b413987a453470bb81f7617f060f4a9/artifacts
+end_time: 1711627575016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b413987a453470bb81f7617f060f4a9
+run_name: suave-dog-59
+run_uuid: 0b413987a453470bb81f7617f060f4a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627574477
+status: 3
+tags: []
+user_id: Shubham Bhatt

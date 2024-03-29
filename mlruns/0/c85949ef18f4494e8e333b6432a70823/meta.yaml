@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c85949ef18f4494e8e333b6432a70823/artifacts
+end_time: 1711604824489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c85949ef18f4494e8e333b6432a70823
+run_name: popular-owl-19
+run_uuid: c85949ef18f4494e8e333b6432a70823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604822309
+status: 3
+tags: []
+user_id: Shubham Bhatt

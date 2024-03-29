@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2e4e5dcea0ee49e5b4b150416ca479ae/artifacts
+end_time: 1711601289949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e4e5dcea0ee49e5b4b150416ca479ae
+run_name: charming-crab-430
+run_uuid: 2e4e5dcea0ee49e5b4b150416ca479ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601289470
+status: 3
+tags: []
+user_id: Shubham Bhatt

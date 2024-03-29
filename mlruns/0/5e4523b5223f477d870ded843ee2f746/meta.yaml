@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5e4523b5223f477d870ded843ee2f746/artifacts
+end_time: 1711627514978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e4523b5223f477d870ded843ee2f746
+run_name: traveling-finch-662
+run_uuid: 5e4523b5223f477d870ded843ee2f746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627514434
+status: 3
+tags: []
+user_id: Shubham Bhatt

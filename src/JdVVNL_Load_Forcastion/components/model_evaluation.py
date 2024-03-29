@@ -87,8 +87,11 @@ class ModelEvaluation:
             # count = collection.count_documents({})
             metrix_dict = {}
             data_files = [file for file in os.listdir(self.config.test_data_path) if file.startswith('test_data_sensor')]
+            num = [int(filename.split('_')[-1].split('.')[0]) for filename in data_files]
+            num1 = max(num)
 
-            for i in range(0, int(len(data_files))):
+
+            for i in range(0, num1):
                 try:
                     test_data = pd.read_csv(os.path.join(self.config.test_data_path, f"test_data_sensor_{i}.csv"))
                 except FileNotFoundError:

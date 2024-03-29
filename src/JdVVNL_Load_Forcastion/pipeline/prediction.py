@@ -26,8 +26,10 @@ class PredictionPipeline:
             data_list = []
             for data_file in data_files:
                 data_sensor = pd.read_csv(os.path.join(self.path, data_file))
-                sensor_ids = data_sensor['sensor_id'].unique()
+
+                sensor_ids = list(data_sensor['sensor_id'].unique())
                 s_data = sensor_data(sensor_ids)
+                # print(s_data)
 
                 sensor_site_map = dict(zip(s_data['sensor_id'], s_data['site_id']))
 
@@ -128,13 +130,9 @@ class PredictionPipeline:
                             'dayofyear', 'weekofyear', 'year']
                 # print(future_w_features[FEATURES].info())
 
-
                 future_w_features['pred'] = model.predict(future_w_features[FEATURES])
                 # print(future_w_features['pred'].to_csv('merged_df.csv', index=False))
-                print(sensor_id, future_w_features.index, future_w_features['pred'])
                 store_predictions_in_mongodb(sensor_id, future_w_features.index, future_w_features['pred'])
-
-            # return
 
         except Exception as e:
             logger.error(f"Error in Model Prediction: {e}")

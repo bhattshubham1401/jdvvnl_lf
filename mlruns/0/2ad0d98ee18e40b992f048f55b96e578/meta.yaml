@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2ad0d98ee18e40b992f048f55b96e578/artifacts
+end_time: 1711627591676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ad0d98ee18e40b992f048f55b96e578
+run_name: resilient-croc-953
+run_uuid: 2ad0d98ee18e40b992f048f55b96e578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627591099
+status: 3
+tags: []
+user_id: Shubham Bhatt

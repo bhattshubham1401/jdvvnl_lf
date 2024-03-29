@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3f8af93717c24ccfb83d7c22ea229825/artifacts
+end_time: 1711627557851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f8af93717c24ccfb83d7c22ea229825
+run_name: intelligent-swan-151
+run_uuid: 3f8af93717c24ccfb83d7c22ea229825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627557302
+status: 3
+tags: []
+user_id: Shubham Bhatt

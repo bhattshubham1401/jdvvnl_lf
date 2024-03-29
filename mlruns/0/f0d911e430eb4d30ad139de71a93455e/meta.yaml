@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f0d911e430eb4d30ad139de71a93455e/artifacts
+end_time: 1711601259336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0d911e430eb4d30ad139de71a93455e
+run_name: gregarious-pug-971
+run_uuid: f0d911e430eb4d30ad139de71a93455e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601258846
+status: 3
+tags: []
+user_id: Shubham Bhatt

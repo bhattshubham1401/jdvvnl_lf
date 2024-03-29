@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/10c3ee266e95431aa38ed09b3bfe975a/artifacts
+end_time: 1711604847626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10c3ee266e95431aa38ed09b3bfe975a
+run_name: suave-turtle-137
+run_uuid: 10c3ee266e95431aa38ed09b3bfe975a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604846151
+status: 3
+tags: []
+user_id: Shubham Bhatt

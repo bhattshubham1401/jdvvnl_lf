@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/9aa7c96949fa4eeb9d939949b0dc4f2b/artifacts
+end_time: 1711627529224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aa7c96949fa4eeb9d939949b0dc4f2b
+run_name: lyrical-finch-792
+run_uuid: 9aa7c96949fa4eeb9d939949b0dc4f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627528673
+status: 3
+tags: []
+user_id: Shubham Bhatt

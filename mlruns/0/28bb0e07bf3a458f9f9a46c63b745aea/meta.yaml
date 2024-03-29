@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/28bb0e07bf3a458f9f9a46c63b745aea/artifacts
+end_time: 1711601276836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28bb0e07bf3a458f9f9a46c63b745aea
+run_name: dapper-ant-172
+run_uuid: 28bb0e07bf3a458f9f9a46c63b745aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601276370
+status: 3
+tags: []
+user_id: Shubham Bhatt

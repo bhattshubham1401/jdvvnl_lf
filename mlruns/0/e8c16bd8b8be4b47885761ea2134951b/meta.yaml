@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e8c16bd8b8be4b47885761ea2134951b/artifacts
+end_time: 1711627478374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8c16bd8b8be4b47885761ea2134951b
+run_name: unleashed-ray-328
+run_uuid: e8c16bd8b8be4b47885761ea2134951b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627477763
+status: 3
+tags: []
+user_id: Shubham Bhatt

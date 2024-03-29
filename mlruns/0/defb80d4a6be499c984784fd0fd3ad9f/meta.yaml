@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/defb80d4a6be499c984784fd0fd3ad9f/artifacts
+end_time: 1711604908048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: defb80d4a6be499c984784fd0fd3ad9f
+run_name: wistful-cub-231
+run_uuid: defb80d4a6be499c984784fd0fd3ad9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604906531
+status: 3
+tags: []
+user_id: Shubham Bhatt

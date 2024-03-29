@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2ce7e2c68c5e48c3a3c6cf8137848ed3/artifacts
+end_time: 1711601278887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ce7e2c68c5e48c3a3c6cf8137848ed3
+run_name: intelligent-ram-741
+run_uuid: 2ce7e2c68c5e48c3a3c6cf8137848ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601278384
+status: 3
+tags: []
+user_id: Shubham Bhatt

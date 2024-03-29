@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e3fbded235e14ef58a7e0ed0763c9429/artifacts
+end_time: 1711601224215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3fbded235e14ef58a7e0ed0763c9429
+run_name: languid-goat-574
+run_uuid: e3fbded235e14ef58a7e0ed0763c9429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601223575
+status: 3
+tags: []
+user_id: Shubham Bhatt

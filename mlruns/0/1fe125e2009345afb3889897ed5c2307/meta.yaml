@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1fe125e2009345afb3889897ed5c2307/artifacts
+end_time: 1711627457292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fe125e2009345afb3889897ed5c2307
+run_name: casual-steed-435
+run_uuid: 1fe125e2009345afb3889897ed5c2307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627456630
+status: 3
+tags: []
+user_id: Shubham Bhatt

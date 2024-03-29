@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c05c60aa4e5147859d01b86e1369f9d9/artifacts
+end_time: 1711627538806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c05c60aa4e5147859d01b86e1369f9d9
+run_name: agreeable-smelt-73
+run_uuid: c05c60aa4e5147859d01b86e1369f9d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627538238
+status: 3
+tags: []
+user_id: Shubham Bhatt

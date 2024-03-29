@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/65c6a81e4d7c47f098a6bb8cc0959180/artifacts
+end_time: 1711627531582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65c6a81e4d7c47f098a6bb8cc0959180
+run_name: smiling-hawk-423
+run_uuid: 65c6a81e4d7c47f098a6bb8cc0959180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711627531054
+status: 3
+tags: []
+user_id: Shubham Bhatt

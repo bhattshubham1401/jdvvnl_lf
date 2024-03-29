@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1c7d8a096bfa403cb25e2bf89942e88d/artifacts
+end_time: 1711601269678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c7d8a096bfa403cb25e2bf89942e88d
+run_name: omniscient-sow-262
+run_uuid: 1c7d8a096bfa403cb25e2bf89942e88d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601267933
+status: 3
+tags: []
+user_id: Shubham Bhatt

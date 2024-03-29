@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c5ecc89c7acf45e58947741e40c481fc/artifacts
+end_time: 1711604856775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5ecc89c7acf45e58947741e40c481fc
+run_name: adaptable-sow-975
+run_uuid: c5ecc89c7acf45e58947741e40c481fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711604855288
+status: 3
+tags: []
+user_id: Shubham Bhatt

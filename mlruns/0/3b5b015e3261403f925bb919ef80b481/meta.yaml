@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3b5b015e3261403f925bb919ef80b481/artifacts
+end_time: 1711601241023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b5b015e3261403f925bb919ef80b481
+run_name: clumsy-grub-571
+run_uuid: 3b5b015e3261403f925bb919ef80b481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711601240561
+status: 3
+tags: []
+user_id: Shubham Bhatt
