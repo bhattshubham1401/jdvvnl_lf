@@ -126,19 +126,17 @@ class DataTransformation:
                         sensor_df.reset_index(inplace=True)
 
                         # adding weather data and holidays
-                        # sensor_df['is_holiday'] = sensor_df['creation_time'].dt.date.isin(holiday_lst).astype(int)
                         site = sensor_df['site_id']
-                        # startDate = sensor_df['creation_time'].min()
-                        # endDate = sensor_df['creation_time'].max()
-
                         weather_data = data_from_weather_api(site, startDate, endDate)
-                        weather_data['time'] = pd.to_datetime(weather_data['time'])
-                        weather_data.set_index('time', inplace=True)
-
-                        weather_data = weather_data[~weather_data.index.duplicated(keep='first')]
-                        weather_data = weather_data.resample('15 min').ffill()
 
                         if not weather_data.empty:
+                            weather_data['time'] = pd.to_datetime(weather_data['time'])
+                            weather_data.set_index('time', inplace=True)
+
+                            weather_data = weather_data[~weather_data.index.duplicated(keep='first')]
+                            weather_data = weather_data.resample('15 min').ffill()
+
+
                             # Convert the creation_time columns to datetime if they are not already
                             weather_data.reset_index(inplace=True)
                             weather_data['creation_time'] = pd.to_datetime(weather_data['time'])
@@ -149,7 +147,6 @@ class DataTransformation:
                             merged_df.drop(
                                 columns=['UOM', 'prev_KWh', 'opening_KWh', '_id_x','_id_y',
                                          'site_id_y', 'site_id_x', 'creation_time_iso','time'], inplace=True)
-                            # merged_df.rename(columns={'creation_time_x': 'creation_time'}, inplace=True)
                         else:
                             print("Weather data is empty. Skipping merge operation or performing alternative action...")
                             continue

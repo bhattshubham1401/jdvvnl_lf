@@ -150,4 +150,3 @@ class PredictionPipeline:
         future_date = end_date + timedelta(days=11)
         future_date = future_date.replace(hour=23, minute=59, second=59)
         return startDate, future_date, end_date
-
