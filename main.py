@@ -7,27 +7,27 @@ from src.JdVVNL_Load_Forcastion.pipeline.stage_05_model_evaluation import ModelE
 
 logger.info("We are printing the logs here!!!")
 
-# STAGE_NAME = "Data Ingestion"
-# try:
-#     logger.info("-----------Stage {} Started------------".format(STAGE_NAME))
-#     obj = DataIngestionTrainingPipeline()
-#     obj.main()
-#     logger.info("-----------Stage {} Completed-----------".format(STAGE_NAME))
-#
-# except Exception as e:
-#     logger.exception(e)
-#     raise e
-#
-# STAGE_NAME = "Data Validation"
-#
-# try:
-#     logger.info("-----------Stage {} Started------------".format(STAGE_NAME))
-#     obj = DataValidationTrainingPipeline()
-#     obj.main()
-#     logger.info("-----------Stage {} Completed------------".format(STAGE_NAME))
-# except Exception as e:
-#     logger.exception(e)
-#     raise e
+STAGE_NAME = "Data Ingestion"
+try:
+    logger.info("-----------Stage {} Started------------".format(STAGE_NAME))
+    obj = DataIngestionTrainingPipeline()
+    obj.main()
+    logger.info("-----------Stage {} Completed-----------".format(STAGE_NAME))
+
+except Exception as e:
+    logger.exception(e)
+    raise e
+
+STAGE_NAME = "Data Validation"
+
+try:
+    logger.info("-----------Stage {} Started------------".format(STAGE_NAME))
+    obj = DataValidationTrainingPipeline()
+    obj.main()
+    logger.info("-----------Stage {} Completed------------".format(STAGE_NAME))
+except Exception as e:
+    logger.exception(e)
+    raise e
 
 STAGE_NAME = "Data Transformation"
 
