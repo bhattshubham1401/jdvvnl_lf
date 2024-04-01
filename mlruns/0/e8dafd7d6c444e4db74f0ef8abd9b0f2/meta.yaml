@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e8dafd7d6c444e4db74f0ef8abd9b0f2/artifacts
+end_time: 1711763334234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8dafd7d6c444e4db74f0ef8abd9b0f2
+run_name: loud-donkey-676
+run_uuid: e8dafd7d6c444e4db74f0ef8abd9b0f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763333659
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c1d38157ebff40c0a26bbfb7bf6e062d/artifacts
+end_time: 1711763256704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1d38157ebff40c0a26bbfb7bf6e062d
+run_name: nimble-shad-372
+run_uuid: c1d38157ebff40c0a26bbfb7bf6e062d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763256177
+status: 3
+tags: []
+user_id: Shubham Bhatt

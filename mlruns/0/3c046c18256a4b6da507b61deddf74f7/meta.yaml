@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3c046c18256a4b6da507b61deddf74f7/artifacts
+end_time: 1711763513035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c046c18256a4b6da507b61deddf74f7
+run_name: placid-cow-231
+run_uuid: 3c046c18256a4b6da507b61deddf74f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763512610
+status: 3
+tags: []
+user_id: Shubham Bhatt

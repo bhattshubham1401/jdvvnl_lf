@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/401c69dcc99e41e3b6fa28d86dd2ae45/artifacts
+end_time: 1711763335207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 401c69dcc99e41e3b6fa28d86dd2ae45
+run_name: resilient-midge-146
+run_uuid: 401c69dcc99e41e3b6fa28d86dd2ae45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763334773
+status: 3
+tags: []
+user_id: Shubham Bhatt

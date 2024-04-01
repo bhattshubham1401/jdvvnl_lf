@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c9c055b20ab94ed0b0c24407c424dc6d/artifacts
+end_time: 1711763563932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9c055b20ab94ed0b0c24407c424dc6d
+run_name: trusting-mouse-505
+run_uuid: c9c055b20ab94ed0b0c24407c424dc6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763563520
+status: 3
+tags: []
+user_id: Shubham Bhatt

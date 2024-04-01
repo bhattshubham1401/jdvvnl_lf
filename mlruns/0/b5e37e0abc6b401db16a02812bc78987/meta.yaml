@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b5e37e0abc6b401db16a02812bc78987/artifacts
+end_time: 1711763497439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5e37e0abc6b401db16a02812bc78987
+run_name: polite-robin-456
+run_uuid: b5e37e0abc6b401db16a02812bc78987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763497015
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ef4ada3807784324af51688994af09e4/artifacts
+end_time: 1711763361244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef4ada3807784324af51688994af09e4
+run_name: colorful-pig-910
+run_uuid: ef4ada3807784324af51688994af09e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763359238
+status: 3
+tags: []
+user_id: Shubham Bhatt

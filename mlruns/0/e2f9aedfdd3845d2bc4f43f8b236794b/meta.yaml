@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e2f9aedfdd3845d2bc4f43f8b236794b/artifacts
+end_time: 1711763339836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2f9aedfdd3845d2bc4f43f8b236794b
+run_name: beautiful-yak-460
+run_uuid: e2f9aedfdd3845d2bc4f43f8b236794b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763339411
+status: 3
+tags: []
+user_id: Shubham Bhatt

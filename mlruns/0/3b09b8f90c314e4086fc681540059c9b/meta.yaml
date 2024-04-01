@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3b09b8f90c314e4086fc681540059c9b/artifacts
+end_time: 1711763406232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b09b8f90c314e4086fc681540059c9b
+run_name: dapper-trout-470
+run_uuid: 3b09b8f90c314e4086fc681540059c9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763405785
+status: 3
+tags: []
+user_id: Shubham Bhatt

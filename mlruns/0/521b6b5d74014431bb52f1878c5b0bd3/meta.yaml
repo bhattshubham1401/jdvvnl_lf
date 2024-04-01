@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/521b6b5d74014431bb52f1878c5b0bd3/artifacts
+end_time: 1711763481219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 521b6b5d74014431bb52f1878c5b0bd3
+run_name: resilient-fly-489
+run_uuid: 521b6b5d74014431bb52f1878c5b0bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763480785
+status: 3
+tags: []
+user_id: Shubham Bhatt

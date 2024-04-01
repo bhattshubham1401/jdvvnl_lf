@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d7dd02346d1a4e7f8e4e4659017ac0d0/artifacts
+end_time: 1711763521429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7dd02346d1a4e7f8e4e4659017ac0d0
+run_name: grandiose-cub-302
+run_uuid: d7dd02346d1a4e7f8e4e4659017ac0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763520999
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8312a0cb75c2476caa8f81e95ce5345d/artifacts
+end_time: 1711763284303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8312a0cb75c2476caa8f81e95ce5345d
+run_name: stately-perch-504
+run_uuid: 8312a0cb75c2476caa8f81e95ce5345d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763283701
+status: 3
+tags: []
+user_id: Shubham Bhatt

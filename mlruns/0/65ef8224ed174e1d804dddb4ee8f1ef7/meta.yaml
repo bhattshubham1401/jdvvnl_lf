@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/65ef8224ed174e1d804dddb4ee8f1ef7/artifacts
+end_time: 1711763453446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65ef8224ed174e1d804dddb4ee8f1ef7
+run_name: sincere-fish-140
+run_uuid: 65ef8224ed174e1d804dddb4ee8f1ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763453019
+status: 3
+tags: []
+user_id: Shubham Bhatt

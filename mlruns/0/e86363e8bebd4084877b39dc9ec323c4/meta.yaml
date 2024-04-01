@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e86363e8bebd4084877b39dc9ec323c4/artifacts
+end_time: 1711763443573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e86363e8bebd4084877b39dc9ec323c4
+run_name: stately-seal-984
+run_uuid: e86363e8bebd4084877b39dc9ec323c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763443154
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/25b0a59f776e46968c6f07313ab9dd22/artifacts
+end_time: 1711763491900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25b0a59f776e46968c6f07313ab9dd22
+run_name: masked-carp-470
+run_uuid: 25b0a59f776e46968c6f07313ab9dd22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763491452
+status: 3
+tags: []
+user_id: Shubham Bhatt

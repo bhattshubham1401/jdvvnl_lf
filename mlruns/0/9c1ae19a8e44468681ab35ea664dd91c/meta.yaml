@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/9c1ae19a8e44468681ab35ea664dd91c/artifacts
+end_time: 1711763287170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c1ae19a8e44468681ab35ea664dd91c
+run_name: mercurial-vole-546
+run_uuid: 9c1ae19a8e44468681ab35ea664dd91c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763286276
+status: 3
+tags: []
+user_id: Shubham Bhatt

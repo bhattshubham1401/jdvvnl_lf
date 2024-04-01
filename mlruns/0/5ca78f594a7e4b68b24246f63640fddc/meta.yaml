@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5ca78f594a7e4b68b24246f63640fddc/artifacts
+end_time: 1711763539440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ca78f594a7e4b68b24246f63640fddc
+run_name: shivering-mouse-922
+run_uuid: 5ca78f594a7e4b68b24246f63640fddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763539001
+status: 3
+tags: []
+user_id: Shubham Bhatt

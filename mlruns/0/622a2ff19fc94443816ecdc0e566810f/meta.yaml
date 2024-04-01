@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/622a2ff19fc94443816ecdc0e566810f/artifacts
+end_time: 1711763285683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 622a2ff19fc94443816ecdc0e566810f
+run_name: unique-penguin-683
+run_uuid: 622a2ff19fc94443816ecdc0e566810f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763285245
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e4d8131f228b4eff969f532300c66bbd/artifacts
+end_time: 1711763400882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4d8131f228b4eff969f532300c66bbd
+run_name: languid-wren-110
+run_uuid: e4d8131f228b4eff969f532300c66bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763400422
+status: 3
+tags: []
+user_id: Shubham Bhatt

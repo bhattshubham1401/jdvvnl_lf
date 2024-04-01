@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3c107cc169b64d67a2d197b7e0cdf343/artifacts
+end_time: 1711763304010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c107cc169b64d67a2d197b7e0cdf343
+run_name: likeable-stork-713
+run_uuid: 3c107cc169b64d67a2d197b7e0cdf343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763303569
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/474c4a54dd1448899377f2e77ced69eb/artifacts
+end_time: 1711763582245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 474c4a54dd1448899377f2e77ced69eb
+run_name: capricious-crane-311
+run_uuid: 474c4a54dd1448899377f2e77ced69eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763581808
+status: 3
+tags: []
+user_id: Shubham Bhatt

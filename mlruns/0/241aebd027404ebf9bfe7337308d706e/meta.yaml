@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/241aebd027404ebf9bfe7337308d706e/artifacts
+end_time: 1711763523258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 241aebd027404ebf9bfe7337308d706e
+run_name: upset-fly-906
+run_uuid: 241aebd027404ebf9bfe7337308d706e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763522816
+status: 3
+tags: []
+user_id: Shubham Bhatt

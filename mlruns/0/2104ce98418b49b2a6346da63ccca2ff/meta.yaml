@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2104ce98418b49b2a6346da63ccca2ff/artifacts
+end_time: 1711763302642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2104ce98418b49b2a6346da63ccca2ff
+run_name: capable-gnat-214
+run_uuid: 2104ce98418b49b2a6346da63ccca2ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763302213
+status: 3
+tags: []
+user_id: Shubham Bhatt

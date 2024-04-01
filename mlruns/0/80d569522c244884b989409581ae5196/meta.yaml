@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/80d569522c244884b989409581ae5196/artifacts
+end_time: 1711763462615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80d569522c244884b989409581ae5196
+run_name: debonair-duck-575
+run_uuid: 80d569522c244884b989409581ae5196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763462182
+status: 3
+tags: []
+user_id: Shubham Bhatt

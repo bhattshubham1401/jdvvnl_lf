@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f99dd79f3b8446faa1f98f5aa9cf8c15/artifacts
+end_time: 1711763442695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f99dd79f3b8446faa1f98f5aa9cf8c15
+run_name: chill-grub-951
+run_uuid: f99dd79f3b8446faa1f98f5aa9cf8c15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763442266
+status: 3
+tags: []
+user_id: Shubham Bhatt

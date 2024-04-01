@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ffb5dc4a3bf7485da581f7383b4ae60a/artifacts
+end_time: 1711763300867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffb5dc4a3bf7485da581f7383b4ae60a
+run_name: victorious-finch-482
+run_uuid: ffb5dc4a3bf7485da581f7383b4ae60a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763300443
+status: 3
+tags: []
+user_id: Shubham Bhatt

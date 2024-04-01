@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e3048e1a70bd4dc7867c6ddc949dee7e/artifacts
+end_time: 1711763384866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3048e1a70bd4dc7867c6ddc949dee7e
+run_name: gentle-stork-270
+run_uuid: e3048e1a70bd4dc7867c6ddc949dee7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763384362
+status: 3
+tags: []
+user_id: Shubham Bhatt

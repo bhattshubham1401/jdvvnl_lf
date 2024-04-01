@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/dc9f318a874748fb9e133d784c4aeaa3/artifacts
+end_time: 1711763298181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc9f318a874748fb9e133d784c4aeaa3
+run_name: resilient-quail-816
+run_uuid: dc9f318a874748fb9e133d784c4aeaa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763297732
+status: 3
+tags: []
+user_id: Shubham Bhatt

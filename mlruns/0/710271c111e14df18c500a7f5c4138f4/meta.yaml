@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/710271c111e14df18c500a7f5c4138f4/artifacts
+end_time: 1711763450752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 710271c111e14df18c500a7f5c4138f4
+run_name: clumsy-goat-800
+run_uuid: 710271c111e14df18c500a7f5c4138f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763450326
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a6abf8b48bad4e2cab72e35e4c47ef31/artifacts
+end_time: 1711763399474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6abf8b48bad4e2cab72e35e4c47ef31
+run_name: secretive-bass-908
+run_uuid: a6abf8b48bad4e2cab72e35e4c47ef31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763398926
+status: 3
+tags: []
+user_id: Shubham Bhatt

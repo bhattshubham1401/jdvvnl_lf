@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/fa4cfe42e3bc4733a0c75eaa55c6aa7f/artifacts
+end_time: 1711763263691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa4cfe42e3bc4733a0c75eaa55c6aa7f
+run_name: persistent-vole-998
+run_uuid: fa4cfe42e3bc4733a0c75eaa55c6aa7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763263177
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/cf425488e06449ffb17081ed818e22cd/artifacts
+end_time: 1711763333190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf425488e06449ffb17081ed818e22cd
+run_name: big-shrike-340
+run_uuid: cf425488e06449ffb17081ed818e22cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763332697
+status: 3
+tags: []
+user_id: Shubham Bhatt

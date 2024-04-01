@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f50c1c3de381479485fc8933024409b5/artifacts
+end_time: 1711763391101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f50c1c3de381479485fc8933024409b5
+run_name: efficient-dog-460
+run_uuid: f50c1c3de381479485fc8933024409b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763390659
+status: 3
+tags: []
+user_id: Shubham Bhatt

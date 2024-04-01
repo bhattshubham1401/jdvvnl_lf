@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a89bea2dbaf94207a5f53f85645f389d/artifacts
+end_time: 1711763280830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a89bea2dbaf94207a5f53f85645f389d
+run_name: nimble-mink-406
+run_uuid: a89bea2dbaf94207a5f53f85645f389d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763280257
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/bd606ec798b54f2eb692869110a1f1f2/artifacts
+end_time: 1711763358732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd606ec798b54f2eb692869110a1f1f2
+run_name: classy-eel-134
+run_uuid: bd606ec798b54f2eb692869110a1f1f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763358191
+status: 3
+tags: []
+user_id: Shubham Bhatt

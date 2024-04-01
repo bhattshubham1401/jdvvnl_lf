@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8e23a19efa7e4b2bb5f91daf51104d32/artifacts
+end_time: 1711763329395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e23a19efa7e4b2bb5f91daf51104d32
+run_name: dashing-perch-352
+run_uuid: 8e23a19efa7e4b2bb5f91daf51104d32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763328887
+status: 3
+tags: []
+user_id: Shubham Bhatt

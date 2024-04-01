@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4f4269d0fea44448834b2f07d187aa80/artifacts
+end_time: 1711763523713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f4269d0fea44448834b2f07d187aa80
+run_name: rogue-mole-627
+run_uuid: 4f4269d0fea44448834b2f07d187aa80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763523281
+status: 3
+tags: []
+user_id: Shubham Bhatt

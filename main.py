@@ -29,17 +29,17 @@ logger.info("We are printing the logs here!!!")
 #     logger.exception(e)
 #     raise e
 
-# STAGE_NAME = "Data Transformation"
-#
-# try:
-#     logger.info("-----------Stage {} Started------------".format(STAGE_NAME))
-#     obj = DataTransformationTrainingPipeline()
-#     obj.main()
-#     logger.info("-----------Stage {} Completed------------".format(STAGE_NAME))
-# except Exception as e:
-#     logger.exception(e)
-#     raise e
-# #
+STAGE_NAME = "Data Transformation"
+
+try:
+    logger.info("-----------Stage {} Started------------".format(STAGE_NAME))
+    obj = DataTransformationTrainingPipeline()
+    obj.main()
+    logger.info("-----------Stage {} Completed------------".format(STAGE_NAME))
+except Exception as e:
+    logger.exception(e)
+    raise e
+
 STAGE_NAME = "Model Training"
 
 try:

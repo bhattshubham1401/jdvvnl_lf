@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d86bb5c9f7c74d048ed84be2aea2cde3/artifacts
+end_time: 1711763495124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d86bb5c9f7c74d048ed84be2aea2cde3
+run_name: trusting-shrimp-961
+run_uuid: d86bb5c9f7c74d048ed84be2aea2cde3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763494707
+status: 3
+tags: []
+user_id: Shubham Bhatt

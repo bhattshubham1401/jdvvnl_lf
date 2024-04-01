@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/70589a2935c848d7b20739bb3a1019a0/artifacts
+end_time: 1711763314725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70589a2935c848d7b20739bb3a1019a0
+run_name: dashing-turtle-206
+run_uuid: 70589a2935c848d7b20739bb3a1019a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763314227
+status: 3
+tags: []
+user_id: Shubham Bhatt

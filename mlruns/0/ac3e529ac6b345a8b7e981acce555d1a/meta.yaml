@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ac3e529ac6b345a8b7e981acce555d1a/artifacts
+end_time: 1711763570834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac3e529ac6b345a8b7e981acce555d1a
+run_name: rambunctious-hog-982
+run_uuid: ac3e529ac6b345a8b7e981acce555d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763570387
+status: 3
+tags: []
+user_id: Shubham Bhatt

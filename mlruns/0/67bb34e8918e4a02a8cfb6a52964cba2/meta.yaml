@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/67bb34e8918e4a02a8cfb6a52964cba2/artifacts
+end_time: 1711763554241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67bb34e8918e4a02a8cfb6a52964cba2
+run_name: mercurial-flea-408
+run_uuid: 67bb34e8918e4a02a8cfb6a52964cba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763553809
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d01ae4a9fcbe44e79d089b046266ceaf/artifacts
+end_time: 1711763276115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d01ae4a9fcbe44e79d089b046266ceaf
+run_name: beautiful-tern-653
+run_uuid: d01ae4a9fcbe44e79d089b046266ceaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763275682
+status: 3
+tags: []
+user_id: Shubham Bhatt

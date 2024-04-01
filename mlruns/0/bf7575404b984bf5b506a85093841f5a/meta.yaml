@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/bf7575404b984bf5b506a85093841f5a/artifacts
+end_time: 1711763317448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf7575404b984bf5b506a85093841f5a
+run_name: bedecked-sponge-32
+run_uuid: bf7575404b984bf5b506a85093841f5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763317014
+status: 3
+tags: []
+user_id: Shubham Bhatt

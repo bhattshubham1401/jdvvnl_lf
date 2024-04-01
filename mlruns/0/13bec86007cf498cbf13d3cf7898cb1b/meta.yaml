@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/13bec86007cf498cbf13d3cf7898cb1b/artifacts
+end_time: 1711763377423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13bec86007cf498cbf13d3cf7898cb1b
+run_name: rumbling-mouse-801
+run_uuid: 13bec86007cf498cbf13d3cf7898cb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763377002
+status: 3
+tags: []
+user_id: Shubham Bhatt

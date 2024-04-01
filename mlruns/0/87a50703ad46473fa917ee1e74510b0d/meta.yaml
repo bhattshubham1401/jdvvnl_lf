@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/87a50703ad46473fa917ee1e74510b0d/artifacts
+end_time: 1711763255040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87a50703ad46473fa917ee1e74510b0d
+run_name: clean-bear-728
+run_uuid: 87a50703ad46473fa917ee1e74510b0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763254487
+status: 3
+tags: []
+user_id: Shubham Bhatt

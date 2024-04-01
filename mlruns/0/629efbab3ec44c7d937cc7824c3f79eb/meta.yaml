@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/629efbab3ec44c7d937cc7824c3f79eb/artifacts
+end_time: 1711763531580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 629efbab3ec44c7d937cc7824c3f79eb
+run_name: burly-shad-40
+run_uuid: 629efbab3ec44c7d937cc7824c3f79eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763531141
+status: 3
+tags: []
+user_id: Shubham Bhatt

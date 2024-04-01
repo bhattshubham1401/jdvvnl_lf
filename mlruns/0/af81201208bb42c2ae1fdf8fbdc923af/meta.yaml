@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/af81201208bb42c2ae1fdf8fbdc923af/artifacts
+end_time: 1711763293102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af81201208bb42c2ae1fdf8fbdc923af
+run_name: adaptable-fox-670
+run_uuid: af81201208bb42c2ae1fdf8fbdc923af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763292662
+status: 3
+tags: []
+user_id: Shubham Bhatt

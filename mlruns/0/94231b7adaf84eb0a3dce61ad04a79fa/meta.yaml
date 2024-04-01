@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/94231b7adaf84eb0a3dce61ad04a79fa/artifacts
+end_time: 1711763388742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94231b7adaf84eb0a3dce61ad04a79fa
+run_name: salty-tern-119
+run_uuid: 94231b7adaf84eb0a3dce61ad04a79fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763388320
+status: 3
+tags: []
+user_id: Shubham Bhatt

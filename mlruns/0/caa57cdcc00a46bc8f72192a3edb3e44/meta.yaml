@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/caa57cdcc00a46bc8f72192a3edb3e44/artifacts
+end_time: 1711763506264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caa57cdcc00a46bc8f72192a3edb3e44
+run_name: bemused-goose-687
+run_uuid: caa57cdcc00a46bc8f72192a3edb3e44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763505828
+status: 3
+tags: []
+user_id: Shubham Bhatt

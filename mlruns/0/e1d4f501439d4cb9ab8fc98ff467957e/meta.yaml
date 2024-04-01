@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e1d4f501439d4cb9ab8fc98ff467957e/artifacts
+end_time: 1711763433996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1d4f501439d4cb9ab8fc98ff467957e
+run_name: rare-rook-123
+run_uuid: e1d4f501439d4cb9ab8fc98ff467957e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763433551
+status: 3
+tags: []
+user_id: Shubham Bhatt

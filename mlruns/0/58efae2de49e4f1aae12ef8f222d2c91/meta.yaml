@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/58efae2de49e4f1aae12ef8f222d2c91/artifacts
+end_time: 1711763292073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58efae2de49e4f1aae12ef8f222d2c91
+run_name: bedecked-conch-547
+run_uuid: 58efae2de49e4f1aae12ef8f222d2c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763291521
+status: 3
+tags: []
+user_id: Shubham Bhatt

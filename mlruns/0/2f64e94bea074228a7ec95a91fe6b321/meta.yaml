@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2f64e94bea074228a7ec95a91fe6b321/artifacts
+end_time: 1711763304601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f64e94bea074228a7ec95a91fe6b321
+run_name: gentle-foal-713
+run_uuid: 2f64e94bea074228a7ec95a91fe6b321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763304026
+status: 3
+tags: []
+user_id: Shubham Bhatt

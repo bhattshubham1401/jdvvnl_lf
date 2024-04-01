@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e9cb359a9c3d40c784dc8762f93d7a3d/artifacts
+end_time: 1711763484424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9cb359a9c3d40c784dc8762f93d7a3d
+run_name: bright-pug-461
+run_uuid: e9cb359a9c3d40c784dc8762f93d7a3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763483997
+status: 3
+tags: []
+user_id: Shubham Bhatt

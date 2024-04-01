@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/baac4a40a5ab427f86ac0c6dd7778aa0/artifacts
+end_time: 1711763372274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: baac4a40a5ab427f86ac0c6dd7778aa0
+run_name: clean-bug-715
+run_uuid: baac4a40a5ab427f86ac0c6dd7778aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763371834
+status: 3
+tags: []
+user_id: Shubham Bhatt

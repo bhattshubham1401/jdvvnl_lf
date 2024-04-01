@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c82f40f8ab974c3c9c09764d4bea94cf/artifacts
+end_time: 1711763393566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c82f40f8ab974c3c9c09764d4bea94cf
+run_name: skittish-colt-741
+run_uuid: c82f40f8ab974c3c9c09764d4bea94cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711763393028
+status: 3
+tags: []
+user_id: Shubham Bhatt
