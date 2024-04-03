@@ -81,7 +81,10 @@ class DataTransformation:
                         if len(sensor_df[sensor_df['prev_KWh'] > sensor_df['opening_KWh']]) > 25:
                             continue
 
-                        sensor_df['consumed_unit'] = abs(sensor_df['opening_KWh'] - sensor_df['prev_KWh'])
+                        # consumed unit
+                        sensor_df.loc[sensor_df['consumed_unit'] < 0, "opening_KWh"] = sensor_df["prev_KWh"]
+                        sensor_df.loc[sensor_df['consumed_unit'] < 0, "consumed_unit"] = 0
+                        # sensor_df['consumed_unit'] = abs(sensor_df['opening_KWh'] - sensor_df['prev_KWh'])
                         if sensor_df['consumed_unit'].nunique() < 10:
                             continue
 
@@ -104,8 +107,7 @@ class DataTransformation:
                             'consumed_unit'].std())
 
                         # outliers dataframe rows storing in dictionary to handle outliers
-                        outlier_dict['mean'] = sensor_df[
-                            sensor_df['consumed_unit'] > sensor_df['consumed_unit'].mean() * 3]
+                        outlier_dict['mean'] = sensor_df[sensor_df['consumed_unit'] > sensor_df['consumed_unit'].mean() * 3]
                         outlier_dict['IQR'] = sensor_df[sensor_df['consumed_unit'] > u_limit]
                         outlier_dict['z_score_3'] = sensor_df[abs(z_scores) > 3]
                         outlier_dict['z_score_4'] = sensor_df[abs(z_scores) > 4]
