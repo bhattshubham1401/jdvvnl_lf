@@ -15,10 +15,12 @@ from src.JdVVNL_Load_Forcastion.entity.config_entity import DataTransformationCo
 warnings.filterwarnings("ignore")
 import pandas as pd
 import seaborn as sns
+
 color_pal = sns.color_palette()
 plt.style.use('fivethirtyeight')
 from src.JdVVNL_Load_Forcastion.utils.common import add_lags, create_features, data_from_weather_api, \
     holidays_list, uom, sensor_data
+from sklearn.cluster import DBSCAN
 
 
 class DataTransformation:
@@ -65,7 +67,7 @@ class DataTransformation:
                         # outage situation
                         s_df.loc[s_df['opening_KWh'] == 0, "opening_KWh"] = np.nan
                         s_df.loc[s_df['opening_KWh'].first_valid_index():]
-                        s_df.fillna(method="bfill", inplace=True)
+                        s_df.bfill(inplace=True)
 
                         # missing packet
                         sensor_df = s_df.resample(rule="15min").asfreq()
@@ -85,6 +87,7 @@ class DataTransformation:
                         sensor_df['consumed_unit'] = sensor_df['opening_KWh'] - sensor_df['prev_KWh']
                         sensor_df.loc[sensor_df['consumed_unit'] < 0, "opening_KWh"] = sensor_df["prev_KWh"]
                         sensor_df.loc[sensor_df['consumed_unit'] < 0, "consumed_unit"] = 0
+
                         if sensor_df['consumed_unit'].nunique() < 10:
                             continue
 
@@ -92,36 +95,48 @@ class DataTransformation:
                         numeric_index = pd.to_numeric(sensor_df.index)
                         correlation = np.corrcoef(numeric_index, sensor_df['opening_KWh'])[0, 1]
                         coeffs = np.polyfit(numeric_index, sensor_df['opening_KWh'], 1)
+
                         slope = coeffs[0]
                         if not np.abs(correlation) > 0.8 and slope > 0:
                             continue
 
                         # outlier detection
-                        description1 = sensor_df.describe()
-                        Q1 = description1.loc['25%', 'consumed_unit']
-                        Q3 = description1.loc['75%', 'consumed_unit']
-                        # IQR
-                        u_limit = Q3 + ((Q3 - Q1) * 2)
-                        # Z_test
-                        z_scores = ((sensor_df['consumed_unit'] - sensor_df['consumed_unit'].mean()) / sensor_df[
-                            'consumed_unit'].std())
+                        epsilon = 11
+                        min_samples = 3
+                        dbscan = DBSCAN(eps=epsilon, min_samples=min_samples)
+                        # outlier_labels = dbscan.fit_predict(s_df[['consumed_unit']])
+                        # s_df['outlier'] = outlier_labels
+                        sensor_df['db_outlier'] = dbscan.fit_predict(sensor_df[['consumed_unit']])
+
+                        # print('no. of outliers were:',len(s_df[s_df['db_outlier']==-1]))
+                        sensor_df.loc[sensor_df['db_outlier'] == -1, 'consumed_unit'] = np.nan
+                        #  s_df.loc[outlier_dict[indices[0]].index,'consumed_unit'] = np.nan
+                        sensor_df.fillna(method="bfill", inplace=True)
+                        # description1 = sensor_df.describe()
+                        # Q1 = description1.loc['25%', 'consumed_unit']
+                        # Q3 = description1.loc['75%', 'consumed_unit']
+                        # # IQR
+                        # u_limit = Q3 + ((Q3 - Q1) * 2)
+                        # # Z_test
+                        # z_scores = ((sensor_df['consumed_unit'] - sensor_df['consumed_unit'].mean()) / sensor_df[
+                        #     'consumed_unit'].std())
 
                         # outliers dataframe rows storing in dictionary to handle outliers
-                        outlier_dict['mean'] = sensor_df[sensor_df['consumed_unit'] > sensor_df['consumed_unit'].mean() * 3]
-                        outlier_dict['IQR'] = sensor_df[sensor_df['consumed_unit'] > u_limit]
-                        outlier_dict['z_score_3'] = sensor_df[abs(z_scores) > 3]
-                        outlier_dict['z_score_4'] = sensor_df[abs(z_scores) > 4]
+                        # outlier_dict['mean'] = sensor_df[sensor_df['consumed_unit'] > sensor_df['consumed_unit'].mean() * 3]
+                        # outlier_dict['IQR'] = sensor_df[sensor_df['consumed_unit'] > u_limit]
+                        # outlier_dict['z_score_3'] = sensor_df[abs(z_scores) > 3]
+                        # outlier_dict['z_score_4'] = sensor_df[abs(z_scores) > 4]
 
                         # using that method which has the least number of outliers
-                        l1 = []
-                        for lst in outlier_dict.values():
-                            l1.append(len(lst))
-                        min_length = min(l1)
-                        indices = [key for key, value in outlier_dict.items() if len(value) == min_length]
+                        # l1 = []
+                        # for lst in outlier_dict.values():
+                        #     l1.append(len(lst))
+                        # min_length = min(l1)
+                        # indices = [key for key, value in outlier_dict.items() if len(value) == min_length]
 
-                        # filling nan on places of outliers and filling the previous value
-                        sensor_df.loc[outlier_dict[indices[0]].index, 'consumed_unit'] = np.nan
-                        sensor_df.fillna(method="bfill", inplace=True)
+                        # # filling nan on places of outliers and filling the previous value
+                        # sensor_df.loc[outlier_dict[indices[0]].index, 'consumed_unit'] = np.nan
+                        # sensor_df.bfill(inplace=True)
 
                         # adding multiple values from sensor data
                         sensor_df['site_id'] = s_df['site_id']
@@ -138,7 +153,6 @@ class DataTransformation:
                             weather_data = weather_data[~weather_data.index.duplicated(keep='first')]
                             weather_data = weather_data.resample('15 min').ffill()
 
-
                             # Convert the creation_time columns to datetime if they are not already
                             weather_data.reset_index(inplace=True)
                             weather_data['creation_time'] = pd.to_datetime(weather_data['time'])
@@ -147,8 +161,8 @@ class DataTransformation:
 
                             # Drop the redundant columns
                             merged_df.drop(
-                                columns=['UOM', 'prev_KWh', 'opening_KWh', '_id_x','_id_y',
-                                         'site_id_y', 'site_id_x', 'creation_time_iso','time'], inplace=True)
+                                columns=['UOM', 'prev_KWh', 'opening_KWh', '_id_x', '_id_y',
+                                         'site_id_y', 'site_id_x', 'creation_time_iso', 'time'], inplace=True)
                         else:
                             print("Weather data is empty. Skipping merge operation or performing alternative action...")
                             continue
