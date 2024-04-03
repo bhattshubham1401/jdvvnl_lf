@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1cf5c9f71bf64399ac5321402cd6ac5d/artifacts
+end_time: 1712139739744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cf5c9f71bf64399ac5321402cd6ac5d
+run_name: brawny-sheep-971
+run_uuid: 1cf5c9f71bf64399ac5321402cd6ac5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139739674
+status: 3
+tags: []
+user_id: Shubham Bhatt

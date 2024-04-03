@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/67324a489bb0498786370eef941fc6b5/artifacts
+end_time: 1712139736521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67324a489bb0498786370eef941fc6b5
+run_name: fun-sheep-871
+run_uuid: 67324a489bb0498786370eef941fc6b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139736446
+status: 3
+tags: []
+user_id: Shubham Bhatt

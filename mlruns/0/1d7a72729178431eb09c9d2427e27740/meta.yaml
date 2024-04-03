@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1d7a72729178431eb09c9d2427e27740/artifacts
+end_time: 1712139756668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d7a72729178431eb09c9d2427e27740
+run_name: whimsical-robin-111
+run_uuid: 1d7a72729178431eb09c9d2427e27740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139756586
+status: 3
+tags: []
+user_id: Shubham Bhatt

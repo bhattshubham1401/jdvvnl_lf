@@ -82,9 +82,9 @@ class DataTransformation:
                             continue
 
                         # consumed unit
+                        sensor_df['consumed_unit'] = sensor_df['opening_KWh'] - sensor_df['prev_KWh']
                         sensor_df.loc[sensor_df['consumed_unit'] < 0, "opening_KWh"] = sensor_df["prev_KWh"]
                         sensor_df.loc[sensor_df['consumed_unit'] < 0, "consumed_unit"] = 0
-                        # sensor_df['consumed_unit'] = abs(sensor_df['opening_KWh'] - sensor_df['prev_KWh'])
                         if sensor_df['consumed_unit'].nunique() < 10:
                             continue
 

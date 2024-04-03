@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3da46ee9b98046518c4ab0605e3dc3a4/artifacts
+end_time: 1712139754095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3da46ee9b98046518c4ab0605e3dc3a4
+run_name: flawless-whale-196
+run_uuid: 3da46ee9b98046518c4ab0605e3dc3a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139754004
+status: 3
+tags: []
+user_id: Shubham Bhatt

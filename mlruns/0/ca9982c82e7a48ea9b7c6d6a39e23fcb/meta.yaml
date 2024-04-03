@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ca9982c82e7a48ea9b7c6d6a39e23fcb/artifacts
+end_time: 1712139735954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca9982c82e7a48ea9b7c6d6a39e23fcb
+run_name: intrigued-bug-651
+run_uuid: ca9982c82e7a48ea9b7c6d6a39e23fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139735882
+status: 3
+tags: []
+user_id: Shubham Bhatt

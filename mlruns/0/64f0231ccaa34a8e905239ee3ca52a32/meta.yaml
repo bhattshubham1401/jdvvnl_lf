@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/64f0231ccaa34a8e905239ee3ca52a32/artifacts
+end_time: 1712139753085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64f0231ccaa34a8e905239ee3ca52a32
+run_name: defiant-shrew-577
+run_uuid: 64f0231ccaa34a8e905239ee3ca52a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139752996
+status: 3
+tags: []
+user_id: Shubham Bhatt

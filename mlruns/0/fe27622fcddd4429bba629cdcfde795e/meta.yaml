@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/fe27622fcddd4429bba629cdcfde795e/artifacts
+end_time: 1712139743380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe27622fcddd4429bba629cdcfde795e
+run_name: judicious-dolphin-20
+run_uuid: fe27622fcddd4429bba629cdcfde795e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139743304
+status: 3
+tags: []
+user_id: Shubham Bhatt

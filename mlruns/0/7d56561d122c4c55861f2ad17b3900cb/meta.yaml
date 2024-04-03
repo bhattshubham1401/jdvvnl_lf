@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/7d56561d122c4c55861f2ad17b3900cb/artifacts
+end_time: 1712139752283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d56561d122c4c55861f2ad17b3900cb
+run_name: gaudy-wren-915
+run_uuid: 7d56561d122c4c55861f2ad17b3900cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139752203
+status: 3
+tags: []
+user_id: Shubham Bhatt

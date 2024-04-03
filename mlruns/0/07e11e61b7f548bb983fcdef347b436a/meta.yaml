@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/07e11e61b7f548bb983fcdef347b436a/artifacts
+end_time: 1712139749184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07e11e61b7f548bb983fcdef347b436a
+run_name: gentle-bee-511
+run_uuid: 07e11e61b7f548bb983fcdef347b436a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139749114
+status: 3
+tags: []
+user_id: Shubham Bhatt

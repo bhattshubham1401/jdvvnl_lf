@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/fd1b2e2bf3334e95a9525b28c1d07a8d/artifacts
+end_time: 1712139755710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd1b2e2bf3334e95a9525b28c1d07a8d
+run_name: big-mink-996
+run_uuid: fd1b2e2bf3334e95a9525b28c1d07a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139755637
+status: 3
+tags: []
+user_id: Shubham Bhatt

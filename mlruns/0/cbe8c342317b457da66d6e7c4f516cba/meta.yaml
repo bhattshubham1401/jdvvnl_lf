@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/cbe8c342317b457da66d6e7c4f516cba/artifacts
+end_time: 1712139734820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbe8c342317b457da66d6e7c4f516cba
+run_name: delicate-stork-519
+run_uuid: cbe8c342317b457da66d6e7c4f516cba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139734724
+status: 3
+tags: []
+user_id: Shubham Bhatt

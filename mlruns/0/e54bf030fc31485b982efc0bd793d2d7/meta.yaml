@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e54bf030fc31485b982efc0bd793d2d7/artifacts
+end_time: 1712139755083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e54bf030fc31485b982efc0bd793d2d7
+run_name: suave-wolf-305
+run_uuid: e54bf030fc31485b982efc0bd793d2d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139755012
+status: 3
+tags: []
+user_id: Shubham Bhatt

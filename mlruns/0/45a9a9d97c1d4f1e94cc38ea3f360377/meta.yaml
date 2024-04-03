@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/45a9a9d97c1d4f1e94cc38ea3f360377/artifacts
+end_time: 1712139746576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45a9a9d97c1d4f1e94cc38ea3f360377
+run_name: lyrical-elk-915
+run_uuid: 45a9a9d97c1d4f1e94cc38ea3f360377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139746504
+status: 3
+tags: []
+user_id: Shubham Bhatt

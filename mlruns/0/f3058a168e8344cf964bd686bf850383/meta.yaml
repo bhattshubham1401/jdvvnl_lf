@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f3058a168e8344cf964bd686bf850383/artifacts
+end_time: 1712139755295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3058a168e8344cf964bd686bf850383
+run_name: clumsy-tern-153
+run_uuid: f3058a168e8344cf964bd686bf850383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139755219
+status: 3
+tags: []
+user_id: Shubham Bhatt

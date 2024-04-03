@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2662ba4b9ba94590b6140ff882c00cf1/artifacts
+end_time: 1712139739443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2662ba4b9ba94590b6140ff882c00cf1
+run_name: adaptable-doe-724
+run_uuid: 2662ba4b9ba94590b6140ff882c00cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139739361
+status: 3
+tags: []
+user_id: Shubham Bhatt

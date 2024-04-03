@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b0aa5b21d36c44a0b5261dbd105da950/artifacts
+end_time: 1712139734038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0aa5b21d36c44a0b5261dbd105da950
+run_name: melodic-cod-656
+run_uuid: b0aa5b21d36c44a0b5261dbd105da950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139733936
+status: 3
+tags: []
+user_id: Shubham Bhatt

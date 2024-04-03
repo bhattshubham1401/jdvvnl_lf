@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/40e6759aa08b43eaa90ea5f9e56b0231/artifacts
+end_time: 1712139735554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40e6759aa08b43eaa90ea5f9e56b0231
+run_name: awesome-robin-349
+run_uuid: 40e6759aa08b43eaa90ea5f9e56b0231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139735487
+status: 3
+tags: []
+user_id: Shubham Bhatt

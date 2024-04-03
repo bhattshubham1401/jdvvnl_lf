@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a7ab8b2975b646bc89dc4b06d4023027/artifacts
+end_time: 1712139732804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7ab8b2975b646bc89dc4b06d4023027
+run_name: bald-newt-144
+run_uuid: a7ab8b2975b646bc89dc4b06d4023027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139732750
+status: 3
+tags: []
+user_id: Shubham Bhatt

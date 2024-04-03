@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/10d86389e2b543cba582c7fbfaeabad4/artifacts
+end_time: 1712139738705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10d86389e2b543cba582c7fbfaeabad4
+run_name: clumsy-flea-579
+run_uuid: 10d86389e2b543cba582c7fbfaeabad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139738630
+status: 3
+tags: []
+user_id: Shubham Bhatt
