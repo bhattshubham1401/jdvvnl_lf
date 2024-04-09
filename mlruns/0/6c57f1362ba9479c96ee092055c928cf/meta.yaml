@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6c57f1362ba9479c96ee092055c928cf/artifacts
+end_time: 1712370216609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c57f1362ba9479c96ee092055c928cf
+run_name: classy-goose-740
+run_uuid: 6c57f1362ba9479c96ee092055c928cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370216453
+status: 3
+tags: []
+user_id: Shubham Bhatt

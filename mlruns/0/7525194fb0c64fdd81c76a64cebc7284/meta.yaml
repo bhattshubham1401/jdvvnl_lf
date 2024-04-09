@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/7525194fb0c64fdd81c76a64cebc7284/artifacts
+end_time: 1712335188761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7525194fb0c64fdd81c76a64cebc7284
+run_name: burly-dog-435
+run_uuid: 7525194fb0c64fdd81c76a64cebc7284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335188658
+status: 3
+tags: []
+user_id: Shubham Bhatt

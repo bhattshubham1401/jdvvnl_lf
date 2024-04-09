@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/cb4ac2fdaeb046789940854beccc29a9/artifacts
+end_time: 1712370160692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb4ac2fdaeb046789940854beccc29a9
+run_name: clumsy-dove-729
+run_uuid: cb4ac2fdaeb046789940854beccc29a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370160450
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/fd2d7623582a4a8c975353d2c5a72dd3/artifacts
+end_time: 1712261398610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd2d7623582a4a8c975353d2c5a72dd3
+run_name: secretive-lynx-284
+run_uuid: fd2d7623582a4a8c975353d2c5a72dd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261398520
+status: 3
+tags: []
+user_id: Shubham Bhatt

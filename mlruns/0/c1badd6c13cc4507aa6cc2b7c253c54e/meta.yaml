@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c1badd6c13cc4507aa6cc2b7c253c54e/artifacts
+end_time: 1712235548490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1badd6c13cc4507aa6cc2b7c253c54e
+run_name: redolent-fly-569
+run_uuid: c1badd6c13cc4507aa6cc2b7c253c54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235548331
+status: 3
+tags: []
+user_id: Shubham Bhatt

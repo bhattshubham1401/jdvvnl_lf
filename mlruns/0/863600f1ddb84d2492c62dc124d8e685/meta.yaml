@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/863600f1ddb84d2492c62dc124d8e685/artifacts
+end_time: 1712335177858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 863600f1ddb84d2492c62dc124d8e685
+run_name: awesome-fish-798
+run_uuid: 863600f1ddb84d2492c62dc124d8e685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335177753
+status: 3
+tags: []
+user_id: Shubham Bhatt

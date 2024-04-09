@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ebf3efb5c6e543dd8be9ee15dc6e1868/artifacts
+end_time: 1712335162598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebf3efb5c6e543dd8be9ee15dc6e1868
+run_name: thoughtful-crab-384
+run_uuid: ebf3efb5c6e543dd8be9ee15dc6e1868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335162467
+status: 3
+tags: []
+user_id: Shubham Bhatt

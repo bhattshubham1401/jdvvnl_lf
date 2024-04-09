@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/cf6cec4290294320bed85ba07cf4afa9/artifacts
+end_time: 1712335110009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf6cec4290294320bed85ba07cf4afa9
+run_name: sedate-kit-328
+run_uuid: cf6cec4290294320bed85ba07cf4afa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335109899
+status: 3
+tags: []
+user_id: Shubham Bhatt

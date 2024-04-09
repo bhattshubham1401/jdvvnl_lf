@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/32a0e43fb91547b79008869bb25e8680/artifacts
+end_time: 1712139738251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32a0e43fb91547b79008869bb25e8680
+run_name: capable-lynx-489
+run_uuid: 32a0e43fb91547b79008869bb25e8680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139738176
+status: 3
+tags: []
+user_id: Shubham Bhatt

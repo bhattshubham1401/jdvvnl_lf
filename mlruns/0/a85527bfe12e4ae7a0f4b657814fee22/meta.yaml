@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a85527bfe12e4ae7a0f4b657814fee22/artifacts
+end_time: 1712235530081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a85527bfe12e4ae7a0f4b657814fee22
+run_name: masked-midge-807
+run_uuid: a85527bfe12e4ae7a0f4b657814fee22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235529846
+status: 3
+tags: []
+user_id: Shubham Bhatt

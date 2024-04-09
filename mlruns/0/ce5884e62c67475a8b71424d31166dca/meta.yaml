@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ce5884e62c67475a8b71424d31166dca/artifacts
+end_time: 1712261390676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce5884e62c67475a8b71424d31166dca
+run_name: funny-croc-540
+run_uuid: ce5884e62c67475a8b71424d31166dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261390589
+status: 3
+tags: []
+user_id: Shubham Bhatt

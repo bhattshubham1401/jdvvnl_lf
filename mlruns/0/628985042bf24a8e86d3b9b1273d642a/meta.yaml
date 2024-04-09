@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/628985042bf24a8e86d3b9b1273d642a/artifacts
+end_time: 1712335154073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 628985042bf24a8e86d3b9b1273d642a
+run_name: suave-sheep-673
+run_uuid: 628985042bf24a8e86d3b9b1273d642a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335153892
+status: 3
+tags: []
+user_id: Shubham Bhatt

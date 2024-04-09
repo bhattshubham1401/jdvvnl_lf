@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f2c8f13361474a0382d7eb997b7a19b6/artifacts
+end_time: 1712335188067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2c8f13361474a0382d7eb997b7a19b6
+run_name: bald-squirrel-884
+run_uuid: f2c8f13361474a0382d7eb997b7a19b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335187955
+status: 3
+tags: []
+user_id: Shubham Bhatt

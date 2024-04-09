@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5dcce4a12c6e4ea9ba51112a62354cd4/artifacts
+end_time: 1712335153863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dcce4a12c6e4ea9ba51112a62354cd4
+run_name: nosy-carp-628
+run_uuid: 5dcce4a12c6e4ea9ba51112a62354cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335153750
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c93d75da6f8e43d5a164a64db651d9d2/artifacts
+end_time: 1712370212231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c93d75da6f8e43d5a164a64db651d9d2
+run_name: orderly-wren-404
+run_uuid: c93d75da6f8e43d5a164a64db651d9d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370212064
+status: 3
+tags: []
+user_id: Shubham Bhatt

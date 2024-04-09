@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/01e0d842a16548529827010a7dca20b3/artifacts
+end_time: 1712235549202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01e0d842a16548529827010a7dca20b3
+run_name: capable-fish-56
+run_uuid: 01e0d842a16548529827010a7dca20b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235549096
+status: 3
+tags: []
+user_id: Shubham Bhatt

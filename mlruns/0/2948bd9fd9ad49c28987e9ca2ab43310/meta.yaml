@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2948bd9fd9ad49c28987e9ca2ab43310/artifacts
+end_time: 1712335163707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2948bd9fd9ad49c28987e9ca2ab43310
+run_name: intelligent-toad-131
+run_uuid: 2948bd9fd9ad49c28987e9ca2ab43310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335163600
+status: 3
+tags: []
+user_id: Shubham Bhatt

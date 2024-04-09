@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ee90f50bf0b74926affb96dbc10477fb/artifacts
+end_time: 1712335145089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee90f50bf0b74926affb96dbc10477fb
+run_name: bald-snipe-506
+run_uuid: ee90f50bf0b74926affb96dbc10477fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335144972
+status: 3
+tags: []
+user_id: Shubham Bhatt

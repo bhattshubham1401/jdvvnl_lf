@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4fe23d2734ce4ad68f226d10b030aecb/artifacts
+end_time: 1712261398248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fe23d2734ce4ad68f226d10b030aecb
+run_name: persistent-ram-974
+run_uuid: 4fe23d2734ce4ad68f226d10b030aecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261398164
+status: 3
+tags: []
+user_id: Shubham Bhatt

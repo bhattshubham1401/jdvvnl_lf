@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8b8ac148bf654e20bc3901a92f38b46e/artifacts
+end_time: 1712335174694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b8ac148bf654e20bc3901a92f38b46e
+run_name: masked-snail-618
+run_uuid: 8b8ac148bf654e20bc3901a92f38b46e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335174589
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/7f99fa34e6ad4b51bfdac989d47f4d1a/artifacts
+end_time: 1712261392307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f99fa34e6ad4b51bfdac989d47f4d1a
+run_name: calm-owl-163
+run_uuid: 7f99fa34e6ad4b51bfdac989d47f4d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261392220
+status: 3
+tags: []
+user_id: Shubham Bhatt

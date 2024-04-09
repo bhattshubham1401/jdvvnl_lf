@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ac1efb05a8984cb48203c218340dce30/artifacts
+end_time: 1712139741565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac1efb05a8984cb48203c218340dce30
+run_name: gentle-lynx-476
+run_uuid: ac1efb05a8984cb48203c218340dce30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139741489
+status: 3
+tags: []
+user_id: Shubham Bhatt

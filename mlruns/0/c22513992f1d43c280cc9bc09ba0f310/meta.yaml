@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c22513992f1d43c280cc9bc09ba0f310/artifacts
+end_time: 1712235540148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c22513992f1d43c280cc9bc09ba0f310
+run_name: luminous-colt-535
+run_uuid: c22513992f1d43c280cc9bc09ba0f310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235539917
+status: 3
+tags: []
+user_id: Shubham Bhatt

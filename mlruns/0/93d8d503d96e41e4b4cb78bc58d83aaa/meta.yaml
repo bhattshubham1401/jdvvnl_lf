@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/93d8d503d96e41e4b4cb78bc58d83aaa/artifacts
+end_time: 1712235561248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93d8d503d96e41e4b4cb78bc58d83aaa
+run_name: gentle-koi-654
+run_uuid: 93d8d503d96e41e4b4cb78bc58d83aaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235561135
+status: 3
+tags: []
+user_id: Shubham Bhatt

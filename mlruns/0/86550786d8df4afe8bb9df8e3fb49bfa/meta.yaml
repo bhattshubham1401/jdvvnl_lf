@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/86550786d8df4afe8bb9df8e3fb49bfa/artifacts
+end_time: 1712370163201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86550786d8df4afe8bb9df8e3fb49bfa
+run_name: welcoming-rook-260
+run_uuid: 86550786d8df4afe8bb9df8e3fb49bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370163072
+status: 3
+tags: []
+user_id: Shubham Bhatt

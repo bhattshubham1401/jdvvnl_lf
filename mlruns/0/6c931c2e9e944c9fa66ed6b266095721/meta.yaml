@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6c931c2e9e944c9fa66ed6b266095721/artifacts
+end_time: 1712335122366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c931c2e9e944c9fa66ed6b266095721
+run_name: beautiful-conch-776
+run_uuid: 6c931c2e9e944c9fa66ed6b266095721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335122226
+status: 3
+tags: []
+user_id: Shubham Bhatt

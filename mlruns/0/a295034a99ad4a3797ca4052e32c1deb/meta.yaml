@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a295034a99ad4a3797ca4052e32c1deb/artifacts
+end_time: 1712370220881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a295034a99ad4a3797ca4052e32c1deb
+run_name: receptive-fowl-172
+run_uuid: a295034a99ad4a3797ca4052e32c1deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370220719
+status: 3
+tags: []
+user_id: Shubham Bhatt

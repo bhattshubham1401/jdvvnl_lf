@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/70fb6cf22ae34a94a1dafbbb4618f29b/artifacts
+end_time: 1712235557875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70fb6cf22ae34a94a1dafbbb4618f29b
+run_name: blushing-donkey-913
+run_uuid: 70fb6cf22ae34a94a1dafbbb4618f29b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235557769
+status: 3
+tags: []
+user_id: Shubham Bhatt

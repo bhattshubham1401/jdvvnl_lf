@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/cc62a8f3a8894b62a093995ff37c3e70/artifacts
+end_time: 1712370196090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc62a8f3a8894b62a093995ff37c3e70
+run_name: grandiose-eel-886
+run_uuid: cc62a8f3a8894b62a093995ff37c3e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370195951
+status: 3
+tags: []
+user_id: Shubham Bhatt

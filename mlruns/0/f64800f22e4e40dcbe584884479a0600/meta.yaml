@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f64800f22e4e40dcbe584884479a0600/artifacts
+end_time: 1712370168773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f64800f22e4e40dcbe584884479a0600
+run_name: shivering-fawn-296
+run_uuid: f64800f22e4e40dcbe584884479a0600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370168524
+status: 3
+tags: []
+user_id: Shubham Bhatt

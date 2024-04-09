@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c61490c2cf2d40c58a88f9e6077079d3/artifacts
+end_time: 1712261399781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c61490c2cf2d40c58a88f9e6077079d3
+run_name: grandiose-duck-245
+run_uuid: c61490c2cf2d40c58a88f9e6077079d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261399699
+status: 3
+tags: []
+user_id: Shubham Bhatt

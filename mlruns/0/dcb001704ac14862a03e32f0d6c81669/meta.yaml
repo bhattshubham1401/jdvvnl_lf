@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/dcb001704ac14862a03e32f0d6c81669/artifacts
+end_time: 1712370227179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcb001704ac14862a03e32f0d6c81669
+run_name: polite-mole-874
+run_uuid: dcb001704ac14862a03e32f0d6c81669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370227023
+status: 3
+tags: []
+user_id: Shubham Bhatt

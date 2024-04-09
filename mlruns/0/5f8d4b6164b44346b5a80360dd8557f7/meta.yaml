@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5f8d4b6164b44346b5a80360dd8557f7/artifacts
+end_time: 1712370189277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f8d4b6164b44346b5a80360dd8557f7
+run_name: gifted-moose-868
+run_uuid: 5f8d4b6164b44346b5a80360dd8557f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370189090
+status: 3
+tags: []
+user_id: Shubham Bhatt

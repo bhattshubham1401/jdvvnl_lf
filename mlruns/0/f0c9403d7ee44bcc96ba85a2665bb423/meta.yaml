@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f0c9403d7ee44bcc96ba85a2665bb423/artifacts
+end_time: 1712335104278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0c9403d7ee44bcc96ba85a2665bb423
+run_name: popular-pug-199
+run_uuid: f0c9403d7ee44bcc96ba85a2665bb423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335104181
+status: 3
+tags: []
+user_id: Shubham Bhatt

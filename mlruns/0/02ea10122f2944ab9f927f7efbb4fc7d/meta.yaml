@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/02ea10122f2944ab9f927f7efbb4fc7d/artifacts
+end_time: 1712335112398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02ea10122f2944ab9f927f7efbb4fc7d
+run_name: learned-bird-713
+run_uuid: 02ea10122f2944ab9f927f7efbb4fc7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335112229
+status: 3
+tags: []
+user_id: Shubham Bhatt

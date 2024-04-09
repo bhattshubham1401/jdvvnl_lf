@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1e956130c7864126a27392198e94ce44/artifacts
+end_time: 1712370192215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e956130c7864126a27392198e94ce44
+run_name: calm-grouse-60
+run_uuid: 1e956130c7864126a27392198e94ce44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370192080
+status: 3
+tags: []
+user_id: Shubham Bhatt

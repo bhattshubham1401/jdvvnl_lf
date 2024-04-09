@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/cf8a5c380a4848d9b58b201716dc9173/artifacts
+end_time: 1712335187376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf8a5c380a4848d9b58b201716dc9173
+run_name: amusing-sloth-878
+run_uuid: cf8a5c380a4848d9b58b201716dc9173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335187256
+status: 3
+tags: []
+user_id: Shubham Bhatt

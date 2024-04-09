@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a401fe9f1196452cbdc288b60973d46f/artifacts
+end_time: 1712335166646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a401fe9f1196452cbdc288b60973d46f
+run_name: lyrical-foal-256
+run_uuid: a401fe9f1196452cbdc288b60973d46f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335166539
+status: 3
+tags: []
+user_id: Shubham Bhatt

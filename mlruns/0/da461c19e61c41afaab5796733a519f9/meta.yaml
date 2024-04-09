@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/da461c19e61c41afaab5796733a519f9/artifacts
+end_time: 1712139742441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da461c19e61c41afaab5796733a519f9
+run_name: clean-deer-760
+run_uuid: da461c19e61c41afaab5796733a519f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139742362
+status: 3
+tags: []
+user_id: Shubham Bhatt

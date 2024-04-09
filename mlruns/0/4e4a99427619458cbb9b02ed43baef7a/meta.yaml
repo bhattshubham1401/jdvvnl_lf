@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4e4a99427619458cbb9b02ed43baef7a/artifacts
+end_time: 1712335158337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e4a99427619458cbb9b02ed43baef7a
+run_name: charming-rook-728
+run_uuid: 4e4a99427619458cbb9b02ed43baef7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335158209
+status: 3
+tags: []
+user_id: Shubham Bhatt

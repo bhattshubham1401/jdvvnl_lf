@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/994e20eb27d84f26a9d203a52c34e423/artifacts
+end_time: 1712335185656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 994e20eb27d84f26a9d203a52c34e423
+run_name: luminous-stag-800
+run_uuid: 994e20eb27d84f26a9d203a52c34e423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335185539
+status: 3
+tags: []
+user_id: Shubham Bhatt

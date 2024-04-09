@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2f26b17ac3ff4c99b2cf793a7539fb23/artifacts
+end_time: 1712335103710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f26b17ac3ff4c99b2cf793a7539fb23
+run_name: nebulous-gull-281
+run_uuid: 2f26b17ac3ff4c99b2cf793a7539fb23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335103610
+status: 3
+tags: []
+user_id: Shubham Bhatt

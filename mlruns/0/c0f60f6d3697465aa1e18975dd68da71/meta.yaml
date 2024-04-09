@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c0f60f6d3697465aa1e18975dd68da71/artifacts
+end_time: 1712335119277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0f60f6d3697465aa1e18975dd68da71
+run_name: angry-lark-875
+run_uuid: c0f60f6d3697465aa1e18975dd68da71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335119140
+status: 3
+tags: []
+user_id: Shubham Bhatt

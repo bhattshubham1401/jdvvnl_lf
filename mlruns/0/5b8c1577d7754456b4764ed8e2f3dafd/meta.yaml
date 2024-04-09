@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5b8c1577d7754456b4764ed8e2f3dafd/artifacts
+end_time: 1712370183928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b8c1577d7754456b4764ed8e2f3dafd
+run_name: marvelous-cow-526
+run_uuid: 5b8c1577d7754456b4764ed8e2f3dafd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370183752
+status: 3
+tags: []
+user_id: Shubham Bhatt

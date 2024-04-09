@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a4265947f4fb49a0b597f9f23510ea87/artifacts
+end_time: 1712335175962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4265947f4fb49a0b597f9f23510ea87
+run_name: nimble-crow-403
+run_uuid: a4265947f4fb49a0b597f9f23510ea87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335175849
+status: 3
+tags: []
+user_id: Shubham Bhatt

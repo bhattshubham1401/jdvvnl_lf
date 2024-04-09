@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c3a69b18416e49099c8c9ca913f7f212/artifacts
+end_time: 1712335123934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3a69b18416e49099c8c9ca913f7f212
+run_name: awesome-hen-305
+run_uuid: c3a69b18416e49099c8c9ca913f7f212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335123725
+status: 3
+tags: []
+user_id: Shubham Bhatt

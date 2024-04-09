@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c71509d2b3af4612a90b8d7bbe0fb1f1/artifacts
+end_time: 1712370173211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c71509d2b3af4612a90b8d7bbe0fb1f1
+run_name: adorable-gnat-121
+run_uuid: c71509d2b3af4612a90b8d7bbe0fb1f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370173035
+status: 3
+tags: []
+user_id: Shubham Bhatt

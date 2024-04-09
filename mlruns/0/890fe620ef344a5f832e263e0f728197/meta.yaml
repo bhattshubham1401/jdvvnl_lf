@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/890fe620ef344a5f832e263e0f728197/artifacts
+end_time: 1712370178909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 890fe620ef344a5f832e263e0f728197
+run_name: nimble-goose-497
+run_uuid: 890fe620ef344a5f832e263e0f728197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370178611
+status: 3
+tags: []
+user_id: Shubham Bhatt

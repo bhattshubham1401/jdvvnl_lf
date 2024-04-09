@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/dfe2bd0f22de47d2ae9172cf961580aa/artifacts
+end_time: 1712235520460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfe2bd0f22de47d2ae9172cf961580aa
+run_name: sedate-finch-501
+run_uuid: dfe2bd0f22de47d2ae9172cf961580aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235520228
+status: 3
+tags: []
+user_id: Shubham Bhatt

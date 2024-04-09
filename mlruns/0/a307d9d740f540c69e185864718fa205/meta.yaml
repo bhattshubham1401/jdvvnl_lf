@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a307d9d740f540c69e185864718fa205/artifacts
+end_time: 1712335111067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a307d9d740f540c69e185864718fa205
+run_name: redolent-sheep-804
+run_uuid: a307d9d740f540c69e185864718fa205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335110952
+status: 3
+tags: []
+user_id: Shubham Bhatt

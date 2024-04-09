@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/706f7179a6e548709f795936ed4709ee/artifacts
+end_time: 1712335096961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 706f7179a6e548709f795936ed4709ee
+run_name: rare-lark-573
+run_uuid: 706f7179a6e548709f795936ed4709ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335096827
+status: 3
+tags: []
+user_id: Shubham Bhatt

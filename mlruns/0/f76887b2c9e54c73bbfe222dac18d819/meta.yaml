@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f76887b2c9e54c73bbfe222dac18d819/artifacts
+end_time: 1712335162900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f76887b2c9e54c73bbfe222dac18d819
+run_name: likeable-whale-801
+run_uuid: f76887b2c9e54c73bbfe222dac18d819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335162781
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ca7ee57bd8944344abcdd2e890f21310/artifacts
+end_time: 1712335141759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca7ee57bd8944344abcdd2e890f21310
+run_name: grandiose-fish-282
+run_uuid: ca7ee57bd8944344abcdd2e890f21310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335141647
+status: 3
+tags: []
+user_id: Shubham Bhatt

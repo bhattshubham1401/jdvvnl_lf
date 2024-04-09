@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/bdd5c8a259e84dd6a36f740cdce2cc9e/artifacts
+end_time: 1712335096193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdd5c8a259e84dd6a36f740cdce2cc9e
+run_name: bouncy-perch-216
+run_uuid: bdd5c8a259e84dd6a36f740cdce2cc9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335095980
+status: 3
+tags: []
+user_id: Shubham Bhatt

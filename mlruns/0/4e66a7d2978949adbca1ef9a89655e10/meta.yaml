@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4e66a7d2978949adbca1ef9a89655e10/artifacts
+end_time: 1712235554170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e66a7d2978949adbca1ef9a89655e10
+run_name: aged-dolphin-637
+run_uuid: 4e66a7d2978949adbca1ef9a89655e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235554081
+status: 3
+tags: []
+user_id: Shubham Bhatt

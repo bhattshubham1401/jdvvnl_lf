@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ec1ae64c503a4577be1ee6ad85980fcc/artifacts
+end_time: 1712139739646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec1ae64c503a4577be1ee6ad85980fcc
+run_name: capricious-bear-554
+run_uuid: ec1ae64c503a4577be1ee6ad85980fcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139739577
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e3d4b834ab38432781e6db52b501390d/artifacts
+end_time: 1712139751071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3d4b834ab38432781e6db52b501390d
+run_name: omniscient-deer-903
+run_uuid: e3d4b834ab38432781e6db52b501390d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139750997
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/99f3abb56d804cc191641e59bf4fe764/artifacts
+end_time: 1712335095212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99f3abb56d804cc191641e59bf4fe764
+run_name: sedate-shark-358
+run_uuid: 99f3abb56d804cc191641e59bf4fe764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335095111
+status: 3
+tags: []
+user_id: Shubham Bhatt

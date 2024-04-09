@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ab7249d5dfa843589a963506ffd4f54a/artifacts
+end_time: 1712235546988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab7249d5dfa843589a963506ffd4f54a
+run_name: abundant-cow-574
+run_uuid: ab7249d5dfa843589a963506ffd4f54a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235546746
+status: 3
+tags: []
+user_id: Shubham Bhatt

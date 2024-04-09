@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/605bdd67d4fa4451a13cb0fd7d55b45a/artifacts
+end_time: 1712335146058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 605bdd67d4fa4451a13cb0fd7d55b45a
+run_name: polite-ray-182
+run_uuid: 605bdd67d4fa4451a13cb0fd7d55b45a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335145923
+status: 3
+tags: []
+user_id: Shubham Bhatt

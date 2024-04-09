@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0c3b374a842c4c48aabbf25220dff90e/artifacts
+end_time: 1712139750509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c3b374a842c4c48aabbf25220dff90e
+run_name: whimsical-mink-103
+run_uuid: 0c3b374a842c4c48aabbf25220dff90e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139750430
+status: 3
+tags: []
+user_id: Shubham Bhatt

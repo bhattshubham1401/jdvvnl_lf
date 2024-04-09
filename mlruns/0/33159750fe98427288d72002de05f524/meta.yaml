@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/33159750fe98427288d72002de05f524/artifacts
+end_time: 1712235556314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33159750fe98427288d72002de05f524
+run_name: dapper-whale-514
+run_uuid: 33159750fe98427288d72002de05f524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235556213
+status: 3
+tags: []
+user_id: Shubham Bhatt

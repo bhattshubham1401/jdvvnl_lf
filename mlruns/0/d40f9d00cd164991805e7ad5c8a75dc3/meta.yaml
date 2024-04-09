@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d40f9d00cd164991805e7ad5c8a75dc3/artifacts
+end_time: 1712235535543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d40f9d00cd164991805e7ad5c8a75dc3
+run_name: adaptable-rat-575
+run_uuid: d40f9d00cd164991805e7ad5c8a75dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235535334
+status: 3
+tags: []
+user_id: Shubham Bhatt

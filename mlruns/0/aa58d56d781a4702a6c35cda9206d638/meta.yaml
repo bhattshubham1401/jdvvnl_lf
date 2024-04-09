@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/aa58d56d781a4702a6c35cda9206d638/artifacts
+end_time: 1712139753510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa58d56d781a4702a6c35cda9206d638
+run_name: popular-toad-316
+run_uuid: aa58d56d781a4702a6c35cda9206d638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139753425
+status: 3
+tags: []
+user_id: Shubham Bhatt

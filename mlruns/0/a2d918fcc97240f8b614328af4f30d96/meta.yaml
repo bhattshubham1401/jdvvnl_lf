@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a2d918fcc97240f8b614328af4f30d96/artifacts
+end_time: 1712335153125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2d918fcc97240f8b614328af4f30d96
+run_name: capricious-rook-575
+run_uuid: a2d918fcc97240f8b614328af4f30d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335153014
+status: 3
+tags: []
+user_id: Shubham Bhatt

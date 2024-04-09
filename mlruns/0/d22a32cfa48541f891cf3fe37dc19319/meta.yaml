@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d22a32cfa48541f891cf3fe37dc19319/artifacts
+end_time: 1712335131201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d22a32cfa48541f891cf3fe37dc19319
+run_name: receptive-robin-54
+run_uuid: d22a32cfa48541f891cf3fe37dc19319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335131003
+status: 3
+tags: []
+user_id: Shubham Bhatt

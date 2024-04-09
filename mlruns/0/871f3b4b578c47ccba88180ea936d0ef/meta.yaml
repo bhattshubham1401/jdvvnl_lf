@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/871f3b4b578c47ccba88180ea936d0ef/artifacts
+end_time: 1712261406790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 871f3b4b578c47ccba88180ea936d0ef
+run_name: bald-doe-898
+run_uuid: 871f3b4b578c47ccba88180ea936d0ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261406693
+status: 3
+tags: []
+user_id: Shubham Bhatt

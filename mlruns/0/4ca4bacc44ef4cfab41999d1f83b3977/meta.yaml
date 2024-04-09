@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4ca4bacc44ef4cfab41999d1f83b3977/artifacts
+end_time: 1712235561381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ca4bacc44ef4cfab41999d1f83b3977
+run_name: learned-ram-26
+run_uuid: 4ca4bacc44ef4cfab41999d1f83b3977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235561287
+status: 3
+tags: []
+user_id: Shubham Bhatt

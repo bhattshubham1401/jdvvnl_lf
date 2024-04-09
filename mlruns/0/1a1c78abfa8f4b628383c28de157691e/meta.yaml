@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1a1c78abfa8f4b628383c28de157691e/artifacts
+end_time: 1712261405208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a1c78abfa8f4b628383c28de157691e
+run_name: masked-donkey-290
+run_uuid: 1a1c78abfa8f4b628383c28de157691e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261405124
+status: 3
+tags: []
+user_id: Shubham Bhatt

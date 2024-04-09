@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/15df370a963e4628ba851f5a596d6747/artifacts
+end_time: 1712335182383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15df370a963e4628ba851f5a596d6747
+run_name: rogue-worm-250
+run_uuid: 15df370a963e4628ba851f5a596d6747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335182288
+status: 3
+tags: []
+user_id: Shubham Bhatt

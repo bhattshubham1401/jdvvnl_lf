@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a0002e7d58fe4b549a65a0496202f168/artifacts
+end_time: 1712335171509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0002e7d58fe4b549a65a0496202f168
+run_name: suave-duck-849
+run_uuid: a0002e7d58fe4b549a65a0496202f168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335171408
+status: 3
+tags: []
+user_id: Shubham Bhatt

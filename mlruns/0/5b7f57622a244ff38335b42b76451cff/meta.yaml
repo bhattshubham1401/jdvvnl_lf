@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5b7f57622a244ff38335b42b76451cff/artifacts
+end_time: 1712335149499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b7f57622a244ff38335b42b76451cff
+run_name: casual-hound-359
+run_uuid: 5b7f57622a244ff38335b42b76451cff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335149272
+status: 3
+tags: []
+user_id: Shubham Bhatt

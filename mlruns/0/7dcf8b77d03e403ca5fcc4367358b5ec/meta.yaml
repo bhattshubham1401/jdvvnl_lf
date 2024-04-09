@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/7dcf8b77d03e403ca5fcc4367358b5ec/artifacts
+end_time: 1712335106830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dcf8b77d03e403ca5fcc4367358b5ec
+run_name: bedecked-trout-468
+run_uuid: 7dcf8b77d03e403ca5fcc4367358b5ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335106730
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/dd2b289d38394f2f9ce7b0c83df67cbf/artifacts
+end_time: 1712370236456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd2b289d38394f2f9ce7b0c83df67cbf
+run_name: bright-fawn-407
+run_uuid: dd2b289d38394f2f9ce7b0c83df67cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370236302
+status: 3
+tags: []
+user_id: Shubham Bhatt

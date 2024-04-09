@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/9b74e2b5c10e430b93456e888f35a31a/artifacts
+end_time: 1712235534638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b74e2b5c10e430b93456e888f35a31a
+run_name: worried-elk-875
+run_uuid: 9b74e2b5c10e430b93456e888f35a31a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235534548
+status: 3
+tags: []
+user_id: Shubham Bhatt

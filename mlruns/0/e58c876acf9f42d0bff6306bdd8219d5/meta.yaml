@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e58c876acf9f42d0bff6306bdd8219d5/artifacts
+end_time: 1712235526404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e58c876acf9f42d0bff6306bdd8219d5
+run_name: debonair-mole-169
+run_uuid: e58c876acf9f42d0bff6306bdd8219d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235526186
+status: 3
+tags: []
+user_id: Shubham Bhatt

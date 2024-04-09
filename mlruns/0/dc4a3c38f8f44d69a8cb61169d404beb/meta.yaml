@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/dc4a3c38f8f44d69a8cb61169d404beb/artifacts
+end_time: 1712370181681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc4a3c38f8f44d69a8cb61169d404beb
+run_name: blushing-ox-751
+run_uuid: dc4a3c38f8f44d69a8cb61169d404beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370181522
+status: 3
+tags: []
+user_id: Shubham Bhatt

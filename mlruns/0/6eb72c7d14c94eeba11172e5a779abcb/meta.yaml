@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6eb72c7d14c94eeba11172e5a779abcb/artifacts
+end_time: 1712235529807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6eb72c7d14c94eeba11172e5a779abcb
+run_name: welcoming-boar-613
+run_uuid: 6eb72c7d14c94eeba11172e5a779abcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235529579
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0060ab7c7a7d441dbd1cd221d8ef725c/artifacts
+end_time: 1712335157157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0060ab7c7a7d441dbd1cd221d8ef725c
+run_name: amusing-shark-458
+run_uuid: 0060ab7c7a7d441dbd1cd221d8ef725c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335157057
+status: 3
+tags: []
+user_id: Shubham Bhatt

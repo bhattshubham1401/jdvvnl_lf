@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/53b25e912bb5474a9c91ebd6d21a784c/artifacts
+end_time: 1712235552684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53b25e912bb5474a9c91ebd6d21a784c
+run_name: loud-chimp-407
+run_uuid: 53b25e912bb5474a9c91ebd6d21a784c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235552582
+status: 3
+tags: []
+user_id: Shubham Bhatt

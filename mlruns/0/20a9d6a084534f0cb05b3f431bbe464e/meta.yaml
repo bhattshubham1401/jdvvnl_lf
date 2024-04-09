@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/20a9d6a084534f0cb05b3f431bbe464e/artifacts
+end_time: 1712335169836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20a9d6a084534f0cb05b3f431bbe464e
+run_name: omniscient-seal-445
+run_uuid: 20a9d6a084534f0cb05b3f431bbe464e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335169711
+status: 3
+tags: []
+user_id: Shubham Bhatt

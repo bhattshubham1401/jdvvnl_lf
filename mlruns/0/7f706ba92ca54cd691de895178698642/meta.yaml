@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/7f706ba92ca54cd691de895178698642/artifacts
+end_time: 1712370189460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f706ba92ca54cd691de895178698642
+run_name: rare-fish-116
+run_uuid: 7f706ba92ca54cd691de895178698642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370189319
+status: 3
+tags: []
+user_id: Shubham Bhatt

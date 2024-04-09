@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/10c7d6b9dfc04863bae6cea1da54aba0/artifacts
+end_time: 1712335185076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10c7d6b9dfc04863bae6cea1da54aba0
+run_name: rogue-elk-787
+run_uuid: 10c7d6b9dfc04863bae6cea1da54aba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335184961
+status: 3
+tags: []
+user_id: Shubham Bhatt

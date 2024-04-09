@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4eda3e3a374442f38349c73461df34a3/artifacts
+end_time: 1712335146578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eda3e3a374442f38349c73461df34a3
+run_name: chill-mouse-651
+run_uuid: 4eda3e3a374442f38349c73461df34a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335146467
+status: 3
+tags: []
+user_id: Shubham Bhatt

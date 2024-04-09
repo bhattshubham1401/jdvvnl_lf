@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e0bac1e1468a4f6ea2967d05cdda4da3/artifacts
+end_time: 1712335167798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0bac1e1468a4f6ea2967d05cdda4da3
+run_name: bald-mink-685
+run_uuid: e0bac1e1468a4f6ea2967d05cdda4da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335167685
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f579705c6dd64647a0a6096cc4d66fde/artifacts
+end_time: 1712335181242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f579705c6dd64647a0a6096cc4d66fde
+run_name: shivering-elk-14
+run_uuid: f579705c6dd64647a0a6096cc4d66fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335181140
+status: 3
+tags: []
+user_id: Shubham Bhatt

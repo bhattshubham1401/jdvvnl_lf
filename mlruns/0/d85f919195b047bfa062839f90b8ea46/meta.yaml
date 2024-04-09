@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d85f919195b047bfa062839f90b8ea46/artifacts
+end_time: 1712335170372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d85f919195b047bfa062839f90b8ea46
+run_name: clean-pug-912
+run_uuid: d85f919195b047bfa062839f90b8ea46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335170259
+status: 3
+tags: []
+user_id: Shubham Bhatt

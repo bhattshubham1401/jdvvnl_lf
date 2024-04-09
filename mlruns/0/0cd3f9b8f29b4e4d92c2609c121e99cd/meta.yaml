@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0cd3f9b8f29b4e4d92c2609c121e99cd/artifacts
+end_time: 1712261395850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cd3f9b8f29b4e4d92c2609c121e99cd
+run_name: placid-chimp-951
+run_uuid: 0cd3f9b8f29b4e4d92c2609c121e99cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261395762
+status: 3
+tags: []
+user_id: Shubham Bhatt

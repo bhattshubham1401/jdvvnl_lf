@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/61c5967aacdb4b118add0bc4c5da4a30/artifacts
+end_time: 1712335132303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61c5967aacdb4b118add0bc4c5da4a30
+run_name: burly-seal-625
+run_uuid: 61c5967aacdb4b118add0bc4c5da4a30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335132185
+status: 3
+tags: []
+user_id: Shubham Bhatt

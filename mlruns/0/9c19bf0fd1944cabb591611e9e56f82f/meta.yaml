@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/9c19bf0fd1944cabb591611e9e56f82f/artifacts
+end_time: 1712139752669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c19bf0fd1944cabb591611e9e56f82f
+run_name: auspicious-goose-156
+run_uuid: 9c19bf0fd1944cabb591611e9e56f82f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139752549
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c903a29d33024544ac4d6998933c116c/artifacts
+end_time: 1712261396598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c903a29d33024544ac4d6998933c116c
+run_name: adaptable-ram-443
+run_uuid: c903a29d33024544ac4d6998933c116c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261396507
+status: 3
+tags: []
+user_id: Shubham Bhatt

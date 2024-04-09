@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8082ce58977c49d3b4c34124f8fad12d/artifacts
+end_time: 1712335097739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8082ce58977c49d3b4c34124f8fad12d
+run_name: burly-worm-578
+run_uuid: 8082ce58977c49d3b4c34124f8fad12d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335097538
+status: 3
+tags: []
+user_id: Shubham Bhatt

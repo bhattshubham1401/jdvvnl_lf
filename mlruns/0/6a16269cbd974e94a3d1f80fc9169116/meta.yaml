@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6a16269cbd974e94a3d1f80fc9169116/artifacts
+end_time: 1712370207582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a16269cbd974e94a3d1f80fc9169116
+run_name: bouncy-tern-75
+run_uuid: 6a16269cbd974e94a3d1f80fc9169116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370207419
+status: 3
+tags: []
+user_id: Shubham Bhatt

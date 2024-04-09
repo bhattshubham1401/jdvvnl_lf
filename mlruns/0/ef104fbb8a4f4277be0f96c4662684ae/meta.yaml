@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ef104fbb8a4f4277be0f96c4662684ae/artifacts
+end_time: 1712370179592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef104fbb8a4f4277be0f96c4662684ae
+run_name: nebulous-pig-777
+run_uuid: ef104fbb8a4f4277be0f96c4662684ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370179434
+status: 3
+tags: []
+user_id: Shubham Bhatt

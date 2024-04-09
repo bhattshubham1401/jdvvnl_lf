@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/79f11b615cff4b14a60862e9e946e798/artifacts
+end_time: 1712335178147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79f11b615cff4b14a60862e9e946e798
+run_name: bald-moose-260
+run_uuid: 79f11b615cff4b14a60862e9e946e798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335178048
+status: 3
+tags: []
+user_id: Shubham Bhatt

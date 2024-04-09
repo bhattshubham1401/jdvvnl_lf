@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/bf1fd8e353894f2394735851f01d95ff/artifacts
+end_time: 1712370166765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf1fd8e353894f2394735851f01d95ff
+run_name: gaudy-fly-195
+run_uuid: bf1fd8e353894f2394735851f01d95ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370166600
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/18d748e2ccf0490a910b5b6087c6bbca/artifacts
+end_time: 1712139742815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18d748e2ccf0490a910b5b6087c6bbca
+run_name: dapper-swan-337
+run_uuid: 18d748e2ccf0490a910b5b6087c6bbca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139742737
+status: 3
+tags: []
+user_id: Shubham Bhatt

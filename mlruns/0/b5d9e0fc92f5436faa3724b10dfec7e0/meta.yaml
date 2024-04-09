@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b5d9e0fc92f5436faa3724b10dfec7e0/artifacts
+end_time: 1712235524791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5d9e0fc92f5436faa3724b10dfec7e0
+run_name: abundant-lynx-568
+run_uuid: b5d9e0fc92f5436faa3724b10dfec7e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235524700
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a9f224522c7e461f85b7274fc5455eb0/artifacts
+end_time: 1712235552204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9f224522c7e461f85b7274fc5455eb0
+run_name: zealous-shrimp-37
+run_uuid: a9f224522c7e461f85b7274fc5455eb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235552100
+status: 3
+tags: []
+user_id: Shubham Bhatt

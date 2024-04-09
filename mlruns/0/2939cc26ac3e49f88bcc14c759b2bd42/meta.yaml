@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2939cc26ac3e49f88bcc14c759b2bd42/artifacts
+end_time: 1712139756443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2939cc26ac3e49f88bcc14c759b2bd42
+run_name: sassy-vole-284
+run_uuid: 2939cc26ac3e49f88bcc14c759b2bd42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139756353
+status: 3
+tags: []
+user_id: Shubham Bhatt

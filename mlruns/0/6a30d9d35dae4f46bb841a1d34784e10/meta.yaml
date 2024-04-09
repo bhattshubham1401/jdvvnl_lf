@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6a30d9d35dae4f46bb841a1d34784e10/artifacts
+end_time: 1712370245552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a30d9d35dae4f46bb841a1d34784e10
+run_name: masked-dove-77
+run_uuid: 6a30d9d35dae4f46bb841a1d34784e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370245397
+status: 3
+tags: []
+user_id: Shubham Bhatt

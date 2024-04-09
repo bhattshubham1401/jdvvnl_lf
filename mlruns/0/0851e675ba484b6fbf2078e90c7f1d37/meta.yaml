@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0851e675ba484b6fbf2078e90c7f1d37/artifacts
+end_time: 1712261400794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0851e675ba484b6fbf2078e90c7f1d37
+run_name: abundant-smelt-336
+run_uuid: 0851e675ba484b6fbf2078e90c7f1d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261400708
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/72f35fa279df4628a75c19ba3b723174/artifacts
+end_time: 1712370201578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72f35fa279df4628a75c19ba3b723174
+run_name: crawling-colt-694
+run_uuid: 72f35fa279df4628a75c19ba3b723174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370201330
+status: 3
+tags: []
+user_id: Shubham Bhatt

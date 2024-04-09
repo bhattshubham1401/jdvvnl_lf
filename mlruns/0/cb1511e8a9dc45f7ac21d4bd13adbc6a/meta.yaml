@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/cb1511e8a9dc45f7ac21d4bd13adbc6a/artifacts
+end_time: 1712335124696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb1511e8a9dc45f7ac21d4bd13adbc6a
+run_name: bald-kite-769
+run_uuid: cb1511e8a9dc45f7ac21d4bd13adbc6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335124488
+status: 3
+tags: []
+user_id: Shubham Bhatt

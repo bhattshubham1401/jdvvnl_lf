@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4fd4da296e4f43cbabe2b10c8b8b70b0/artifacts
+end_time: 1712335132465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fd4da296e4f43cbabe2b10c8b8b70b0
+run_name: worried-cow-792
+run_uuid: 4fd4da296e4f43cbabe2b10c8b8b70b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335132348
+status: 3
+tags: []
+user_id: Shubham Bhatt

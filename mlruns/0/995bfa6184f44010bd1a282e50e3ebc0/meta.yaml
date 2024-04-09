@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/995bfa6184f44010bd1a282e50e3ebc0/artifacts
+end_time: 1712139745145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 995bfa6184f44010bd1a282e50e3ebc0
+run_name: salty-rat-667
+run_uuid: 995bfa6184f44010bd1a282e50e3ebc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139745070
+status: 3
+tags: []
+user_id: Shubham Bhatt

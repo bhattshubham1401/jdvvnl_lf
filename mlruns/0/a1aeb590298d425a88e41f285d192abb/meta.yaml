@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a1aeb590298d425a88e41f285d192abb/artifacts
+end_time: 1712139741357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1aeb590298d425a88e41f285d192abb
+run_name: silent-auk-580
+run_uuid: a1aeb590298d425a88e41f285d192abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139741280
+status: 3
+tags: []
+user_id: Shubham Bhatt

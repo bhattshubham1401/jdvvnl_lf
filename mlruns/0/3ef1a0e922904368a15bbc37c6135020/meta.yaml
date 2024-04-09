@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3ef1a0e922904368a15bbc37c6135020/artifacts
+end_time: 1712335171379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ef1a0e922904368a15bbc37c6135020
+run_name: bustling-whale-135
+run_uuid: 3ef1a0e922904368a15bbc37c6135020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335171276
+status: 3
+tags: []
+user_id: Shubham Bhatt

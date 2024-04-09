@@ -17,9 +17,11 @@ class ModelTrainer:
     def train(self):
         try:
             data_files = [file for file in os.listdir(self.config.train_data_path) if file.startswith('train')]
+            num = [int(filename.split('_')[-1].split('.')[0]) for filename in data_files]
+            num1 = max(num)
             models_dict = {}
 
-            for i in range(0, int(len(data_files))):
+            for i in range(0, num1):
                 try:
                     df = pd.read_csv(os.path.join(self.config.train_data_path, f"train_data_sensor_{i}.csv"))
                 except FileNotFoundError:

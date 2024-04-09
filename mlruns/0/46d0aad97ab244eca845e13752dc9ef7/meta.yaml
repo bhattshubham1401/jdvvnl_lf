@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/46d0aad97ab244eca845e13752dc9ef7/artifacts
+end_time: 1712335156385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46d0aad97ab244eca845e13752dc9ef7
+run_name: abrasive-wasp-106
+run_uuid: 46d0aad97ab244eca845e13752dc9ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335156217
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e197f5c694e04a0685378bc99bdc3c07/artifacts
+end_time: 1712370164380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e197f5c694e04a0685378bc99bdc3c07
+run_name: upset-shoat-660
+run_uuid: e197f5c694e04a0685378bc99bdc3c07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370164215
+status: 3
+tags: []
+user_id: Shubham Bhatt

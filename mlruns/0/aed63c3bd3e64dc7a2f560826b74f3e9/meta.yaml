@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/aed63c3bd3e64dc7a2f560826b74f3e9/artifacts
+end_time: 1712335162751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aed63c3bd3e64dc7a2f560826b74f3e9
+run_name: charming-worm-492
+run_uuid: aed63c3bd3e64dc7a2f560826b74f3e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335162629
+status: 3
+tags: []
+user_id: Shubham Bhatt

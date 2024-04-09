@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/15d9260d391d411a8d470a78923014ff/artifacts
+end_time: 1712335161421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15d9260d391d411a8d470a78923014ff
+run_name: puzzled-croc-879
+run_uuid: 15d9260d391d411a8d470a78923014ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335161304
+status: 3
+tags: []
+user_id: Shubham Bhatt

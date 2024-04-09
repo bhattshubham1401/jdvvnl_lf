@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/940b24856fa54309bd7622f72d272960/artifacts
+end_time: 1712370226581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 940b24856fa54309bd7622f72d272960
+run_name: big-yak-580
+run_uuid: 940b24856fa54309bd7622f72d272960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370226422
+status: 3
+tags: []
+user_id: Shubham Bhatt

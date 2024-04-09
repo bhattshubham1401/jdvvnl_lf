@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/7609267d0e7f4730849c008438bd5a97/artifacts
+end_time: 1712335171638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7609267d0e7f4730849c008438bd5a97
+run_name: silent-ray-394
+run_uuid: 7609267d0e7f4730849c008438bd5a97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335171536
+status: 3
+tags: []
+user_id: Shubham Bhatt

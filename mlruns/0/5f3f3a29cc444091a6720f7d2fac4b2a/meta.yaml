@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5f3f3a29cc444091a6720f7d2fac4b2a/artifacts
+end_time: 1712370215610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f3f3a29cc444091a6720f7d2fac4b2a
+run_name: carefree-hog-794
+run_uuid: 5f3f3a29cc444091a6720f7d2fac4b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370215482
+status: 3
+tags: []
+user_id: Shubham Bhatt

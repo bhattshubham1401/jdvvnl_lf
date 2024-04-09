@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0e89af50a5da4518a08efad6d915f858/artifacts
+end_time: 1712335098155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e89af50a5da4518a08efad6d915f858
+run_name: casual-sloth-508
+run_uuid: 0e89af50a5da4518a08efad6d915f858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335097935
+status: 3
+tags: []
+user_id: Shubham Bhatt

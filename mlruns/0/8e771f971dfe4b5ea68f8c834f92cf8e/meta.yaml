@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8e771f971dfe4b5ea68f8c834f92cf8e/artifacts
+end_time: 1712139754983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e771f971dfe4b5ea68f8c834f92cf8e
+run_name: resilient-stag-687
+run_uuid: 8e771f971dfe4b5ea68f8c834f92cf8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139754904
+status: 3
+tags: []
+user_id: Shubham Bhatt

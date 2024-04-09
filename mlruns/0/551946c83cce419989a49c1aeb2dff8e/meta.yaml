@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/551946c83cce419989a49c1aeb2dff8e/artifacts
+end_time: 1712335111777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 551946c83cce419989a49c1aeb2dff8e
+run_name: smiling-worm-250
+run_uuid: 551946c83cce419989a49c1aeb2dff8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335111572
+status: 3
+tags: []
+user_id: Shubham Bhatt

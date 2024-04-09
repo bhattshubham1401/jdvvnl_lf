@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/fac6742f8ac548b4aaaab1ffb81a49ba/artifacts
+end_time: 1712335160715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fac6742f8ac548b4aaaab1ffb81a49ba
+run_name: sneaky-mule-487
+run_uuid: fac6742f8ac548b4aaaab1ffb81a49ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335160605
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/85cc72fb1ea84b4f83786e628194de67/artifacts
+end_time: 1712370179907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85cc72fb1ea84b4f83786e628194de67
+run_name: gaudy-zebra-270
+run_uuid: 85cc72fb1ea84b4f83786e628194de67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370179639
+status: 3
+tags: []
+user_id: Shubham Bhatt

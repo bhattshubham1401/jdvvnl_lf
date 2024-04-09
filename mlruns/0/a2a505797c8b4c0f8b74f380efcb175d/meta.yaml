@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a2a505797c8b4c0f8b74f380efcb175d/artifacts
+end_time: 1712335159749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2a505797c8b4c0f8b74f380efcb175d
+run_name: luxuriant-dog-156
+run_uuid: a2a505797c8b4c0f8b74f380efcb175d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335159640
+status: 3
+tags: []
+user_id: Shubham Bhatt

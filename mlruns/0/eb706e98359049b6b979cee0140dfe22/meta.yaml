@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/eb706e98359049b6b979cee0140dfe22/artifacts
+end_time: 1712261397087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb706e98359049b6b979cee0140dfe22
+run_name: awesome-bee-101
+run_uuid: eb706e98359049b6b979cee0140dfe22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261396994
+status: 3
+tags: []
+user_id: Shubham Bhatt

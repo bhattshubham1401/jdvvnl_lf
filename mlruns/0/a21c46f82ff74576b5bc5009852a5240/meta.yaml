@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a21c46f82ff74576b5bc5009852a5240/artifacts
+end_time: 1712370220677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a21c46f82ff74576b5bc5009852a5240
+run_name: thoughtful-owl-255
+run_uuid: a21c46f82ff74576b5bc5009852a5240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370220512
+status: 3
+tags: []
+user_id: Shubham Bhatt

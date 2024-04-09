@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f2747294ed5940faaea5e0a166f324ea/artifacts
+end_time: 1712139754559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2747294ed5940faaea5e0a166f324ea
+run_name: upset-sheep-952
+run_uuid: f2747294ed5940faaea5e0a166f324ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139754466
+status: 3
+tags: []
+user_id: Shubham Bhatt

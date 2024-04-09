@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f651317cd4634e169e7925b1e5f2e5fb/artifacts
+end_time: 1712370232314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f651317cd4634e169e7925b1e5f2e5fb
+run_name: beautiful-stoat-492
+run_uuid: f651317cd4634e169e7925b1e5f2e5fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370232158
+status: 3
+tags: []
+user_id: Shubham Bhatt

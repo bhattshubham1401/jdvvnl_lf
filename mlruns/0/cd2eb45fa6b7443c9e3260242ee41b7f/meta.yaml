@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/cd2eb45fa6b7443c9e3260242ee41b7f/artifacts
+end_time: 1712370234878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd2eb45fa6b7443c9e3260242ee41b7f
+run_name: rogue-grouse-150
+run_uuid: cd2eb45fa6b7443c9e3260242ee41b7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370234719
+status: 3
+tags: []
+user_id: Shubham Bhatt

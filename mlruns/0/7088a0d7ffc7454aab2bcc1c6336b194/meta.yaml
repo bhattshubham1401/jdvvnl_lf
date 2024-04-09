@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/7088a0d7ffc7454aab2bcc1c6336b194/artifacts
+end_time: 1712335181539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7088a0d7ffc7454aab2bcc1c6336b194
+run_name: nimble-grub-938
+run_uuid: 7088a0d7ffc7454aab2bcc1c6336b194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335181423
+status: 3
+tags: []
+user_id: Shubham Bhatt

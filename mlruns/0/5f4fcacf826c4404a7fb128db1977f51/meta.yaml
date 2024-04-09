@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5f4fcacf826c4404a7fb128db1977f51/artifacts
+end_time: 1712235516893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f4fcacf826c4404a7fb128db1977f51
+run_name: classy-shrike-872
+run_uuid: 5f4fcacf826c4404a7fb128db1977f51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235516641
+status: 3
+tags: []
+user_id: Shubham Bhatt

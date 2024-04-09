@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/22b996adcb644ceeabe3a09833817b0e/artifacts
+end_time: 1712335182949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22b996adcb644ceeabe3a09833817b0e
+run_name: clean-stork-717
+run_uuid: 22b996adcb644ceeabe3a09833817b0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335182840
+status: 3
+tags: []
+user_id: Shubham Bhatt

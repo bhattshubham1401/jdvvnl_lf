@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/9ff1a5d3bba94b81bd42e07ee1467ce0/artifacts
+end_time: 1712335159611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ff1a5d3bba94b81bd42e07ee1467ce0
+run_name: melodic-lynx-582
+run_uuid: 9ff1a5d3bba94b81bd42e07ee1467ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335159505
+status: 3
+tags: []
+user_id: Shubham Bhatt

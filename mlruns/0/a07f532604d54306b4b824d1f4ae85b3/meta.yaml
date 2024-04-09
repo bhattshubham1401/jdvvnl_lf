@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a07f532604d54306b4b824d1f4ae85b3/artifacts
+end_time: 1712335113147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a07f532604d54306b4b824d1f4ae85b3
+run_name: orderly-stag-800
+run_uuid: a07f532604d54306b4b824d1f4ae85b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335113035
+status: 3
+tags: []
+user_id: Shubham Bhatt

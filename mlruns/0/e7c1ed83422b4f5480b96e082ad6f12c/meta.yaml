@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e7c1ed83422b4f5480b96e082ad6f12c/artifacts
+end_time: 1712370205623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7c1ed83422b4f5480b96e082ad6f12c
+run_name: intrigued-gnat-840
+run_uuid: e7c1ed83422b4f5480b96e082ad6f12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370205429
+status: 3
+tags: []
+user_id: Shubham Bhatt

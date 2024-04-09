@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/cb21cab52def4488a92e469c208d0632/artifacts
+end_time: 1712370241503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb21cab52def4488a92e469c208d0632
+run_name: clumsy-pig-510
+run_uuid: cb21cab52def4488a92e469c208d0632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370241338
+status: 3
+tags: []
+user_id: Shubham Bhatt

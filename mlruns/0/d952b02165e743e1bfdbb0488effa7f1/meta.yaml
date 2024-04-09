@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d952b02165e743e1bfdbb0488effa7f1/artifacts
+end_time: 1712370233118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d952b02165e743e1bfdbb0488effa7f1
+run_name: receptive-gnat-978
+run_uuid: d952b02165e743e1bfdbb0488effa7f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370232977
+status: 3
+tags: []
+user_id: Shubham Bhatt

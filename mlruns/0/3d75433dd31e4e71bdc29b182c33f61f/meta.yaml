@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3d75433dd31e4e71bdc29b182c33f61f/artifacts
+end_time: 1712235521467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d75433dd31e4e71bdc29b182c33f61f
+run_name: resilient-moose-891
+run_uuid: 3d75433dd31e4e71bdc29b182c33f61f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235521231
+status: 3
+tags: []
+user_id: Shubham Bhatt

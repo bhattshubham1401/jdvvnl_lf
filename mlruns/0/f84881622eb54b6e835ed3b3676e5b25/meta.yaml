@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f84881622eb54b6e835ed3b3676e5b25/artifacts
+end_time: 1712335116786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f84881622eb54b6e835ed3b3676e5b25
+run_name: beautiful-fly-296
+run_uuid: f84881622eb54b6e835ed3b3676e5b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335116592
+status: 3
+tags: []
+user_id: Shubham Bhatt

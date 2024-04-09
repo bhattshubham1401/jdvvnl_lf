@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1ca7102eff1b4814aecf8a29110494a4/artifacts
+end_time: 1712370203401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ca7102eff1b4814aecf8a29110494a4
+run_name: abundant-sloth-540
+run_uuid: 1ca7102eff1b4814aecf8a29110494a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370203246
+status: 3
+tags: []
+user_id: Shubham Bhatt

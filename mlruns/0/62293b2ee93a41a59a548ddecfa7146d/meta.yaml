@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/62293b2ee93a41a59a548ddecfa7146d/artifacts
+end_time: 1712370203206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62293b2ee93a41a59a548ddecfa7146d
+run_name: bedecked-hog-53
+run_uuid: 62293b2ee93a41a59a548ddecfa7146d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370202985
+status: 3
+tags: []
+user_id: Shubham Bhatt

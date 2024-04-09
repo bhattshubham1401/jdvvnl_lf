@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d1d0c67a9a334a4ab28b5d93d54ca769/artifacts
+end_time: 1712335103186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1d0c67a9a334a4ab28b5d93d54ca769
+run_name: selective-worm-434
+run_uuid: d1d0c67a9a334a4ab28b5d93d54ca769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335102980
+status: 3
+tags: []
+user_id: Shubham Bhatt

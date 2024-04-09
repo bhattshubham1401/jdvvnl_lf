@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a9ccfa60db7a44c08edac4fad0ddec3e/artifacts
+end_time: 1712370213213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9ccfa60db7a44c08edac4fad0ddec3e
+run_name: bustling-moose-114
+run_uuid: a9ccfa60db7a44c08edac4fad0ddec3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370213037
+status: 3
+tags: []
+user_id: Shubham Bhatt

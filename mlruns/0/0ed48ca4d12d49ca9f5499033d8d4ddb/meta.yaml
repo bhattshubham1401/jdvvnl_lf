@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0ed48ca4d12d49ca9f5499033d8d4ddb/artifacts
+end_time: 1712335128626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ed48ca4d12d49ca9f5499033d8d4ddb
+run_name: vaunted-stork-654
+run_uuid: 0ed48ca4d12d49ca9f5499033d8d4ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335128394
+status: 3
+tags: []
+user_id: Shubham Bhatt

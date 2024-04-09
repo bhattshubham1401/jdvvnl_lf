@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a964ebef96f6464b914e0a21131a5885/artifacts
+end_time: 1712335171247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a964ebef96f6464b914e0a21131a5885
+run_name: chill-wolf-477
+run_uuid: a964ebef96f6464b914e0a21131a5885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335171132
+status: 3
+tags: []
+user_id: Shubham Bhatt

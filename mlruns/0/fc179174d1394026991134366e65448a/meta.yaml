@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/fc179174d1394026991134366e65448a/artifacts
+end_time: 1712370188603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc179174d1394026991134366e65448a
+run_name: bemused-frog-820
+run_uuid: fc179174d1394026991134366e65448a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370188470
+status: 3
+tags: []
+user_id: Shubham Bhatt

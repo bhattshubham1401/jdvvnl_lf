@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ae7fafe5e3dd417893f35080ed19cc4f/artifacts
+end_time: 1712235542928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae7fafe5e3dd417893f35080ed19cc4f
+run_name: amusing-trout-267
+run_uuid: ae7fafe5e3dd417893f35080ed19cc4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235542823
+status: 3
+tags: []
+user_id: Shubham Bhatt

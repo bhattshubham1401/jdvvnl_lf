@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/eb92a575d73e4e6fac0c2413fcc84500/artifacts
+end_time: 1712139739846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb92a575d73e4e6fac0c2413fcc84500
+run_name: melodic-lamb-84
+run_uuid: eb92a575d73e4e6fac0c2413fcc84500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139739768
+status: 3
+tags: []
+user_id: Shubham Bhatt

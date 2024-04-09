@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/84739ad54a0e42b4b1f5a457bff1082a/artifacts
+end_time: 1712235547828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84739ad54a0e42b4b1f5a457bff1082a
+run_name: victorious-bug-722
+run_uuid: 84739ad54a0e42b4b1f5a457bff1082a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235547731
+status: 3
+tags: []
+user_id: Shubham Bhatt

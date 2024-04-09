@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2619f9fa1c2d4501b4263d7e282422bc/artifacts
+end_time: 1712335187790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2619f9fa1c2d4501b4263d7e282422bc
+run_name: abundant-shrimp-625
+run_uuid: 2619f9fa1c2d4501b4263d7e282422bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335187680
+status: 3
+tags: []
+user_id: Shubham Bhatt

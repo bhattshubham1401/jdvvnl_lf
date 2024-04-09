@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c97b0d305d4840a39b8bb7feea504a5c/artifacts
+end_time: 1712335150855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c97b0d305d4840a39b8bb7feea504a5c
+run_name: dashing-finch-767
+run_uuid: c97b0d305d4840a39b8bb7feea504a5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335150731
+status: 3
+tags: []
+user_id: Shubham Bhatt

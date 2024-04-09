@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b49452ad0fd14eabbf34b0b018a7073f/artifacts
+end_time: 1712235523778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b49452ad0fd14eabbf34b0b018a7073f
+run_name: classy-zebra-631
+run_uuid: b49452ad0fd14eabbf34b0b018a7073f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235523678
+status: 3
+tags: []
+user_id: Shubham Bhatt

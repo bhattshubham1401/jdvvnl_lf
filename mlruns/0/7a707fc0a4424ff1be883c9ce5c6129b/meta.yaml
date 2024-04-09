@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/7a707fc0a4424ff1be883c9ce5c6129b/artifacts
+end_time: 1712335148630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a707fc0a4424ff1be883c9ce5c6129b
+run_name: bedecked-flea-744
+run_uuid: 7a707fc0a4424ff1be883c9ce5c6129b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335148503
+status: 3
+tags: []
+user_id: Shubham Bhatt

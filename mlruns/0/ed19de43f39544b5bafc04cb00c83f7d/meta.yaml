@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ed19de43f39544b5bafc04cb00c83f7d/artifacts
+end_time: 1712335130811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed19de43f39544b5bafc04cb00c83f7d
+run_name: awesome-mouse-803
+run_uuid: ed19de43f39544b5bafc04cb00c83f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335130698
+status: 3
+tags: []
+user_id: Shubham Bhatt

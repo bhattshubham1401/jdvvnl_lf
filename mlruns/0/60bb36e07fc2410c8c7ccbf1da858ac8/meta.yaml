@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/60bb36e07fc2410c8c7ccbf1da858ac8/artifacts
+end_time: 1712235550688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60bb36e07fc2410c8c7ccbf1da858ac8
+run_name: luminous-flea-487
+run_uuid: 60bb36e07fc2410c8c7ccbf1da858ac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235550578
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/402d84d962354a9d8693545d45e0665e/artifacts
+end_time: 1712370161906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 402d84d962354a9d8693545d45e0665e
+run_name: bouncy-asp-784
+run_uuid: 402d84d962354a9d8693545d45e0665e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370161771
+status: 3
+tags: []
+user_id: Shubham Bhatt

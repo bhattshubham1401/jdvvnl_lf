@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e12cee832daa40eeafbcf8c446f13fbd/artifacts
+end_time: 1712335184084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e12cee832daa40eeafbcf8c446f13fbd
+run_name: gentle-shad-315
+run_uuid: e12cee832daa40eeafbcf8c446f13fbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335183951
+status: 3
+tags: []
+user_id: Shubham Bhatt

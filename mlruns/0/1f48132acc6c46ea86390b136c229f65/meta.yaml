@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1f48132acc6c46ea86390b136c229f65/artifacts
+end_time: 1712261403478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f48132acc6c46ea86390b136c229f65
+run_name: burly-fly-61
+run_uuid: 1f48132acc6c46ea86390b136c229f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261403388
+status: 3
+tags: []
+user_id: Shubham Bhatt

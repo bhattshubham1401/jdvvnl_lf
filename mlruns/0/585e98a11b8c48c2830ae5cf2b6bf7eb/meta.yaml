@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/585e98a11b8c48c2830ae5cf2b6bf7eb/artifacts
+end_time: 1712139745396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 585e98a11b8c48c2830ae5cf2b6bf7eb
+run_name: beautiful-goose-507
+run_uuid: 585e98a11b8c48c2830ae5cf2b6bf7eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712139745306
+status: 3
+tags: []
+user_id: Shubham Bhatt

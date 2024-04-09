@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ca2b9eb7f80d44bf919e31e63744102f/artifacts
+end_time: 1712335131790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca2b9eb7f80d44bf919e31e63744102f
+run_name: awesome-dog-207
+run_uuid: ca2b9eb7f80d44bf919e31e63744102f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335131668
+status: 3
+tags: []
+user_id: Shubham Bhatt

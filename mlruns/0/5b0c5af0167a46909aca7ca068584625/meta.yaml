@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5b0c5af0167a46909aca7ca068584625/artifacts
+end_time: 1712335186232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b0c5af0167a46909aca7ca068584625
+run_name: skittish-croc-297
+run_uuid: 5b0c5af0167a46909aca7ca068584625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335186118
+status: 3
+tags: []
+user_id: Shubham Bhatt
