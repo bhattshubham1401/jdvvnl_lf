@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/7f31b92f85b84bb3a20ab493da762bee/artifacts
+end_time: 1712370212411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f31b92f85b84bb3a20ab493da762bee
+run_name: lyrical-sheep-163
+run_uuid: 7f31b92f85b84bb3a20ab493da762bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370212274
+status: 3
+tags: []
+user_id: Shubham Bhatt

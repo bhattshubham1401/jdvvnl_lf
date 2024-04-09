@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8603160815e449d9835e56811dbff43e/artifacts
+end_time: 1712235540403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8603160815e449d9835e56811dbff43e
+run_name: loud-bug-151
+run_uuid: 8603160815e449d9835e56811dbff43e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235540192
+status: 3
+tags: []
+user_id: Shubham Bhatt

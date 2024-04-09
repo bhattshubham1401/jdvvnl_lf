@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/bd5006a1a81b4ab0ada176914ddc2f9d/artifacts
+end_time: 1712335118197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd5006a1a81b4ab0ada176914ddc2f9d
+run_name: debonair-rook-235
+run_uuid: bd5006a1a81b4ab0ada176914ddc2f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335117920
+status: 3
+tags: []
+user_id: Shubham Bhatt

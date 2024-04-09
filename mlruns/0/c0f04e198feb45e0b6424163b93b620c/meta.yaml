@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c0f04e198feb45e0b6424163b93b620c/artifacts
+end_time: 1712335129489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0f04e198feb45e0b6424163b93b620c
+run_name: redolent-doe-395
+run_uuid: c0f04e198feb45e0b6424163b93b620c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335129385
+status: 3
+tags: []
+user_id: Shubham Bhatt

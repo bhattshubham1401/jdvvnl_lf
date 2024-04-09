@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6ce45ba823b049a2ae7af9dcec259b3b/artifacts
+end_time: 1712335140479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ce45ba823b049a2ae7af9dcec259b3b
+run_name: gregarious-hare-22
+run_uuid: 6ce45ba823b049a2ae7af9dcec259b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335140358
+status: 3
+tags: []
+user_id: Shubham Bhatt

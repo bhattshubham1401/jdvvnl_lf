@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/70d32fee089f4ced93109c284a90d24b/artifacts
+end_time: 1712335139329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70d32fee089f4ced93109c284a90d24b
+run_name: wise-sponge-999
+run_uuid: 70d32fee089f4ced93109c284a90d24b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335139134
+status: 3
+tags: []
+user_id: Shubham Bhatt

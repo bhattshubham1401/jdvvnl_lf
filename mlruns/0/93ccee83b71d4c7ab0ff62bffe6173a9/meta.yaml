@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/93ccee83b71d4c7ab0ff62bffe6173a9/artifacts
+end_time: 1712370192427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93ccee83b71d4c7ab0ff62bffe6173a9
+run_name: rumbling-hare-199
+run_uuid: 93ccee83b71d4c7ab0ff62bffe6173a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370192259
+status: 3
+tags: []
+user_id: Shubham Bhatt

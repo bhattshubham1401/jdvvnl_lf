@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/bf0bc4a6d618461c9742a673c227177c/artifacts
+end_time: 1712235553911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf0bc4a6d618461c9742a673c227177c
+run_name: bald-steed-207
+run_uuid: bf0bc4a6d618461c9742a673c227177c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235553827
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a782149ae0c542d9b62533662f29f735/artifacts
+end_time: 1712335117195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a782149ae0c542d9b62533662f29f735
+run_name: caring-moose-440
+run_uuid: a782149ae0c542d9b62533662f29f735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335117068
+status: 3
+tags: []
+user_id: Shubham Bhatt

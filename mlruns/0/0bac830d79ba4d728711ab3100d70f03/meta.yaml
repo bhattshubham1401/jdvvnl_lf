@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0bac830d79ba4d728711ab3100d70f03/artifacts
+end_time: 1712335101434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bac830d79ba4d728711ab3100d70f03
+run_name: bouncy-wolf-902
+run_uuid: 0bac830d79ba4d728711ab3100d70f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335101234
+status: 3
+tags: []
+user_id: Shubham Bhatt

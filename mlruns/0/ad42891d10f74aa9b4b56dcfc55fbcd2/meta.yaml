@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ad42891d10f74aa9b4b56dcfc55fbcd2/artifacts
+end_time: 1712370226782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad42891d10f74aa9b4b56dcfc55fbcd2
+run_name: bittersweet-bug-790
+run_uuid: ad42891d10f74aa9b4b56dcfc55fbcd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370226624
+status: 3
+tags: []
+user_id: Shubham Bhatt

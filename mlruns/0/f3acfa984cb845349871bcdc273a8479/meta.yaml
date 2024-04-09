@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f3acfa984cb845349871bcdc273a8479/artifacts
+end_time: 1712370178569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3acfa984cb845349871bcdc273a8479
+run_name: crawling-chimp-599
+run_uuid: f3acfa984cb845349871bcdc273a8479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370178214
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8be8fa6724784386993ad03c22325f94/artifacts
+end_time: 1712335177144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8be8fa6724784386993ad03c22325f94
+run_name: silent-shrew-6
+run_uuid: 8be8fa6724784386993ad03c22325f94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335177014
+status: 3
+tags: []
+user_id: Shubham Bhatt

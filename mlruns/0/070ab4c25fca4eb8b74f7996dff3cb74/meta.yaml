@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/070ab4c25fca4eb8b74f7996dff3cb74/artifacts
+end_time: 1712370225180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 070ab4c25fca4eb8b74f7996dff3cb74
+run_name: polite-flea-28
+run_uuid: 070ab4c25fca4eb8b74f7996dff3cb74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370225011
+status: 3
+tags: []
+user_id: Shubham Bhatt

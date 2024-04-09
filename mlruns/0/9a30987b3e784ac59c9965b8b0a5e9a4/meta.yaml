@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/9a30987b3e784ac59c9965b8b0a5e9a4/artifacts
+end_time: 1712261404560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a30987b3e784ac59c9965b8b0a5e9a4
+run_name: learned-auk-887
+run_uuid: 9a30987b3e784ac59c9965b8b0a5e9a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261404458
+status: 3
+tags: []
+user_id: Shubham Bhatt

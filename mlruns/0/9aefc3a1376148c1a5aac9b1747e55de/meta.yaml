@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/9aefc3a1376148c1a5aac9b1747e55de/artifacts
+end_time: 1712335117500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aefc3a1376148c1a5aac9b1747e55de
+run_name: gentle-conch-994
+run_uuid: 9aefc3a1376148c1a5aac9b1747e55de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335117243
+status: 3
+tags: []
+user_id: Shubham Bhatt

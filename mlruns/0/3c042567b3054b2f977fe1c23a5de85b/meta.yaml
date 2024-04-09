@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3c042567b3054b2f977fe1c23a5de85b/artifacts
+end_time: 1712335112850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c042567b3054b2f977fe1c23a5de85b
+run_name: crawling-boar-772
+run_uuid: 3c042567b3054b2f977fe1c23a5de85b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335112607
+status: 3
+tags: []
+user_id: Shubham Bhatt

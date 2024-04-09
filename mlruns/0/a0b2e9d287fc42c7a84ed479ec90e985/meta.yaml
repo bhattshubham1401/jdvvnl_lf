@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a0b2e9d287fc42c7a84ed479ec90e985/artifacts
+end_time: 1712235555631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0b2e9d287fc42c7a84ed479ec90e985
+run_name: upset-stoat-865
+run_uuid: a0b2e9d287fc42c7a84ed479ec90e985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235555535
+status: 3
+tags: []
+user_id: Shubham Bhatt

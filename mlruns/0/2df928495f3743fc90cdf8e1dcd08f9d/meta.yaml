@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2df928495f3743fc90cdf8e1dcd08f9d/artifacts
+end_time: 1712370175460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2df928495f3743fc90cdf8e1dcd08f9d
+run_name: suave-cub-520
+run_uuid: 2df928495f3743fc90cdf8e1dcd08f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370175295
+status: 3
+tags: []
+user_id: Shubham Bhatt

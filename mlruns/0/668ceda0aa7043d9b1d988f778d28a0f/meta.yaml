@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/668ceda0aa7043d9b1d988f778d28a0f/artifacts
+end_time: 1712370214900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 668ceda0aa7043d9b1d988f778d28a0f
+run_name: upset-mouse-104
+run_uuid: 668ceda0aa7043d9b1d988f778d28a0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370214722
+status: 3
+tags: []
+user_id: Shubham Bhatt

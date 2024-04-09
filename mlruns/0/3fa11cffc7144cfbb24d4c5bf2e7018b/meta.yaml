@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3fa11cffc7144cfbb24d4c5bf2e7018b/artifacts
+end_time: 1712261394711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fa11cffc7144cfbb24d4c5bf2e7018b
+run_name: receptive-duck-686
+run_uuid: 3fa11cffc7144cfbb24d4c5bf2e7018b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261394613
+status: 3
+tags: []
+user_id: Shubham Bhatt

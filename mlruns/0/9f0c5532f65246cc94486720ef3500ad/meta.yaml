@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/9f0c5532f65246cc94486720ef3500ad/artifacts
+end_time: 1712370216212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f0c5532f65246cc94486720ef3500ad
+run_name: serious-cub-545
+run_uuid: 9f0c5532f65246cc94486720ef3500ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370216045
+status: 3
+tags: []
+user_id: Shubham Bhatt

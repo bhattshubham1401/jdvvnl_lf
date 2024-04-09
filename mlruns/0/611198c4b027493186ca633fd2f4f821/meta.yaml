@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/611198c4b027493186ca633fd2f4f821/artifacts
+end_time: 1712335168108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 611198c4b027493186ca633fd2f4f821
+run_name: bouncy-toad-282
+run_uuid: 611198c4b027493186ca633fd2f4f821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335167998
+status: 3
+tags: []
+user_id: Shubham Bhatt

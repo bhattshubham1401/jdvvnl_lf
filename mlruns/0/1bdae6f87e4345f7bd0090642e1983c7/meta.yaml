@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1bdae6f87e4345f7bd0090642e1983c7/artifacts
+end_time: 1712335101833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bdae6f87e4345f7bd0090642e1983c7
+run_name: sedate-penguin-316
+run_uuid: 1bdae6f87e4345f7bd0090642e1983c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335101675
+status: 3
+tags: []
+user_id: Shubham Bhatt

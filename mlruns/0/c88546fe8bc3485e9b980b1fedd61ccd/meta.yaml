@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c88546fe8bc3485e9b980b1fedd61ccd/artifacts
+end_time: 1712370241960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c88546fe8bc3485e9b980b1fedd61ccd
+run_name: mercurial-kit-462
+run_uuid: c88546fe8bc3485e9b980b1fedd61ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370241783
+status: 3
+tags: []
+user_id: Shubham Bhatt

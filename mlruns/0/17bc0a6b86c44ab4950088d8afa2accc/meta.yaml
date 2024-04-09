@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/17bc0a6b86c44ab4950088d8afa2accc/artifacts
+end_time: 1712335126195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17bc0a6b86c44ab4950088d8afa2accc
+run_name: fortunate-sponge-612
+run_uuid: 17bc0a6b86c44ab4950088d8afa2accc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335126075
+status: 3
+tags: []
+user_id: Shubham Bhatt

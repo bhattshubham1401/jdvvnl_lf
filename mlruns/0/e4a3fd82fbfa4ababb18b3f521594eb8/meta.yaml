@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e4a3fd82fbfa4ababb18b3f521594eb8/artifacts
+end_time: 1712335112188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4a3fd82fbfa4ababb18b3f521594eb8
+run_name: resilient-wren-975
+run_uuid: e4a3fd82fbfa4ababb18b3f521594eb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335112069
+status: 3
+tags: []
+user_id: Shubham Bhatt

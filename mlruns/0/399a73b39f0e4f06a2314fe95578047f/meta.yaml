@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/399a73b39f0e4f06a2314fe95578047f/artifacts
+end_time: 1712370206622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 399a73b39f0e4f06a2314fe95578047f
+run_name: dashing-auk-473
+run_uuid: 399a73b39f0e4f06a2314fe95578047f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370206481
+status: 3
+tags: []
+user_id: Shubham Bhatt

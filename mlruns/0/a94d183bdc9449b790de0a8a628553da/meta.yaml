@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a94d183bdc9449b790de0a8a628553da/artifacts
+end_time: 1712370192712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a94d183bdc9449b790de0a8a628553da
+run_name: rebellious-finch-410
+run_uuid: a94d183bdc9449b790de0a8a628553da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370192469
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2f305bd4e6154450b9fac512ce178f0e/artifacts
+end_time: 1712370201099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f305bd4e6154450b9fac512ce178f0e
+run_name: gentle-bug-142
+run_uuid: 2f305bd4e6154450b9fac512ce178f0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370200955
+status: 3
+tags: []
+user_id: Shubham Bhatt

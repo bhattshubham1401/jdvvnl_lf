@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b4de5547e56544b096f87274bc2699a2/artifacts
+end_time: 1712335179088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4de5547e56544b096f87274bc2699a2
+run_name: melodic-boar-669
+run_uuid: b4de5547e56544b096f87274bc2699a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335178970
+status: 3
+tags: []
+user_id: Shubham Bhatt

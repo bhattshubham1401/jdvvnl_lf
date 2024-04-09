@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f17bcf8faa984532b92c2dafbd8d124b/artifacts
+end_time: 1712370183706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f17bcf8faa984532b92c2dafbd8d124b
+run_name: sneaky-sloth-271
+run_uuid: f17bcf8faa984532b92c2dafbd8d124b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370183406
+status: 3
+tags: []
+user_id: Shubham Bhatt

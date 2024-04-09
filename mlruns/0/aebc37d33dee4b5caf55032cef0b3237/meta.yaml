@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/aebc37d33dee4b5caf55032cef0b3237/artifacts
+end_time: 1712370188045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aebc37d33dee4b5caf55032cef0b3237
+run_name: casual-horse-137
+run_uuid: aebc37d33dee4b5caf55032cef0b3237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370187788
+status: 3
+tags: []
+user_id: Shubham Bhatt

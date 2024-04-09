@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/73c7d1fa6f64497f9640de803d82c41f/artifacts
+end_time: 1712335166791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73c7d1fa6f64497f9640de803d82c41f
+run_name: worried-smelt-681
+run_uuid: 73c7d1fa6f64497f9640de803d82c41f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335166674
+status: 3
+tags: []
+user_id: Shubham Bhatt

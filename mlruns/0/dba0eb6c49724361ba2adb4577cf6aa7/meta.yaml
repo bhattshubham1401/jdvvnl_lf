@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/dba0eb6c49724361ba2adb4577cf6aa7/artifacts
+end_time: 1712370203760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dba0eb6c49724361ba2adb4577cf6aa7
+run_name: wise-gnat-334
+run_uuid: dba0eb6c49724361ba2adb4577cf6aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370203625
+status: 3
+tags: []
+user_id: Shubham Bhatt

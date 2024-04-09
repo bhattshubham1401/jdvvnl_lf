@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/31563ec629524d96bee79f6b1275a043/artifacts
+end_time: 1712370216804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31563ec629524d96bee79f6b1275a043
+run_name: sincere-bug-794
+run_uuid: 31563ec629524d96bee79f6b1275a043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370216657
+status: 3
+tags: []
+user_id: Shubham Bhatt

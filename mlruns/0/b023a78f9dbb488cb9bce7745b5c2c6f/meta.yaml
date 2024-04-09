@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b023a78f9dbb488cb9bce7745b5c2c6f/artifacts
+end_time: 1712235539059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b023a78f9dbb488cb9bce7745b5c2c6f
+run_name: resilient-cow-144
+run_uuid: b023a78f9dbb488cb9bce7745b5c2c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235538974
+status: 3
+tags: []
+user_id: Shubham Bhatt

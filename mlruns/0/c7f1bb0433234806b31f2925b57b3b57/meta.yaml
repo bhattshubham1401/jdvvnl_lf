@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c7f1bb0433234806b31f2925b57b3b57/artifacts
+end_time: 1712370213623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7f1bb0433234806b31f2925b57b3b57
+run_name: upset-bug-712
+run_uuid: c7f1bb0433234806b31f2925b57b3b57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370213438
+status: 3
+tags: []
+user_id: Shubham Bhatt

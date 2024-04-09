@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/65a26503cf564ababecf57e952d2b81f/artifacts
+end_time: 1712370232536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65a26503cf564ababecf57e952d2b81f
+run_name: placid-worm-684
+run_uuid: 65a26503cf564ababecf57e952d2b81f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370232354
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c4768d83148c4af2bb80ac9d6811db71/artifacts
+end_time: 1712335124980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4768d83148c4af2bb80ac9d6811db71
+run_name: adaptable-bee-861
+run_uuid: c4768d83148c4af2bb80ac9d6811db71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335124874
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ab8464148f7f47a28f49d9f827814af1/artifacts
+end_time: 1712370235888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab8464148f7f47a28f49d9f827814af1
+run_name: clumsy-lynx-659
+run_uuid: ab8464148f7f47a28f49d9f827814af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370235716
+status: 3
+tags: []
+user_id: Shubham Bhatt

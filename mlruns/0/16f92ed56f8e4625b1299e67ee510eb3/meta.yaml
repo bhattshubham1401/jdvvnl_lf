@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/16f92ed56f8e4625b1299e67ee510eb3/artifacts
+end_time: 1712370234090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16f92ed56f8e4625b1299e67ee510eb3
+run_name: smiling-crane-145
+run_uuid: 16f92ed56f8e4625b1299e67ee510eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370233956
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/45db24c7c1254f48bedf8195b5e3ac55/artifacts
+end_time: 1712235542560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45db24c7c1254f48bedf8195b5e3ac55
+run_name: secretive-grouse-61
+run_uuid: 45db24c7c1254f48bedf8195b5e3ac55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235542454
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4f6e6c06d9d84294ad31a78f95c49a89/artifacts
+end_time: 1712261399260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f6e6c06d9d84294ad31a78f95c49a89
+run_name: charming-mole-117
+run_uuid: 4f6e6c06d9d84294ad31a78f95c49a89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261399171
+status: 3
+tags: []
+user_id: Shubham Bhatt

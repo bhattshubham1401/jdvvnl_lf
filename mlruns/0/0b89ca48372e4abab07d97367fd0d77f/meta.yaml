@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0b89ca48372e4abab07d97367fd0d77f/artifacts
+end_time: 1712370233503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b89ca48372e4abab07d97367fd0d77f
+run_name: fearless-grub-655
+run_uuid: 0b89ca48372e4abab07d97367fd0d77f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370233349
+status: 3
+tags: []
+user_id: Shubham Bhatt

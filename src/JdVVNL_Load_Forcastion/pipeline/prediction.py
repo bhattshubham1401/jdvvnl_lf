@@ -91,16 +91,13 @@ class PredictionPipeline:
                 df1['isFuture'] = False
                 df_and_future = pd.concat([df1, future_df])
 
-
                 df_and_future.index.name = 'creation_time'
                 df_and_future.reset_index(['creation_time'], inplace=True)
                 # df_and_future.to_csv('df_and_future.csv', index=False)
                 df_and_future['creation_time'] = pd.to_datetime(df_and_future['creation_time'])
 
-
                 # weather_data = data_from_weather_api(site, startDate, endDate)
                 if not weather_data.empty:
-
                     df_and_future['creation_time_rounded'] = pd.to_datetime(df_and_future['creation_time']).dt.round(
                         'H')
                     weather_data['creation_time_rounded'] = pd.to_datetime(weather_data['time']).dt.round('H')
@@ -108,14 +105,12 @@ class PredictionPipeline:
                     merged_df.drop(columns=['creation_time_rounded'], inplace=True)
                     merged_df.reset_index(drop=True, inplace=True)
 
-
                 # Adding holidays
                 merged_df['is_holiday'] = merged_df['creation_time'].dt.date.isin(holiday_lst).astype(int)
                 # merged_df.to_csv('merged_df_before.csv', index=False)
                 merged_df.set_index(['creation_time'], inplace=True, drop=True)
                 merged_df = add_lagsV1(merged_df)
                 # print(merged_df.columns)
-
 
                 merged_df = create_features(merged_df)
                 merged_df['weekofyear'] = merged_df['weekofyear'].astype(int)
@@ -131,22 +126,23 @@ class PredictionPipeline:
                 # print(future_w_features[FEATURES].info())
 
                 future_w_features['pred'] = model.predict(future_w_features[FEATURES])
-                # print(future_w_features['pred'].to_csv('merged_df.csv', index=False))
+                print(future_w_features)
+                # future_w_features['pred'].to_csv('merged_df.csv', index=False)
                 store_predictions_in_mongodb(sensor_id, future_w_features.index, future_w_features['pred'])
 
         except Exception as e:
             logger.error(f"Error in Model Prediction: {e}")
             print(traceback.format_exc())
 
-
     def get_date(self, startDate_str):
         start_date = startDate_str.min()
+
         end_date = startDate_str.max()
 
         start_date = datetime.strptime(start_date, "%Y-%m-%d %H:%M:%S")
         startDate = start_date.replace(hour=0, minute=0, second=0)
 
         end_date = datetime.strptime(end_date, "%Y-%m-%d %H:%M:%S")
-        future_date = end_date + timedelta(days=11)
+        future_date = end_date + timedelta(days=45)
         future_date = future_date.replace(hour=23, minute=59, second=59)
         return startDate, future_date, end_date

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4d41565e40fd41f1a2db8fe163f15771/artifacts
+end_time: 1712335157295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d41565e40fd41f1a2db8fe163f15771
+run_name: fearless-shrew-546
+run_uuid: 4d41565e40fd41f1a2db8fe163f15771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335157187
+status: 3
+tags: []
+user_id: Shubham Bhatt

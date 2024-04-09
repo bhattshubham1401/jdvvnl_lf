@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e2589ccc06bb4f3db884c4c36cd8d70d/artifacts
+end_time: 1712370237816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2589ccc06bb4f3db884c4c36cd8d70d
+run_name: casual-owl-845
+run_uuid: e2589ccc06bb4f3db884c4c36cd8d70d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370237666
+status: 3
+tags: []
+user_id: Shubham Bhatt

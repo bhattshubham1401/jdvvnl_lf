@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/562932a738ba489fa42c24fcda0cc532/artifacts
+end_time: 1712335182809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 562932a738ba489fa42c24fcda0cc532
+run_name: bald-cat-933
+run_uuid: 562932a738ba489fa42c24fcda0cc532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335182700
+status: 3
+tags: []
+user_id: Shubham Bhatt

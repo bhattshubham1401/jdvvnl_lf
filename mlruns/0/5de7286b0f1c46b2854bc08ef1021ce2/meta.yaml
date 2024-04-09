@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5de7286b0f1c46b2854bc08ef1021ce2/artifacts
+end_time: 1712261406121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5de7286b0f1c46b2854bc08ef1021ce2
+run_name: selective-stoat-957
+run_uuid: 5de7286b0f1c46b2854bc08ef1021ce2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261406024
+status: 3
+tags: []
+user_id: Shubham Bhatt

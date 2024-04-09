@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/07f823a81c8c41a69878dce2c4929c7d/artifacts
+end_time: 1712335102247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07f823a81c8c41a69878dce2c4929c7d
+run_name: dapper-sloth-267
+run_uuid: 07f823a81c8c41a69878dce2c4929c7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335102131
+status: 3
+tags: []
+user_id: Shubham Bhatt

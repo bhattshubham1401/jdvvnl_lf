@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4d3d67c4bf0a431cb06ec10fa552cf1d/artifacts
+end_time: 1712235519585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d3d67c4bf0a431cb06ec10fa552cf1d
+run_name: shivering-whale-170
+run_uuid: 4d3d67c4bf0a431cb06ec10fa552cf1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235519328
+status: 3
+tags: []
+user_id: Shubham Bhatt

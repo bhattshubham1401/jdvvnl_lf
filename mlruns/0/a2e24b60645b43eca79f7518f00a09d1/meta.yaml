@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a2e24b60645b43eca79f7518f00a09d1/artifacts
+end_time: 1712261391679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2e24b60645b43eca79f7518f00a09d1
+run_name: clean-mouse-737
+run_uuid: a2e24b60645b43eca79f7518f00a09d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261391598
+status: 3
+tags: []
+user_id: Shubham Bhatt

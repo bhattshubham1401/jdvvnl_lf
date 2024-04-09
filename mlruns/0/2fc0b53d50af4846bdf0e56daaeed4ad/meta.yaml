@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2fc0b53d50af4846bdf0e56daaeed4ad/artifacts
+end_time: 1712335176839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fc0b53d50af4846bdf0e56daaeed4ad
+run_name: zealous-fish-400
+run_uuid: 2fc0b53d50af4846bdf0e56daaeed4ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335176723
+status: 3
+tags: []
+user_id: Shubham Bhatt

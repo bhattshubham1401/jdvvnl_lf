@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/15e8d41315ac4c0f81c8a340e8d2992d/artifacts
+end_time: 1712335150190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15e8d41315ac4c0f81c8a340e8d2992d
+run_name: popular-ray-162
+run_uuid: 15e8d41315ac4c0f81c8a340e8d2992d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335150072
+status: 3
+tags: []
+user_id: Shubham Bhatt

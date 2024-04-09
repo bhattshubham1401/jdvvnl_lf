@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/43bdce4b1a944a3ca7aef61c9e26e6cd/artifacts
+end_time: 1712235517560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43bdce4b1a944a3ca7aef61c9e26e6cd
+run_name: luminous-owl-850
+run_uuid: 43bdce4b1a944a3ca7aef61c9e26e6cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235517460
+status: 3
+tags: []
+user_id: Shubham Bhatt

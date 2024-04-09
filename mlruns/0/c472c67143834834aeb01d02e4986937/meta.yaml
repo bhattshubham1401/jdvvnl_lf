@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c472c67143834834aeb01d02e4986937/artifacts
+end_time: 1712335149809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c472c67143834834aeb01d02e4986937
+run_name: adaptable-lamb-620
+run_uuid: c472c67143834834aeb01d02e4986937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335149679
+status: 3
+tags: []
+user_id: Shubham Bhatt

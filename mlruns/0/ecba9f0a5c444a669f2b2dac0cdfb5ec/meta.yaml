@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ecba9f0a5c444a669f2b2dac0cdfb5ec/artifacts
+end_time: 1712335163570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecba9f0a5c444a669f2b2dac0cdfb5ec
+run_name: ambitious-wasp-539
+run_uuid: ecba9f0a5c444a669f2b2dac0cdfb5ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335163463
+status: 3
+tags: []
+user_id: Shubham Bhatt

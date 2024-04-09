@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e789fd2af4c748a3a4cd3f13184c5780/artifacts
+end_time: 1712370212996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e789fd2af4c748a3a4cd3f13184c5780
+run_name: melodic-gnat-272
+run_uuid: e789fd2af4c748a3a4cd3f13184c5780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370212803
+status: 3
+tags: []
+user_id: Shubham Bhatt

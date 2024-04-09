@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6defb7d606c74654996000f8c5eb978f/artifacts
+end_time: 1712370190476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6defb7d606c74654996000f8c5eb978f
+run_name: defiant-smelt-505
+run_uuid: 6defb7d606c74654996000f8c5eb978f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370190225
+status: 3
+tags: []
+user_id: Shubham Bhatt

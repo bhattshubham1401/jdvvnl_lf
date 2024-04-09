@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0a6a28e0948741c78ee941e5bb058fba/artifacts
+end_time: 1712335096473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a6a28e0948741c78ee941e5bb058fba
+run_name: placid-grub-8
+run_uuid: 0a6a28e0948741c78ee941e5bb058fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335096231
+status: 3
+tags: []
+user_id: Shubham Bhatt

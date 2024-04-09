@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d1207da9685149b4b70f2a764b24c360/artifacts
+end_time: 1712335115549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1207da9685149b4b70f2a764b24c360
+run_name: mercurial-elk-192
+run_uuid: d1207da9685149b4b70f2a764b24c360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335115323
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/84e2194ee25946fd9a143d9c7a6be7e9/artifacts
+end_time: 1712335151922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84e2194ee25946fd9a143d9c7a6be7e9
+run_name: bedecked-smelt-476
+run_uuid: 84e2194ee25946fd9a143d9c7a6be7e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335151791
+status: 3
+tags: []
+user_id: Shubham Bhatt

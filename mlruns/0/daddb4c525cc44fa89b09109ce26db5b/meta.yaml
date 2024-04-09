@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/daddb4c525cc44fa89b09109ce26db5b/artifacts
+end_time: 1712335107108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daddb4c525cc44fa89b09109ce26db5b
+run_name: intelligent-slug-943
+run_uuid: daddb4c525cc44fa89b09109ce26db5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335106868
+status: 3
+tags: []
+user_id: Shubham Bhatt

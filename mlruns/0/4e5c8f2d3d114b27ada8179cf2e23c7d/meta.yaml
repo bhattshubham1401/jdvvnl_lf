@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4e5c8f2d3d114b27ada8179cf2e23c7d/artifacts
+end_time: 1712335124831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e5c8f2d3d114b27ada8179cf2e23c7d
+run_name: likeable-lamb-228
+run_uuid: 4e5c8f2d3d114b27ada8179cf2e23c7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335124737
+status: 3
+tags: []
+user_id: Shubham Bhatt

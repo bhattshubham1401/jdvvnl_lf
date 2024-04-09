@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2f3ea27641434140badea63b5f8fb388/artifacts
+end_time: 1712335095638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f3ea27641434140badea63b5f8fb388
+run_name: gentle-moth-556
+run_uuid: 2f3ea27641434140badea63b5f8fb388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335095509
+status: 3
+tags: []
+user_id: Shubham Bhatt

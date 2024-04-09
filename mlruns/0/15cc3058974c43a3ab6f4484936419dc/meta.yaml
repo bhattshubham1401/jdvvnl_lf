@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/15cc3058974c43a3ab6f4484936419dc/artifacts
+end_time: 1712335102943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15cc3058974c43a3ab6f4484936419dc
+run_name: flawless-tern-310
+run_uuid: 15cc3058974c43a3ab6f4484936419dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335102845
+status: 3
+tags: []
+user_id: Shubham Bhatt

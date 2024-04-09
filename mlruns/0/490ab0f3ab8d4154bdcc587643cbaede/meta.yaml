@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/490ab0f3ab8d4154bdcc587643cbaede/artifacts
+end_time: 1712235529045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 490ab0f3ab8d4154bdcc587643cbaede
+run_name: dashing-rat-556
+run_uuid: 490ab0f3ab8d4154bdcc587643cbaede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235528835
+status: 3
+tags: []
+user_id: Shubham Bhatt

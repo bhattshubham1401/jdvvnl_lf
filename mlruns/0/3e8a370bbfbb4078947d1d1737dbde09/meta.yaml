@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/3e8a370bbfbb4078947d1d1737dbde09/artifacts
+end_time: 1712335173431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e8a370bbfbb4078947d1d1737dbde09
+run_name: merciful-wren-234
+run_uuid: 3e8a370bbfbb4078947d1d1737dbde09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335173317
+status: 3
+tags: []
+user_id: Shubham Bhatt

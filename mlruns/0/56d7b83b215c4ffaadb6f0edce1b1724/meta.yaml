@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/56d7b83b215c4ffaadb6f0edce1b1724/artifacts
+end_time: 1712335181695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56d7b83b215c4ffaadb6f0edce1b1724
+run_name: upset-crane-804
+run_uuid: 56d7b83b215c4ffaadb6f0edce1b1724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335181570
+status: 3
+tags: []
+user_id: Shubham Bhatt

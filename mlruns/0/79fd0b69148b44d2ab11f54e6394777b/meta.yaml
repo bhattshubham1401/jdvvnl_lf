@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/79fd0b69148b44d2ab11f54e6394777b/artifacts
+end_time: 1712335183089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79fd0b69148b44d2ab11f54e6394777b
+run_name: nimble-steed-378
+run_uuid: 79fd0b69148b44d2ab11f54e6394777b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335182978
+status: 3
+tags: []
+user_id: Shubham Bhatt

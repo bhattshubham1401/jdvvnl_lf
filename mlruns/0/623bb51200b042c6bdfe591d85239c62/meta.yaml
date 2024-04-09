@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/623bb51200b042c6bdfe591d85239c62/artifacts
+end_time: 1712335114015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 623bb51200b042c6bdfe591d85239c62
+run_name: dashing-skunk-45
+run_uuid: 623bb51200b042c6bdfe591d85239c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335113772
+status: 3
+tags: []
+user_id: Shubham Bhatt

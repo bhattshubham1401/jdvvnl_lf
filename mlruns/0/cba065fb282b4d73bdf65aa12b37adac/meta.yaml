@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/cba065fb282b4d73bdf65aa12b37adac/artifacts
+end_time: 1712370228168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cba065fb282b4d73bdf65aa12b37adac
+run_name: judicious-boar-277
+run_uuid: cba065fb282b4d73bdf65aa12b37adac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370227992
+status: 3
+tags: []
+user_id: Shubham Bhatt

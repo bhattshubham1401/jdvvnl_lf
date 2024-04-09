@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/dc8c0fc093364de68c652e68c670082c/artifacts
+end_time: 1712235554309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc8c0fc093364de68c652e68c670082c
+run_name: bright-ray-315
+run_uuid: dc8c0fc093364de68c652e68c670082c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235554207
+status: 3
+tags: []
+user_id: Shubham Bhatt

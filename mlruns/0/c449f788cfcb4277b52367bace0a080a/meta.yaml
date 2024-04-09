@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c449f788cfcb4277b52367bace0a080a/artifacts
+end_time: 1712370213798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c449f788cfcb4277b52367bace0a080a
+run_name: omniscient-fawn-315
+run_uuid: c449f788cfcb4277b52367bace0a080a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370213659
+status: 3
+tags: []
+user_id: Shubham Bhatt

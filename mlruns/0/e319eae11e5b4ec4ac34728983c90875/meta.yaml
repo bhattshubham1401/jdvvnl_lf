@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/e319eae11e5b4ec4ac34728983c90875/artifacts
+end_time: 1712261406378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e319eae11e5b4ec4ac34728983c90875
+run_name: nimble-snake-93
+run_uuid: e319eae11e5b4ec4ac34728983c90875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261406283
+status: 3
+tags: []
+user_id: Shubham Bhatt

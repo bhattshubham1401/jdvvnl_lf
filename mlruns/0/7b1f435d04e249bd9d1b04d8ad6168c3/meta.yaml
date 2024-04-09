@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/7b1f435d04e249bd9d1b04d8ad6168c3/artifacts
+end_time: 1712370231090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b1f435d04e249bd9d1b04d8ad6168c3
+run_name: sincere-sloth-782
+run_uuid: 7b1f435d04e249bd9d1b04d8ad6168c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370230938
+status: 3
+tags: []
+user_id: Shubham Bhatt

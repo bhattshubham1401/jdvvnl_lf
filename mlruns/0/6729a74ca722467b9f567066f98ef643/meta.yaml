@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6729a74ca722467b9f567066f98ef643/artifacts
+end_time: 1712370193596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6729a74ca722467b9f567066f98ef643
+run_name: persistent-seal-69
+run_uuid: 6729a74ca722467b9f567066f98ef643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370193342
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0b820e374dc64fe7bed329cf22dfabba/artifacts
+end_time: 1712261400305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b820e374dc64fe7bed329cf22dfabba
+run_name: masked-elk-192
+run_uuid: 0b820e374dc64fe7bed329cf22dfabba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261400215
+status: 3
+tags: []
+user_id: Shubham Bhatt

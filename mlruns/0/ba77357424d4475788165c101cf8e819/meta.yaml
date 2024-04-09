@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ba77357424d4475788165c101cf8e819/artifacts
+end_time: 1712370218168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba77357424d4475788165c101cf8e819
+run_name: delicate-wasp-283
+run_uuid: ba77357424d4475788165c101cf8e819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370218010
+status: 3
+tags: []
+user_id: Shubham Bhatt

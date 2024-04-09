@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/51e6794abaca49209775b75c7da6d740/artifacts
+end_time: 1712370186066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51e6794abaca49209775b75c7da6d740
+run_name: zealous-yak-22
+run_uuid: 51e6794abaca49209775b75c7da6d740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370185891
+status: 3
+tags: []
+user_id: Shubham Bhatt

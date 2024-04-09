@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b13e0da9c74c458cb87a80d3b3379e17/artifacts
+end_time: 1712335152079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b13e0da9c74c458cb87a80d3b3379e17
+run_name: languid-moose-683
+run_uuid: b13e0da9c74c458cb87a80d3b3379e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335151952
+status: 3
+tags: []
+user_id: Shubham Bhatt

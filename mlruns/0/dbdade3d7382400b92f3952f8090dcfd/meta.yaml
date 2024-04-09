@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/dbdade3d7382400b92f3952f8090dcfd/artifacts
+end_time: 1712261388089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbdade3d7382400b92f3952f8090dcfd
+run_name: spiffy-wolf-258
+run_uuid: dbdade3d7382400b92f3952f8090dcfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261388012
+status: 3
+tags: []
+user_id: Shubham Bhatt

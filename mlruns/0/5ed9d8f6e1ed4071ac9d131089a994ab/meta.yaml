@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5ed9d8f6e1ed4071ac9d131089a994ab/artifacts
+end_time: 1712235553104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ed9d8f6e1ed4071ac9d131089a994ab
+run_name: lyrical-grouse-542
+run_uuid: 5ed9d8f6e1ed4071ac9d131089a994ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235553008
+status: 3
+tags: []
+user_id: Shubham Bhatt

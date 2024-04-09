@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2fef3931c5cd4683a1407c6226e574cd/artifacts
+end_time: 1712370188427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fef3931c5cd4683a1407c6226e574cd
+run_name: spiffy-zebra-621
+run_uuid: 2fef3931c5cd4683a1407c6226e574cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370188281
+status: 3
+tags: []
+user_id: Shubham Bhatt

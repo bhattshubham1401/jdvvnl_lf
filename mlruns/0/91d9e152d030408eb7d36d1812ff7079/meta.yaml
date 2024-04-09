@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/91d9e152d030408eb7d36d1812ff7079/artifacts
+end_time: 1712235536187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91d9e152d030408eb7d36d1812ff7079
+run_name: secretive-cow-257
+run_uuid: 91d9e152d030408eb7d36d1812ff7079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235536069
+status: 3
+tags: []
+user_id: Shubham Bhatt

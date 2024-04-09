@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/01b6bf8cd289424f90dcfd78b9f38700/artifacts
+end_time: 1712370224213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01b6bf8cd289424f90dcfd78b9f38700
+run_name: grandiose-zebra-754
+run_uuid: 01b6bf8cd289424f90dcfd78b9f38700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370224067
+status: 3
+tags: []
+user_id: Shubham Bhatt

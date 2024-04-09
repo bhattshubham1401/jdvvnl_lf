@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/34de654ed3ce4cf381d2e13c4a2bf791/artifacts
+end_time: 1712235517163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34de654ed3ce4cf381d2e13c4a2bf791
+run_name: fun-mule-585
+run_uuid: 34de654ed3ce4cf381d2e13c4a2bf791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235516930
+status: 3
+tags: []
+user_id: Shubham Bhatt

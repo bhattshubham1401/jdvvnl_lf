@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f6f4c60e2fc44524a26c0c6fc5de0637/artifacts
+end_time: 1712335142521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6f4c60e2fc44524a26c0c6fc5de0637
+run_name: stately-goat-998
+run_uuid: f6f4c60e2fc44524a26c0c6fc5de0637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335142390
+status: 3
+tags: []
+user_id: Shubham Bhatt

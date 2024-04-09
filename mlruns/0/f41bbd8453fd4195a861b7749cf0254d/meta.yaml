@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f41bbd8453fd4195a861b7749cf0254d/artifacts
+end_time: 1712335136053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f41bbd8453fd4195a861b7749cf0254d
+run_name: salty-frog-19
+run_uuid: f41bbd8453fd4195a861b7749cf0254d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335135851
+status: 3
+tags: []
+user_id: Shubham Bhatt

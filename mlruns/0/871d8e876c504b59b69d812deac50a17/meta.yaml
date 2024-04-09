@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/871d8e876c504b59b69d812deac50a17/artifacts
+end_time: 1712335166095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 871d8e876c504b59b69d812deac50a17
+run_name: clumsy-steed-859
+run_uuid: 871d8e876c504b59b69d812deac50a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335165988
+status: 3
+tags: []
+user_id: Shubham Bhatt

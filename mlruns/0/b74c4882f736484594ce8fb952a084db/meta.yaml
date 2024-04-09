@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b74c4882f736484594ce8fb952a084db/artifacts
+end_time: 1712370218372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b74c4882f736484594ce8fb952a084db
+run_name: gaudy-conch-765
+run_uuid: b74c4882f736484594ce8fb952a084db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370218208
+status: 3
+tags: []
+user_id: Shubham Bhatt

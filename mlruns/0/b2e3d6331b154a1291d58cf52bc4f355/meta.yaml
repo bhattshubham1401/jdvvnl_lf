@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b2e3d6331b154a1291d58cf52bc4f355/artifacts
+end_time: 1712335160015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2e3d6331b154a1291d58cf52bc4f355
+run_name: rumbling-loon-208
+run_uuid: b2e3d6331b154a1291d58cf52bc4f355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335159910
+status: 3
+tags: []
+user_id: Shubham Bhatt

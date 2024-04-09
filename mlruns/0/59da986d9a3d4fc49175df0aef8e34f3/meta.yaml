@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/59da986d9a3d4fc49175df0aef8e34f3/artifacts
+end_time: 1712335112559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59da986d9a3d4fc49175df0aef8e34f3
+run_name: caring-newt-208
+run_uuid: 59da986d9a3d4fc49175df0aef8e34f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335112437
+status: 3
+tags: []
+user_id: Shubham Bhatt

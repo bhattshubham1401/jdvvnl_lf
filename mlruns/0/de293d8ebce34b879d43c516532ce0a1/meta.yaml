@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/de293d8ebce34b879d43c516532ce0a1/artifacts
+end_time: 1712370162533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de293d8ebce34b879d43c516532ce0a1
+run_name: melodic-rook-112
+run_uuid: de293d8ebce34b879d43c516532ce0a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370162221
+status: 3
+tags: []
+user_id: Shubham Bhatt

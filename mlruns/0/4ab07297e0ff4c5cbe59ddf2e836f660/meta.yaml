@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4ab07297e0ff4c5cbe59ddf2e836f660/artifacts
+end_time: 1712335176695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ab07297e0ff4c5cbe59ddf2e836f660
+run_name: bald-skunk-85
+run_uuid: 4ab07297e0ff4c5cbe59ddf2e836f660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335176568
+status: 3
+tags: []
+user_id: Shubham Bhatt

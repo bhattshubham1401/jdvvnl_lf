@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/af676bfe0b68446f9cf9c6742655cda0/artifacts
+end_time: 1712335141461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af676bfe0b68446f9cf9c6742655cda0
+run_name: rogue-newt-219
+run_uuid: af676bfe0b68446f9cf9c6742655cda0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335141348
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/87d355213b5a40bfbb9e07b6d9a0a5d9/artifacts
+end_time: 1712335103847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87d355213b5a40bfbb9e07b6d9a0a5d9
+run_name: orderly-pug-867
+run_uuid: 87d355213b5a40bfbb9e07b6d9a0a5d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335103749
+status: 3
+tags: []
+user_id: Shubham Bhatt

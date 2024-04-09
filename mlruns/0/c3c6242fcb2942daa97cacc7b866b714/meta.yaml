@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c3c6242fcb2942daa97cacc7b866b714/artifacts
+end_time: 1712370217202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3c6242fcb2942daa97cacc7b866b714
+run_name: awesome-elk-629
+run_uuid: c3c6242fcb2942daa97cacc7b866b714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370217060
+status: 3
+tags: []
+user_id: Shubham Bhatt

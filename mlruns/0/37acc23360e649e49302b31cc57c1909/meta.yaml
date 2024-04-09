@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/37acc23360e649e49302b31cc57c1909/artifacts
+end_time: 1712335179503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37acc23360e649e49302b31cc57c1909
+run_name: big-crane-188
+run_uuid: 37acc23360e649e49302b31cc57c1909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335179386
+status: 3
+tags: []
+user_id: Shubham Bhatt

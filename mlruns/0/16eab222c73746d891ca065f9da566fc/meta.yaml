@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/16eab222c73746d891ca065f9da566fc/artifacts
+end_time: 1712335173578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16eab222c73746d891ca065f9da566fc
+run_name: handsome-bug-226
+run_uuid: 16eab222c73746d891ca065f9da566fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335173461
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/4ac69ccb23b94dd58bf23c76af46f227/artifacts
+end_time: 1712370204471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ac69ccb23b94dd58bf23c76af46f227
+run_name: agreeable-wolf-476
+run_uuid: 4ac69ccb23b94dd58bf23c76af46f227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370204296
+status: 3
+tags: []
+user_id: Shubham Bhatt

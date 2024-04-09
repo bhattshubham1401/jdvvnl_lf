@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8149c385333b4e1db0d2710844a540e5/artifacts
+end_time: 1712335175683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8149c385333b4e1db0d2710844a540e5
+run_name: persistent-chimp-112
+run_uuid: 8149c385333b4e1db0d2710844a540e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335175568
+status: 3
+tags: []
+user_id: Shubham Bhatt

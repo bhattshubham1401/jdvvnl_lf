@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d944d39856f74a28bb61ebac3c0720f7/artifacts
+end_time: 1712261400424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d944d39856f74a28bb61ebac3c0720f7
+run_name: delicate-finch-819
+run_uuid: d944d39856f74a28bb61ebac3c0720f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261400340
+status: 3
+tags: []
+user_id: Shubham Bhatt

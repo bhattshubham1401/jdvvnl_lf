@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/303c7b640fd842a0b35073e7c9b72b76/artifacts
+end_time: 1712370180854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 303c7b640fd842a0b35073e7c9b72b76
+run_name: salty-bat-958
+run_uuid: 303c7b640fd842a0b35073e7c9b72b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370180668
+status: 3
+tags: []
+user_id: Shubham Bhatt

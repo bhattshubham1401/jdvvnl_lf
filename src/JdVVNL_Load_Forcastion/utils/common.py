@@ -570,7 +570,7 @@ def store_predictions_in_mongodb(sensor_id, dates, predictions):
         db = os.getenv("db")
         host = os.getenv("host")
         port = os.getenv("port")
-        collection_name = os.getenv("collection4")
+        collection_name = os.getenv("collection5")
 
         mongo_url = f"mongodb://{host}:{port}"
         client = MongoClient(mongo_url)
@@ -651,6 +651,8 @@ def add_lags(df):
         df['lag3'] = (df.index - pd.Timedelta('1 day')).map(target_map)
         df['lag4'] = (df.index - pd.Timedelta('7 days')).map(target_map)
         df['lag5'] = (df.index - pd.Timedelta('15 days')).map(target_map)
+        df['lag6'] = (df.index - pd.Timedelta('30 days')).map(target_map)
+        df['lag7'] = (df.index - pd.Timedelta('45 days')).map(target_map)
     except KeyError as e:
         print(f"Error: {e}. 'consumed_unit' column not found in the DataFrame.")
     except Exception as ex:
@@ -1059,16 +1061,17 @@ def sensor_data(id_lst):
 def add_lagsV1(df: pd.DataFrame) -> pd.DataFrame:
     try:
         target_map = df['consumed_unit'].to_dict()
-
         # 15 minutes, 30 minutes, 1 day, 7 days, 15 days
         df['lag1'] = df['consumed_unit'].shift(1)
         df['lag2'] = df['consumed_unit'].shift(2)
         df['lag3'] = df['consumed_unit'].shift(96)  # 96 periods in 1 day (24 hours * 4 quarters)
         df['lag4'] = df['consumed_unit'].shift(672)  # 672 periods in 7 days (7 days * 24 hours * 4 quarters)
         df['lag5'] = df['consumed_unit'].shift(1440)  # 1440 periods in 15 days (15 days * 24 hours * 4 quarters)
+        df['lag6'] = df['consumed_unit'].shift(2880)  # 30 days
+        df['lag7'] = df['consumed_unit'].shift(4320)  # 45 days
 
         # Fill missing values with zeros or NaNs
-        df[['lag1', 'lag2', 'lag3', 'lag4', 'lag5']] = df[['lag1', 'lag2', 'lag3', 'lag4', 'lag5']].fillna(0)
+        df[['lag1', 'lag2', 'lag3', 'lag4', 'lag5', 'lag6', 'lag7']] = df[['lag1', 'lag2', 'lag3', 'lag4', 'lag5', 'lag6', 'lag7']].fillna(0)
     except KeyError as e:
         print(f"Error: {e}. 'consumed_unit' column not found in the DataFrame.")
     except Exception as ex:

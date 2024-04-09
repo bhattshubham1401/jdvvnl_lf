@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f108d4bc05de4b7ab3ac4e1f7739572a/artifacts
+end_time: 1712235557171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f108d4bc05de4b7ab3ac4e1f7739572a
+run_name: clean-frog-52
+run_uuid: f108d4bc05de4b7ab3ac4e1f7739572a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235557078
+status: 3
+tags: []
+user_id: Shubham Bhatt

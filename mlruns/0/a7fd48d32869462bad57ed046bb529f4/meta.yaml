@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a7fd48d32869462bad57ed046bb529f4/artifacts
+end_time: 1712335170520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7fd48d32869462bad57ed046bb529f4
+run_name: delicate-pig-714
+run_uuid: a7fd48d32869462bad57ed046bb529f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335170401
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/caa9750f5dc3427cb667249c1bb5b80b/artifacts
+end_time: 1712235558551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caa9750f5dc3427cb667249c1bb5b80b
+run_name: rare-roo-693
+run_uuid: caa9750f5dc3427cb667249c1bb5b80b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235558460
+status: 3
+tags: []
+user_id: Shubham Bhatt

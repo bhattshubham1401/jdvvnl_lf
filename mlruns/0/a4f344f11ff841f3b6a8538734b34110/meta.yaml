@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a4f344f11ff841f3b6a8538734b34110/artifacts
+end_time: 1712261395090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4f344f11ff841f3b6a8538734b34110
+run_name: nervous-cat-515
+run_uuid: a4f344f11ff841f3b6a8538734b34110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261395001
+status: 3
+tags: []
+user_id: Shubham Bhatt

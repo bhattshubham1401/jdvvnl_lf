@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b40dfd2cba054dcca0b21e525c8c4e91/artifacts
+end_time: 1712335186800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b40dfd2cba054dcca0b21e525c8c4e91
+run_name: burly-skunk-924
+run_uuid: b40dfd2cba054dcca0b21e525c8c4e91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335186689
+status: 3
+tags: []
+user_id: Shubham Bhatt

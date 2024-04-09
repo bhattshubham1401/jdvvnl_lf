@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/03f24e68adeb4bfda345297aecef94a2/artifacts
+end_time: 1712261398868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03f24e68adeb4bfda345297aecef94a2
+run_name: gaudy-snail-36
+run_uuid: 03f24e68adeb4bfda345297aecef94a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261398766
+status: 3
+tags: []
+user_id: Shubham Bhatt

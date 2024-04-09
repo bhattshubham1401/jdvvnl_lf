@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5e1ed0a52b4746c79568a4249ae2c3d2/artifacts
+end_time: 1712370159198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e1ed0a52b4746c79568a4249ae2c3d2
+run_name: bittersweet-rat-503
+run_uuid: 5e1ed0a52b4746c79568a4249ae2c3d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370158912
+status: 3
+tags: []
+user_id: Shubham Bhatt

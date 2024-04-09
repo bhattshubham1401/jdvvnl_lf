@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8837eaea7ba04f0fbe3281584adcc90e/artifacts
+end_time: 1712335184641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8837eaea7ba04f0fbe3281584adcc90e
+run_name: clumsy-shad-465
+run_uuid: 8837eaea7ba04f0fbe3281584adcc90e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335184527
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/97faf2c44f2d4f23a5fcadb84f09f41f/artifacts
+end_time: 1712370208738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97faf2c44f2d4f23a5fcadb84f09f41f
+run_name: orderly-ant-959
+run_uuid: 97faf2c44f2d4f23a5fcadb84f09f41f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370208585
+status: 3
+tags: []
+user_id: Shubham Bhatt

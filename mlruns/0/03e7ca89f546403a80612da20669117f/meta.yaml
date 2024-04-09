@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/03e7ca89f546403a80612da20669117f/artifacts
+end_time: 1712261390046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03e7ca89f546403a80612da20669117f
+run_name: luminous-asp-592
+run_uuid: 03e7ca89f546403a80612da20669117f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261389952
+status: 3
+tags: []
+user_id: Shubham Bhatt

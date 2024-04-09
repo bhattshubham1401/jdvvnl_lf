@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a52c2edaaf7a446b89fdd3ce750fc1c4/artifacts
+end_time: 1712235559251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a52c2edaaf7a446b89fdd3ce750fc1c4
+run_name: adaptable-roo-534
+run_uuid: a52c2edaaf7a446b89fdd3ce750fc1c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235559164
+status: 3
+tags: []
+user_id: Shubham Bhatt

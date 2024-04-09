@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/2c5d1a75b60a447e809e117fb9f6f457/artifacts
+end_time: 1712370156469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c5d1a75b60a447e809e117fb9f6f457
+run_name: useful-pig-800
+run_uuid: 2c5d1a75b60a447e809e117fb9f6f457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370156328
+status: 3
+tags: []
+user_id: Shubham Bhatt

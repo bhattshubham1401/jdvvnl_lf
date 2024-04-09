@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/9e4115b4cdb34d76bcaf69da2c5e2c37/artifacts
+end_time: 1712335178942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e4115b4cdb34d76bcaf69da2c5e2c37
+run_name: crawling-gull-583
+run_uuid: 9e4115b4cdb34d76bcaf69da2c5e2c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335178840
+status: 3
+tags: []
+user_id: Shubham Bhatt

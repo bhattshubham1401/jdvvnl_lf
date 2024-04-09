@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/047ed235a65e45508ba0d0dc1a3df5e3/artifacts
+end_time: 1712370167098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 047ed235a65e45508ba0d0dc1a3df5e3
+run_name: abrasive-shrike-961
+run_uuid: 047ed235a65e45508ba0d0dc1a3df5e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370166813
+status: 3
+tags: []
+user_id: Shubham Bhatt

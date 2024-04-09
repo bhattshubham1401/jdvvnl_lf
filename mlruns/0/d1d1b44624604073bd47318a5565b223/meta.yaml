@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/d1d1b44624604073bd47318a5565b223/artifacts
+end_time: 1712370189049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1d1b44624604073bd47318a5565b223
+run_name: nosy-shrew-242
+run_uuid: d1d1b44624604073bd47318a5565b223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370188836
+status: 3
+tags: []
+user_id: Shubham Bhatt

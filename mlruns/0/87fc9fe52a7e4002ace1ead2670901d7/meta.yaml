@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/87fc9fe52a7e4002ace1ead2670901d7/artifacts
+end_time: 1712370227359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87fc9fe52a7e4002ace1ead2670901d7
+run_name: aged-colt-731
+run_uuid: 87fc9fe52a7e4002ace1ead2670901d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370227219
+status: 3
+tags: []
+user_id: Shubham Bhatt

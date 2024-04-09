@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/47665ce6ab8342e08a03d94c5cfa5dc3/artifacts
+end_time: 1712370211587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47665ce6ab8342e08a03d94c5cfa5dc3
+run_name: languid-snipe-256
+run_uuid: 47665ce6ab8342e08a03d94c5cfa5dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370211447
+status: 3
+tags: []
+user_id: Shubham Bhatt

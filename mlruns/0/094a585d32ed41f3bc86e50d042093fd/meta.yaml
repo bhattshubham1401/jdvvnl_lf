@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/094a585d32ed41f3bc86e50d042093fd/artifacts
+end_time: 1712335167228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 094a585d32ed41f3bc86e50d042093fd
+run_name: unleashed-shark-123
+run_uuid: 094a585d32ed41f3bc86e50d042093fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335167107
+status: 3
+tags: []
+user_id: Shubham Bhatt

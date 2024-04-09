@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/bd7e2c7d16764442b4310b129a4fcab8/artifacts
+end_time: 1712370223040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd7e2c7d16764442b4310b129a4fcab8
+run_name: rumbling-sponge-838
+run_uuid: bd7e2c7d16764442b4310b129a4fcab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370222883
+status: 3
+tags: []
+user_id: Shubham Bhatt

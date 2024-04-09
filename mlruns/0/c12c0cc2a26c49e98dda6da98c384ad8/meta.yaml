@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/c12c0cc2a26c49e98dda6da98c384ad8/artifacts
+end_time: 1712261392545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c12c0cc2a26c49e98dda6da98c384ad8
+run_name: sincere-grub-5
+run_uuid: c12c0cc2a26c49e98dda6da98c384ad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261392460
+status: 3
+tags: []
+user_id: Shubham Bhatt

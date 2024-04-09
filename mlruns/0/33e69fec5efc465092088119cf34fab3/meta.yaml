@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/33e69fec5efc465092088119cf34fab3/artifacts
+end_time: 1712335143947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33e69fec5efc465092088119cf34fab3
+run_name: gaudy-moth-343
+run_uuid: 33e69fec5efc465092088119cf34fab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335143812
+status: 3
+tags: []
+user_id: Shubham Bhatt

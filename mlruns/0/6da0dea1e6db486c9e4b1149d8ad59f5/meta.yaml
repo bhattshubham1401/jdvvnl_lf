@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/6da0dea1e6db486c9e4b1149d8ad59f5/artifacts
+end_time: 1712261398996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6da0dea1e6db486c9e4b1149d8ad59f5
+run_name: flawless-owl-423
+run_uuid: 6da0dea1e6db486c9e4b1149d8ad59f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261398911
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/594723ea12e44a1caf4a82acd5ae8e28/artifacts
+end_time: 1712235526152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 594723ea12e44a1caf4a82acd5ae8e28
+run_name: efficient-rat-630
+run_uuid: 594723ea12e44a1caf4a82acd5ae8e28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235525914
+status: 3
+tags: []
+user_id: Shubham Bhatt

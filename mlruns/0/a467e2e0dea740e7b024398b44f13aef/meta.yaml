@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a467e2e0dea740e7b024398b44f13aef/artifacts
+end_time: 1712370215068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a467e2e0dea740e7b024398b44f13aef
+run_name: masked-panda-382
+run_uuid: a467e2e0dea740e7b024398b44f13aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370214935
+status: 3
+tags: []
+user_id: Shubham Bhatt

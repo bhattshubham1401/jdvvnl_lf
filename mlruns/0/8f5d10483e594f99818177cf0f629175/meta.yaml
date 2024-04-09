@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/8f5d10483e594f99818177cf0f629175/artifacts
+end_time: 1712335175260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f5d10483e594f99818177cf0f629175
+run_name: persistent-doe-385
+run_uuid: 8f5d10483e594f99818177cf0f629175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335175158
+status: 3
+tags: []
+user_id: Shubham Bhatt

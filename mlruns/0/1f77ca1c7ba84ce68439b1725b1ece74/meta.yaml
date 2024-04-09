@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1f77ca1c7ba84ce68439b1725b1ece74/artifacts
+end_time: 1712370240043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f77ca1c7ba84ce68439b1725b1ece74
+run_name: resilient-shad-192
+run_uuid: 1f77ca1c7ba84ce68439b1725b1ece74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370239890
+status: 3
+tags: []
+user_id: Shubham Bhatt

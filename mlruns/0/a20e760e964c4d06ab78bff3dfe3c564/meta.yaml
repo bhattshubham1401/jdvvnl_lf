@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/a20e760e964c4d06ab78bff3dfe3c564/artifacts
+end_time: 1712335166508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a20e760e964c4d06ab78bff3dfe3c564
+run_name: omniscient-yak-495
+run_uuid: a20e760e964c4d06ab78bff3dfe3c564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335166409
+status: 3
+tags: []
+user_id: Shubham Bhatt

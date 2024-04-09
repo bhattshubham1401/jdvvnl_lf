@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/acab56a9241c4578bd951c39d498427a/artifacts
+end_time: 1712335116052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acab56a9241c4578bd951c39d498427a
+run_name: traveling-sheep-659
+run_uuid: acab56a9241c4578bd951c39d498427a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335115916
+status: 3
+tags: []
+user_id: Shubham Bhatt

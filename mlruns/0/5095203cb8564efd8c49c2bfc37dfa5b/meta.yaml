@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5095203cb8564efd8c49c2bfc37dfa5b/artifacts
+end_time: 1712370219117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5095203cb8564efd8c49c2bfc37dfa5b
+run_name: thundering-smelt-583
+run_uuid: 5095203cb8564efd8c49c2bfc37dfa5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370218969
+status: 3
+tags: []
+user_id: Shubham Bhatt

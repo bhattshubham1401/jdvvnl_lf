@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/f3b40af5e83f49c5b4304ca3e45fabf8/artifacts
+end_time: 1712370187375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3b40af5e83f49c5b4304ca3e45fabf8
+run_name: puzzled-bird-742
+run_uuid: f3b40af5e83f49c5b4304ca3e45fabf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370187215
+status: 3
+tags: []
+user_id: Shubham Bhatt

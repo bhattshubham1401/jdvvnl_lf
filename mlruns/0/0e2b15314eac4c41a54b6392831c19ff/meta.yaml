@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/0e2b15314eac4c41a54b6392831c19ff/artifacts
+end_time: 1712235555494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e2b15314eac4c41a54b6392831c19ff
+run_name: adaptable-owl-400
+run_uuid: 0e2b15314eac4c41a54b6392831c19ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235555392
+status: 3
+tags: []
+user_id: Shubham Bhatt

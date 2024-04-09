@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/716fc895f5f8495993434830ca8c5eff/artifacts
+end_time: 1712261397617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 716fc895f5f8495993434830ca8c5eff
+run_name: fearless-colt-901
+run_uuid: 716fc895f5f8495993434830ca8c5eff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261397522
+status: 3
+tags: []
+user_id: Shubham Bhatt

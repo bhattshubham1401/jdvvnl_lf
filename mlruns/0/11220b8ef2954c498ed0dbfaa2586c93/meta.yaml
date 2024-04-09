@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/11220b8ef2954c498ed0dbfaa2586c93/artifacts
+end_time: 1712235559387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11220b8ef2954c498ed0dbfaa2586c93
+run_name: funny-grub-586
+run_uuid: 11220b8ef2954c498ed0dbfaa2586c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235559298
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/1e15b394c46a43fd9cfb76cfcf5d2c09/artifacts
+end_time: 1712235548710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e15b394c46a43fd9cfb76cfcf5d2c09
+run_name: big-shrimp-715
+run_uuid: 1e15b394c46a43fd9cfb76cfcf5d2c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712235548536
+status: 3
+tags: []
+user_id: Shubham Bhatt

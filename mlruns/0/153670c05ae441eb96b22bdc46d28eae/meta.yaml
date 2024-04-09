@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/153670c05ae441eb96b22bdc46d28eae/artifacts
+end_time: 1712370198673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 153670c05ae441eb96b22bdc46d28eae
+run_name: thundering-croc-231
+run_uuid: 153670c05ae441eb96b22bdc46d28eae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370198501
+status: 3
+tags: []
+user_id: Shubham Bhatt

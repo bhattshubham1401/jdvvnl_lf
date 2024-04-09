@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/b436dbd031af4d3f8365a3b72c192433/artifacts
+end_time: 1712261393542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b436dbd031af4d3f8365a3b72c192433
+run_name: adaptable-kite-485
+run_uuid: b436dbd031af4d3f8365a3b72c192433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261393452
+status: 3
+tags: []
+user_id: Shubham Bhatt

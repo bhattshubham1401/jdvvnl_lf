@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/ebcdee3b4e224f98a02d2d9b86513d68/artifacts
+end_time: 1712261405725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebcdee3b4e224f98a02d2d9b86513d68
+run_name: resilient-bass-17
+run_uuid: ebcdee3b4e224f98a02d2d9b86513d68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261405634
+status: 3
+tags: []
+user_id: Shubham Bhatt

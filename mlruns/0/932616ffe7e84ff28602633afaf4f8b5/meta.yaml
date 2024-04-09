@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/932616ffe7e84ff28602633afaf4f8b5/artifacts
+end_time: 1712370191356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 932616ffe7e84ff28602633afaf4f8b5
+run_name: gentle-croc-231
+run_uuid: 932616ffe7e84ff28602633afaf4f8b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370191202
+status: 3
+tags: []
+user_id: Shubham Bhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/5ff2feba9a1d40a1b4f6c3e712d9f1d9/artifacts
+end_time: 1712261401588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ff2feba9a1d40a1b4f6c3e712d9f1d9
+run_name: orderly-shark-976
+run_uuid: 5ff2feba9a1d40a1b4f6c3e712d9f1d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712261401499
+status: 3
+tags: []
+user_id: Shubham Bhatt

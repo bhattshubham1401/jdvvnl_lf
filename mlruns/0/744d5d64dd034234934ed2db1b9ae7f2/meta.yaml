@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/JdVVNL/mlruns/0/744d5d64dd034234934ed2db1b9ae7f2/artifacts
+end_time: 1712370244494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 744d5d64dd034234934ed2db1b9ae7f2
+run_name: skittish-deer-44
+run_uuid: 744d5d64dd034234934ed2db1b9ae7f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712370244320
+status: 3
+tags: []
+user_id: Shubham Bhatt
